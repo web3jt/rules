@@ -16718,6 +16718,7 @@ DOMAIN-SUFFIX,mochajs.org
 DOMAIN-SUFFIX,mochimedia.com
 DOMAIN-SUFFIX,mocloudplus.com
 DOMAIN-SUFFIX,mod-reborn.weebly.com
+DOMAIN-SUFFIX,mod.io
 DOMAIN-SUFFIX,mod.red
 DOMAIN-SUFFIX,mod.run
 DOMAIN-SUFFIX,modelhub.com
