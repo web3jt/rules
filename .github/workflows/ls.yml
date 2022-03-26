@@ -1,9 +1,9 @@
 name: Loyal Soldier
 
 on:
-#  push:
-#    branches:
-#      - main
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: "0 23 * * *"
@@ -27,9 +27,16 @@ jobs:
       - name: Checkout 🛎
         uses: actions/checkout@master
 
-      - name: Clone Dist 🚀
+#      - name: Clone Dist 🚀
+#        run: |
+#          git clone -b ls https://github.com/web3jt/rules.git dist
+
+      - name: Make Dist 🚀
         run: |
-          git clone -b ls https://github.com/web3jt/rules.git dist
+          mkdir ./dist
+          mkdir ./dist/surge
+          mkdir ./dist/surge/domain-set
+          mkdir ./dist/surge/rule-set
 
       - name: Clone Source 🚀🚀
         run: |
