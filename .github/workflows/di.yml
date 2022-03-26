@@ -27,20 +27,20 @@ jobs:
       - name: Checkout 🛎
         uses: actions/checkout@master
 
-#      - name: Clone Dist 🚀
-#        run: |
-#          git clone -b di https://github.com/web3jt/rules.git dist
-
-      - name: Make Dist 🚀
+      - name: Clone Dist 🚀
         run: |
-          mkdir ./dist
-          mkdir ./dist/surge
-          mkdir ./dist/surge/provider
-          mkdir ./dist/surge/provider/media
-          mkdir ./dist/surge/module
-          mkdir ./dist/clash
-          mkdir ./dist/clash/provider
-          mkdir ./dist/clash/provider/media
+          git clone -b di https://github.com/web3jt/rules.git dist
+
+#      - name: Make Dist 🚀
+#        run: |
+#          mkdir ./dist
+#          mkdir ./dist/surge
+#          mkdir ./dist/surge/provider
+#          mkdir ./dist/surge/provider/media
+#          mkdir ./dist/surge/module
+#          mkdir ./dist/clash
+#          mkdir ./dist/clash/provider
+#          mkdir ./dist/clash/provider/media
 
       - name: Clone Source 🚀🚀
         run: |
