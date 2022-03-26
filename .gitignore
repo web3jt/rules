@@ -1,3 +1,17 @@
+# IDE
+.idea
+.vscode
+
+# source
+source
+
+# output
+
+output/*.conf
+
+# config
+config.yaml
+
 # Logs
 logs
 *.log

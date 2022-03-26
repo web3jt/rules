@@ -1,0 +1,48 @@
+name: Loyal Soldier
+
+on:
+#  push:
+#    branches:
+#      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+
+jobs:
+  download:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ ubuntu-latest ]
+        node: [ 14 ]
+
+    steps:
+      - name: Set variables
+        run: |
+          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Checkout 🛎
+        uses: actions/checkout@master
+
+      - name: Clone Dist 🚀
+        run: |
+          git clone -b ls https://github.com/web3jt/rules.git dist
+
+      - name: Clone Source 🚀🚀
+        run: |
+          git clone -b release https://github.com/Loyalsoldier/surge-rules.git source
+
+      - name: Copy Files 🚀🚀🚀
+        run: |
+          cp ./source/*.txt ./dist/surge/domain-set
+          cp ./source/ruleset/*.txt ./dist/surge/rule-set
+
+      - name: Deploy 🚀🚀🚀🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          commit-message: "${{ env.RELEASE_NAME }}"
+          branch: ls
+          folder: dist

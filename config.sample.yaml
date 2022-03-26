@@ -1,0 +1,5 @@
+SURGE_PROVIDER: "https://example.com/subscribe/key?protocols=smart&list=surge"
+CLASH_PROVIDER: "https://example.com/subscribe/key?protocols=smart&list=clash"
+
+SURGE_OUTPUT: "./output/surge.conf"
+CLASH_OUTPUT: "./output/clash.conf"

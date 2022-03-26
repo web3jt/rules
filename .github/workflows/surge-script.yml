@@ -1,0 +1,45 @@
+name: Surge Configuration - Script
+
+on:
+#  push:
+#    branches:
+#      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+
+jobs:
+  download:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ ubuntu-latest ]
+        node: [ 14 ]
+
+    steps:
+      - name: Set variables
+        run: |
+          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Checkout 🛎
+        uses: actions/checkout@master
+
+      - name: Make Dist 🚀
+        run: mkdir ./dist
+
+      - name: Download Files 🚀🚀
+        run: |
+          wget https://cdn.jsdelivr.net/gh/web3jt/rules@surge-script/bilibili_splash.js -O ./dist/bilibili_splash.js
+          wget https://cdn.jsdelivr.net/gh/srk24/profile@master/js/bilibili_splash.js -O ./dist/bilibili_splash.js
+          wget https://cdn.jsdelivr.net/gh/web3jt/rules@surge-script/TF_Download.js -O ./dist/TF_Download.js
+          wget https://gist.githubusercontent.com/NobyDa/9be418b93afc5e9c8a8f4d28ae403cf2/raw/TF_Download.js -O ./dist/TF_Download.js
+
+      - name: Deploy 🚀🚀🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          commit-message: "${{ env.RELEASE_NAME }}"
+          branch: surge-script
+          folder: dist

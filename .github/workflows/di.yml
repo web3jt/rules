@@ -1,0 +1,51 @@
+name: Dler CLoud
+
+on:
+#  push:
+#    branches:
+#      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * *"
+
+jobs:
+  download:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ ubuntu-latest ]
+        node: [ 14 ]
+
+    steps:
+      - name: Set variables
+        run: |
+          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Checkout 🛎
+        uses: actions/checkout@master
+
+      - name: Clone Dist 🚀
+        run: |
+          git clone -b di https://github.com/web3jt/rules.git dist
+
+      - name: Clone Source 🚀🚀
+        run: |
+          git clone -b main https://github.com/dler-io/Rules.git source
+
+      - name: Copy Files 🚀🚀🚀
+        run: |
+          cp ./source/Surge/Surge\ 3/Provider/*.list ./dist/surge/provider
+          cp ./source/Surge/Surge\ 3/Provider/Media/*.list ./dist/surge/provider/media
+          cp ./source/Surge/Surge\ 3/Module/*.sgmodule ./dist/surge/module
+          cp ./source/Clash/Provider/*.yaml ./dist/clash/provider
+          cp ./source/Clash/Provider/Media/*.yaml ./dist/clash/provider/media
+
+      - name: Deploy 🚀🚀🚀🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          commit-message: "${{ env.RELEASE_NAME }}"
+          branch: di
+          folder: dist

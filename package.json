@@ -1,0 +1,12 @@
+{
+  "name": "rules",
+  "version": "1.0.0",
+  "main": "surge.js",
+  "repository": "git@hyper:web3jt/rules.git",
+  "author": "John Torres",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "yaml": "^1.10.2"
+  }
+}
