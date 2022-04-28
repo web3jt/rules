@@ -1,0 +1,36 @@
+name: JT
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ ubuntu-latest ]
+        node: [ 14 ]
+
+    steps:
+      - name: Set variables
+        run: |
+          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Checkout 🛎
+        uses: actions/checkout@master
+
+      - name: Rename Dist 🚀🚀🚀
+        run: mv custimize dist
+
+      - name: Deploy 🚀🚀🚀🚀
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        with:
+          commit-message: "${{ env.RELEASE_NAME }}"
+          branch: jt
+          folder: dist
