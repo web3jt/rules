@@ -29,7 +29,7 @@ jobs:
         run: mv custimize dist
 
       - name: Deploy 🚀🚀🚀🚀
-        uses: JamesIves/github-pages-deploy-action@v4.3.3
+        uses: JamesIves/github-pages-deploy-action@v4.3.4
         with:
           commit-message: "${{ env.RELEASE_NAME }}"
           branch: jt
