@@ -4454,6 +4454,7 @@ DOMAIN-SUFFIX,aurateur.com
 DOMAIN-SUFFIX,auricularemonsterbeats.com
 DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
 DOMAIN-SUFFIX,auricularesbeatsmarkt.com
+DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
 DOMAIN-SUFFIX,ausnz.net
 DOMAIN-SUFFIX,ausnznet.com
@@ -7996,6 +7997,9 @@ DOMAIN-SUFFIX,colbertlateshow.com
 DOMAIN-SUFFIX,colegialasdeverdad.com
 DOMAIN-SUFFIX,colegialasreales.com
 DOMAIN-SUFFIX,colgate.com
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com
 DOMAIN-SUFFIX,collaboration.iec.ch
 DOMAIN-SUFFIX,collateralmurder.com
 DOMAIN-SUFFIX,collateralmurder.org
@@ -9276,6 +9280,7 @@ DOMAIN-SUFFIX,dnsweb.xyz
 DOMAIN-SUFFIX,dnswho.xyz
 DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,do-essential-oils.com
+DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,do25.gq
 DOMAIN-SUFFIX,dobbyporn.com
 DOMAIN-SUFFIX,doc.trolltech.com
@@ -17186,7 +17191,6 @@ DOMAIN-SUFFIX,m.comicat.org
 DOMAIN-SUFFIX,m.cscp.me
 DOMAIN-SUFFIX,m.df08aaaaa.com
 DOMAIN-SUFFIX,m.dj0020.com
-DOMAIN-SUFFIX,m.do.co
 DOMAIN-SUFFIX,m.dvd99.xyz
 DOMAIN-SUFFIX,m.dy9907.com
 DOMAIN-SUFFIX,m.dzcp8999.com
@@ -32477,6 +32481,7 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ying168.com
 DOMAIN-SUFFIX,yingeli.net
 DOMAIN-SUFFIX,yingmang.com
+DOMAIN-SUFFIX,yingpianqu.com
 DOMAIN-SUFFIX,yingsuoss.com
 DOMAIN-SUFFIX,yinhehyvip.com
 DOMAIN-SUFFIX,yinlei.org
