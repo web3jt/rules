@@ -3926,6 +3926,7 @@ DOMAIN-SUFFIX,passiontimes.hk
 DOMAIN-SUFFIX,paste.ee
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,pastie.org
+DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pbwiki.com
