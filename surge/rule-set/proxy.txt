@@ -11145,6 +11145,7 @@ DOMAIN-SUFFIX,fesebook.com
 DOMAIN-SUFFIX,festinhasbrasil.com
 DOMAIN-SUFFIX,fetish-bb.com
 DOMAIN-SUFFIX,fetishbank.net
+DOMAIN-SUFFIX,fetishdreamz.com
 DOMAIN-SUFFIX,fetishfishcams.com
 DOMAIN-SUFFIX,fetishpapa.com
 DOMAIN-SUFFIX,fetishpornfilms.com
@@ -20208,6 +20209,7 @@ DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,openvpn.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openvpn.org
+DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,openweave.io
 DOMAIN-SUFFIX,openwebster.com
 DOMAIN-SUFFIX,openwrt.org
@@ -26287,6 +26289,7 @@ DOMAIN-SUFFIX,universitypressscholarship.com
 DOMAIN-SUFFIX,unix100.com
 DOMAIN-SUFFIX,unknownproxy.com
 DOMAIN-SUFFIX,unknownspace.org
+DOMAIN-SUFFIX,unkoscene.com
 DOMAIN-SUFFIX,unlocator.com
 DOMAIN-SUFFIX,unlock-iceland.com
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
