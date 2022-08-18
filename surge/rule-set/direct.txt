@@ -15187,6 +15187,7 @@ DOMAIN-SUFFIX,chongwujiaoyi.com
 DOMAIN-SUFFIX,chongwuxiang.com
 DOMAIN-SUFFIX,chongya.com
 DOMAIN-SUFFIX,chongyacdn.com
+DOMAIN-SUFFIX,chongyejia.com
 DOMAIN-SUFFIX,chongyitang.org
 DOMAIN-SUFFIX,chongzhi.com
 DOMAIN-SUFFIX,chonka.com
@@ -22980,6 +22981,7 @@ DOMAIN-SUFFIX,fodang.org
 DOMAIN-SUFFIX,fodian.net
 DOMAIN-SUFFIX,fodlab.com
 DOMAIN-SUFFIX,fodoco.com
+DOMAIN-SUFFIX,fofa.info
 DOMAIN-SUFFIX,foguanghui.org
 DOMAIN-SUFFIX,fokan88.com
 DOMAIN-SUFFIX,folieyun.com
@@ -31478,6 +31480,7 @@ DOMAIN-SUFFIX,iyishengyuan.com
 DOMAIN-SUFFIX,iyiyun.com
 DOMAIN-SUFFIX,iyocloud.com
 DOMAIN-SUFFIX,iyong.com
+DOMAIN-SUFFIX,iyongpdf.com
 DOMAIN-SUFFIX,iyooread.com
 DOMAIN-SUFFIX,iyoowi.com
 DOMAIN-SUFFIX,iyoucai.com
@@ -37551,6 +37554,7 @@ DOMAIN-SUFFIX,lpcheng.com
 DOMAIN-SUFFIX,lpetl.com
 DOMAIN-SUFFIX,lpllol.com
 DOMAIN-SUFFIX,lply.net
+DOMAIN-SUFFIX,lppoll.com
 DOMAIN-SUFFIX,lppz.com
 DOMAIN-SUFFIX,lpq1688.com
 DOMAIN-SUFFIX,lprcx.com
@@ -40794,6 +40798,7 @@ DOMAIN-SUFFIX,n21.cc
 DOMAIN-SUFFIX,n3293.com
 DOMAIN-SUFFIX,n3ko.co
 DOMAIN-SUFFIX,n3sd.com
+DOMAIN-SUFFIX,n4115.com
 DOMAIN-SUFFIX,n423.com
 DOMAIN-SUFFIX,n459.com
 DOMAIN-SUFFIX,n5878.com
@@ -45099,7 +45104,6 @@ DOMAIN-SUFFIX,qjmotor.com
 DOMAIN-SUFFIX,qjrc.com
 DOMAIN-SUFFIX,qjren.com
 DOMAIN-SUFFIX,qjsb88.com
-DOMAIN-SUFFIX,qjshe.com
 DOMAIN-SUFFIX,qjsmartech.com
 DOMAIN-SUFFIX,qjtrip.com
 DOMAIN-SUFFIX,qjwhzs.com
