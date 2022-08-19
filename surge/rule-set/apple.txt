@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,pancake.apple.com
@@ -97,6 +98,7 @@ DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
 DOMAIN-SUFFIX,reserve-prime.apple.com
 DOMAIN-SUFFIX,s.mzstatic.com
 DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,stocks-sparkline.apple.com
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,store.apple.com
