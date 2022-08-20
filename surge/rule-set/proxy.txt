@@ -5578,6 +5578,9 @@ DOMAIN-SUFFIX,bigtopsites.com
 DOMAIN-SUFFIX,biguz.net
 DOMAIN-SUFFIX,biitii.com
 DOMAIN-SUFFIX,bijakids.com
+DOMAIN-SUFFIX,bikaa.xyz
+DOMAIN-SUFFIX,bikac.xyz
+DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,bilibili230.com
 DOMAIN-SUFFIX,bilibili301.xyz
 DOMAIN-SUFFIX,bilibili306.xyz
@@ -20939,7 +20942,10 @@ DOMAIN-SUFFIX,pianku.me
 DOMAIN-SUFFIX,pianopiano.pt
 DOMAIN-SUFFIX,piavpn.com
 DOMAIN-SUFFIX,pic5.pixclub.net
+DOMAIN-SUFFIX,picacg2022.com
+DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,picacomiccn.com
 DOMAIN-SUFFIX,picasa.com
 DOMAIN-SUFFIX,picasaweb.com
@@ -27759,6 +27765,7 @@ DOMAIN-SUFFIX,wiisportsresort.com
 DOMAIN-SUFFIX,wiiugamepad.com
 DOMAIN-SUFFIX,wiivc.net
 DOMAIN-SUFFIX,wikaba.com
+DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wiki.cnitter.com
 DOMAIN-SUFFIX,wiki.esu.im
 DOMAIN-SUFFIX,wiki.moegirl.org

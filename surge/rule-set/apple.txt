@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,cdn4.apple-mapkit.com
 DOMAIN-SUFFIX,cds-cdn.v.aaplimg.com
 DOMAIN-SUFFIX,cds.apple.com.akadns.net
 DOMAIN-SUFFIX,cds.apple.com
+DOMAIN-SUFFIX,cdsassets.apple.com
 DOMAIN-SUFFIX,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,cl1.apple.com
 DOMAIN-SUFFIX,cl2-cn.apple.com
@@ -68,6 +69,7 @@ DOMAIN-SUFFIX,init-p01st.push.apple.com
 DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init-s01st.push.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
+DOMAIN-SUFFIX,ipcdn.apple.com
 DOMAIN-SUFFIX,iphone-ld.apple.com
 DOMAIN-SUFFIX,is1-ssl.mzstatic.com
 DOMAIN-SUFFIX,is1.mzstatic.com
@@ -95,8 +97,10 @@ DOMAIN-SUFFIX,pancake.apple.com
 DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
+DOMAIN-SUFFIX,publicassets.cdn-apple.com
 DOMAIN-SUFFIX,reserve-prime.apple.com
 DOMAIN-SUFFIX,s.mzstatic.com
+DOMAIN-SUFFIX,smp-device-content.apple.com
 DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,stocks-sparkline.apple.com
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
