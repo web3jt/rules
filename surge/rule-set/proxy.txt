@@ -3199,6 +3199,7 @@ DOMAIN-SUFFIX,aetna
 DOMAIN-SUFFIX,aetoscg.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,af
+DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com
 DOMAIN-SUFFIX,afamilycompany
 DOMAIN-SUFFIX,afantibbs.com
 DOMAIN-SUFFIX,afcp01.com
@@ -3917,6 +3918,9 @@ DOMAIN-SUFFIX,aopshc.com
 DOMAIN-SUFFIX,aorus.com
 DOMAIN-SUFFIX,aosintegrity.com
 DOMAIN-SUFFIX,aouwe.com
+DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com
+DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com
 DOMAIN-SUFFIX,ap.org
 DOMAIN-SUFFIX,ap0le.com
 DOMAIN-SUFFIX,ap5.ragic.com
@@ -10456,6 +10460,7 @@ DOMAIN-SUFFIX,etwealth.com
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,eu-ssa.org
+DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,eu49.com
 DOMAIN-SUFFIX,eubluecardvisa.com
@@ -12423,6 +12428,7 @@ DOMAIN-SUFFIX,geinoueroch.com
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,gelbooru.me
+DOMAIN-SUFFIX,gelbooru.wjcodes.com
 DOMAIN-SUFFIX,gemfire.net
 DOMAIN-SUFFIX,gemfury.com
 DOMAIN-SUFFIX,genashtim.com
@@ -13583,7 +13589,9 @@ DOMAIN-SUFFIX,hentai2012.com
 DOMAIN-SUFFIX,hentai247.net
 DOMAIN-SUFFIX,hentai2read.com
 DOMAIN-SUFFIX,hentai2w.com
+DOMAIN-SUFFIX,hentai44.com
 DOMAIN-SUFFIX,hentai4manga.com
+DOMAIN-SUFFIX,hentai69.online
 DOMAIN-SUFFIX,hentaiaction.net
 DOMAIN-SUFFIX,hentaiathome.net
 DOMAIN-SUFFIX,hentaibar.com
@@ -14338,6 +14346,8 @@ DOMAIN-SUFFIX,huarian.com
 DOMAIN-SUFFIX,huashangnews.com
 DOMAIN-SUFFIX,huashimedia.site40.net
 DOMAIN-SUFFIX,huashundg.com
+DOMAIN-SUFFIX,huaweicloud-dns.net
+DOMAIN-SUFFIX,huaweicloud-dns.org
 DOMAIN-SUFFIX,huaxia-news.com
 DOMAIN-SUFFIX,huaxiabao.org
 DOMAIN-SUFFIX,huayanjiyu.com
@@ -16357,6 +16367,7 @@ DOMAIN-SUFFIX,kompoz2.com
 DOMAIN-SUFFIX,kompozer.net
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
+DOMAIN-SUFFIX,konachan.wjcodes.com
 DOMAIN-SUFFIX,konami
 DOMAIN-SUFFIX,kone
 DOMAIN-SUFFIX,kone.com
@@ -16502,6 +16513,8 @@ DOMAIN-SUFFIX,kzqzb.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net
 DOMAIN-SUFFIX,la-forum.org
+DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com
+DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX,la4065.com
 DOMAIN-SUFFIX,lab.gracecode.com
 DOMAIN-SUFFIX,lab.skk.moe
@@ -19074,6 +19087,7 @@ DOMAIN-SUFFIX,n8photos.com
 DOMAIN-SUFFIX,n9919.com
 DOMAIN-SUFFIX,na
 DOMAIN-SUFFIX,na-att-idns.net
+DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com
 DOMAIN-SUFFIX,na.kalone.net
 DOMAIN-SUFFIX,naacoalition.org
 DOMAIN-SUFFIX,nab
@@ -19808,6 +19822,7 @@ DOMAIN-SUFFIX,ns5240.com
 DOMAIN-SUFFIX,nsat.collegeboard.org
 DOMAIN-SUFFIX,nsfw.xxx
 DOMAIN-SUFFIX,nsfwgifs.com
+DOMAIN-SUFFIX,nsfwmemes.com
 DOMAIN-SUFFIX,nsimg.net
 DOMAIN-SUFFIX,nstagram.com
 DOMAIN-SUFFIX,ntc.party
@@ -20321,6 +20336,7 @@ DOMAIN-SUFFIX,orsm.net
 DOMAIN-SUFFIX,ortsbo.com
 DOMAIN-SUFFIX,orxtv.com
 DOMAIN-SUFFIX,orzistic.org
+DOMAIN-SUFFIX,orzqwq.com
 DOMAIN-SUFFIX,osaka
 DOMAIN-SUFFIX,osakamotion.net
 DOMAIN-SUFFIX,osapublishing.org
@@ -22654,6 +22670,7 @@ DOMAIN-SUFFIX,rts.ch
 DOMAIN-SUFFIX,rtsinfo.ch
 DOMAIN-SUFFIX,rtycminnesota.org
 DOMAIN-SUFFIX,ru
+DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com
 DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,rubias19.com
 DOMAIN-SUFFIX,rubixfxasia.com
@@ -22758,6 +22775,7 @@ DOMAIN-SUFFIX,s8forum.com
 DOMAIN-SUFFIX,s99bet.com
 DOMAIN-SUFFIX,s99bet.net
 DOMAIN-SUFFIX,sa
+DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com
 DOMAIN-SUFFIX,sa.hao123.com
 DOMAIN-SUFFIX,saalt.org
 DOMAIN-SUFFIX,saarland
@@ -23118,6 +23136,7 @@ DOMAIN-SUFFIX,sendvid.com
 DOMAIN-SUFFIX,seneporno.com
 DOMAIN-SUFFIX,sener
 DOMAIN-SUFFIX,seniorexpress.org
+DOMAIN-SUFFIX,senpaiheat.com
 DOMAIN-SUFFIX,sensolnet.com
 DOMAIN-SUFFIX,sensortower.com
 DOMAIN-SUFFIX,sensorynetworks.com
@@ -26884,6 +26903,7 @@ DOMAIN-SUFFIX,vipjs9900.com
 DOMAIN-SUFFIX,vipletou.com
 DOMAIN-SUFFIX,vipshoes2.com
 DOMAIN-SUFFIX,vipstudiocali.com
+DOMAIN-SUFFIX,viralcum.com
 DOMAIN-SUFFIX,viralporn.com
 DOMAIN-SUFFIX,virbuzz.com
 DOMAIN-SUFFIX,virgin
