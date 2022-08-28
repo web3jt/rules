@@ -110,6 +110,7 @@ DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
 DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
 DOMAIN-SUFFIX,support-china.apple-support.akadns.net
 DOMAIN-SUFFIX,support.apple.com
+DOMAIN-SUFFIX,swallow.apple.com
 DOMAIN-SUFFIX,swcatalog-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,swcatalog.apple.com
 DOMAIN-SUFFIX,swcdn.apple.com
