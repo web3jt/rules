@@ -22045,6 +22045,7 @@ DOMAIN-SUFFIX,qpoe.com
 DOMAIN-SUFFIX,qporno.com
 DOMAIN-SUFFIX,qporno.xxx
 DOMAIN-SUFFIX,qprize.com
+DOMAIN-SUFFIX,qq.design
 DOMAIN-SUFFIX,qq2018.com
 DOMAIN-SUFFIX,qq31666.com
 DOMAIN-SUFFIX,qq404.cf
@@ -25003,6 +25004,8 @@ DOMAIN-SUFFIX,tenacy.com
 DOMAIN-SUFFIX,tenacy.home.kg
 DOMAIN-SUFFIX,tenacy.link
 DOMAIN-SUFFIX,tenbyfotolia.com
+DOMAIN-SUFFIX,tencent.co.id
+DOMAIN-SUFFIX,tencent.design
 DOMAIN-SUFFIX,tengbo9885.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
