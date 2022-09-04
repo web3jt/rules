@@ -126,6 +126,7 @@ DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,push-apple.com.akadns.net
+DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,qualcomm.sc.omtrdc.net
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rtm.tnt-ea.com
@@ -221,6 +222,7 @@ DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,t21.nikkei.co.jp
 DOMAIN,t21ipau.nikkei.co.jp
 DOMAIN,tesla-cdn.thron.com
+DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN,ubistatic3-a.akamaihd.net
