@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,a4.mzstatic.com
 DOMAIN-SUFFIX,a5.mzstatic.com
 DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
 DOMAIN-SUFFIX,adcdownload.apple.com
+DOMAIN-SUFFIX,app-site-association.cdn-apple.com
 DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
 DOMAIN-SUFFIX,appleid.cdn-apple.com
@@ -39,6 +40,7 @@ DOMAIN-SUFFIX,clientflow.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,cstat.apple.com
+DOMAIN-SUFFIX,cstat.cdn-apple.com
 DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,download.developer.apple.com
 DOMAIN-SUFFIX,gs-loc-cn.apple.com
