@@ -1551,6 +1551,7 @@ DOMAIN-SUFFIX,4channel.org
 DOMAIN-SUFFIX,4club.com
 DOMAIN-SUFFIX,4dq.com
 DOMAIN-SUFFIX,4ebaytraders.com
+DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,4everproxy.com
 DOMAIN-SUFFIX,4freeproxy.com
 DOMAIN-SUFFIX,4gtv.tv
@@ -4623,6 +4624,7 @@ DOMAIN-SUFFIX,awabo.com
 DOMAIN-SUFFIX,awayoutgame.com
 DOMAIN-SUFFIX,awc7.com
 DOMAIN-SUFFIX,aweencore.com
+DOMAIN-SUFFIX,awempire.com
 DOMAIN-SUFFIX,awetv.com
 DOMAIN-SUFFIX,awflapp.top
 DOMAIN-SUFFIX,awk.so
@@ -5811,6 +5813,7 @@ DOMAIN-SUFFIX,blm898.com
 DOMAIN-SUFFIX,blmdc7.com
 DOMAIN-SUFFIX,blockbuster
 DOMAIN-SUFFIX,blockbuster.com
+DOMAIN-SUFFIX,blockcast.it
 DOMAIN-SUFFIX,blockcn.com
 DOMAIN-SUFFIX,blockedbyhk.com
 DOMAIN-SUFFIX,blockedinchina.net
@@ -6845,6 +6848,7 @@ DOMAIN-SUFFIX,c3285.app
 DOMAIN-SUFFIX,c3344.com
 DOMAIN-SUFFIX,c3j.fun
 DOMAIN-SUFFIX,c4288.com
+DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,c4story.com
 DOMAIN-SUFFIX,c4v6d7v3.stackpathcdn.com
 DOMAIN-SUFFIX,c5007.com
@@ -7339,6 +7343,7 @@ DOMAIN-SUFFIX,certificate.revocationcheck.com
 DOMAIN-SUFFIX,cervetoria.pt
 DOMAIN-SUFFIX,cevin.me
 DOMAIN-SUFFIX,cex.io
+DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf7.com
 DOMAIN-SUFFIX,cf78.cc
 DOMAIN-SUFFIX,cf79.cc
@@ -7573,7 +7578,6 @@ DOMAIN-SUFFIX,chinasmile.net
 DOMAIN-SUFFIX,chinasocialdemocraticparty.com
 DOMAIN-SUFFIX,chinasoul.org
 DOMAIN-SUFFIX,chinasucks.net
-DOMAIN-SUFFIX,chinatalk.substack.com
 DOMAIN-SUFFIX,chinatibettrain.com
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,chinatopsex.com
@@ -7613,7 +7617,6 @@ DOMAIN-SUFFIX,chineseposters.net
 DOMAIN-SUFFIX,chineseradiony.com
 DOMAIN-SUFFIX,chineseradioseattle.com
 DOMAIN-SUFFIX,chinesespanking.com
-DOMAIN-SUFFIX,chinesestorytellers.substack.com
 DOMAIN-SUFFIX,chinesetalks.net
 DOMAIN-SUFFIX,chineseupress.com
 DOMAIN-SUFFIX,chingcheong.com
@@ -8329,6 +8332,7 @@ DOMAIN-SUFFIX,crs
 DOMAIN-SUFFIX,crucial.com
 DOMAIN-SUFFIX,cruisecritic.com
 DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,crv2000.com
 DOMAIN-SUFFIX,cryptocat.com
 DOMAIN-SUFFIX,cryptocert.org
@@ -9364,6 +9368,8 @@ DOMAIN-SUFFIX,doceapower.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerizer.com
+DOMAIN-SUFFIX,docleradn.com
+DOMAIN-SUFFIX,doclercdn.com
 DOMAIN-SUFFIX,docomo
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,docs.rs
@@ -10081,7 +10087,6 @@ DOMAIN-SUFFIX,edubridge.com
 DOMAIN-SUFFIX,edupro.org
 DOMAIN-SUFFIX,eduvpn.com
 DOMAIN-SUFFIX,edwardsalem.com
-DOMAIN-SUFFIX,edwardsnowden.substack.com
 DOMAIN-SUFFIX,edwingomez.com
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,edx.org
@@ -12283,6 +12288,7 @@ DOMAIN-SUFFIX,gatecoin.com
 DOMAIN-SUFFIX,gateway.dev
 DOMAIN-SUFFIX,gateway.jb88app.com
 DOMAIN-SUFFIX,gateway.jbo25.com
+DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,gateway.tlc801.com
 DOMAIN-SUFFIX,gatewayus.com
 DOMAIN-SUFFIX,gather.com
@@ -14489,7 +14495,6 @@ DOMAIN-SUFFIX,hyc1324.xyz
 DOMAIN-SUFFIX,hychot4.xyz
 DOMAIN-SUFFIX,hyper.co
 DOMAIN-SUFFIX,hyper.is
-DOMAIN-SUFFIX,hyperbolea.substack.com
 DOMAIN-SUFFIX,hyperrate.com
 DOMAIN-SUFFIX,hyperscan.io
 DOMAIN-SUFFIX,hypnohub.net
@@ -15202,8 +15207,15 @@ DOMAIN-SUFFIX,ipchanging.com
 DOMAIN-SUFFIX,ipconceal.com
 DOMAIN-SUFFIX,ipdisguiser.com
 DOMAIN-SUFFIX,ipfire.org
+DOMAIN-SUFFIX,ipfs-gateway.cloud
+DOMAIN-SUFFIX,ipfs.anonymize.com
+DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN-SUFFIX,ipfs.eth.aragon.network
+DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,ipfs.infura.io
 DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,ipfs.runfission.com
 DOMAIN-SUFFIX,ipfs.smartsignature.io
 DOMAIN-SUFFIX,ipge.com
 DOMAIN-SUFFIX,ipgphotonics.box.com
@@ -15254,6 +15266,7 @@ DOMAIN-SUFFIX,ipjetable.net
 DOMAIN-SUFFIX,ipjlvpn.com
 DOMAIN-SUFFIX,ipleadership.org
 DOMAIN-SUFFIX,iplogger.org
+DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,ipo-90.maaii.com
 DOMAIN-SUFFIX,ipobar.com
 DOMAIN-SUFFIX,ipod.ch
@@ -15494,7 +15507,6 @@ DOMAIN-SUFFIX,iyb88.com
 DOMAIN-SUFFIX,iyottube.com
 DOMAIN-SUFFIX,iyouport.com
 DOMAIN-SUFFIX,iyouport.org
-DOMAIN-SUFFIX,iyouport.substack.com
 DOMAIN-SUFFIX,iyoutube.com
 DOMAIN-SUFFIX,iysse.com
 DOMAIN-SUFFIX,izegemkoers.be
@@ -15962,6 +15974,7 @@ DOMAIN-SUFFIX,jonimitchell.com
 DOMAIN-SUFFIX,jonward.com
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,jorn.net
+DOMAIN-SUFFIX,jorropo.net
 DOMAIN-SUFFIX,jos.com
 DOMAIN-SUFFIX,joshuarue.com
 DOMAIN-SUFFIX,jotform.com
@@ -16921,13 +16934,13 @@ DOMAIN-SUFFIX,libo15.com
 DOMAIN-SUFFIX,liboggirls.net
 DOMAIN-SUFFIX,library.pressdisplay.com
 DOMAIN-SUFFIX,librarylovefest.com
+DOMAIN-SUFFIX,libredd.it
 DOMAIN-SUFFIX,libreswan.org
 DOMAIN-SUFFIX,libsolutions.app
 DOMAIN-SUFFIX,libsolutions.domains
 DOMAIN-SUFFIX,libsolutions.net
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,licensebuttons.net
-DOMAIN-SUFFIX,lidecheng.com
 DOMAIN-SUFFIX,lidl
 DOMAIN-SUFFIX,liecut.net
 DOMAIN-SUFFIX,life-global.org
@@ -17143,6 +17156,7 @@ DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitechg.com
 DOMAIN-SUFFIX,logular.com
 DOMAIN-SUFFIX,loholidayhk.com
+DOMAIN-SUFFIX,lokinet.org
 DOMAIN-SUFFIX,lol-europe.com
 DOMAIN-SUFFIX,lolclub.org
 DOMAIN-SUFFIX,lolespor.com
@@ -17994,6 +18008,7 @@ DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,met-art.com
 DOMAIN-SUFFIX,met-nude.com
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,metacpan.org
@@ -19475,6 +19490,7 @@ DOMAIN-SUFFIX,nfoxo.com
 DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,nfscdict.com
 DOMAIN-SUFFIX,nfsworld.com
+DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,ng
 DOMAIN-SUFFIX,ngan.ml
 DOMAIN-SUFFIX,ngdproject.com
@@ -20348,6 +20364,7 @@ DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,orange
+DOMAIN-SUFFIX,oranum.com
 DOMAIN-SUFFIX,orbitera.com
 DOMAIN-SUFFIX,orchid.com
 DOMAIN-SUFFIX,order.shadowsocks.ch
@@ -24511,6 +24528,7 @@ DOMAIN-SUFFIX,submit.jotformz.com
 DOMAIN-SUFFIX,submityourflicks.com
 DOMAIN-SUFFIX,submityourtapes.com
 DOMAIN-SUFFIX,subscene.com
+DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,successfn.com
 DOMAIN-SUFFIX,successwithteams.com
 DOMAIN-SUFFIX,suche.gmx.net
@@ -26836,6 +26854,7 @@ DOMAIN-SUFFIX,vhxqa3.com
 DOMAIN-SUFFIX,vhxqa4.com
 DOMAIN-SUFFIX,vhxqa6.com
 DOMAIN-SUFFIX,vi
+DOMAIN-SUFFIX,via0.com
 DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,viacomcbs.com
@@ -32824,7 +32843,6 @@ DOMAIN-SUFFIX,yinmh.com
 DOMAIN-SUFFIX,yippy.com
 DOMAIN-SUFFIX,yipub.com
 DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org
-DOMAIN-SUFFIX,yisay.substack.com
 DOMAIN-SUFFIX,yivarlden.com
 DOMAIN-SUFFIX,yiyechat.com
 DOMAIN-SUFFIX,yiyuanjy.w185-e0.ezwebtest.com
