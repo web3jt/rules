@@ -4020,7 +4020,6 @@ DOMAIN-SUFFIX,app.evozi.com
 DOMAIN-SUFFIX,app.simplenote.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
 DOMAIN-SUFFIX,app.staging.nuorder.com
-DOMAIN-SUFFIX,app.uniswap.org
 DOMAIN-SUFFIX,app.vsight.io
 DOMAIN-SUFFIX,app.xmx-134-1.com
 DOMAIN-SUFFIX,app0le.com
@@ -7268,7 +7267,6 @@ DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,cdn-main.plus500.com
 DOMAIN-SUFFIX,cdn-terapeak.com
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
-DOMAIN-SUFFIX,cdn.cms-twdigitalassets.com
 DOMAIN-SUFFIX,cdn.hkwesi22222.xyz
 DOMAIN-SUFFIX,cdn.mobileread.com
 DOMAIN-SUFFIX,cdn.plus500.com
@@ -7905,6 +7903,7 @@ DOMAIN-SUFFIX,cmeimei.top
 DOMAIN-SUFFIX,cmhalq.com
 DOMAIN-SUFFIX,cmi.vpncompany.com
 DOMAIN-SUFFIX,cmpaas.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,cms.korea.net
 DOMAIN-SUFFIX,cmsc106.net
 DOMAIN-SUFFIX,cmule.com
@@ -8052,6 +8051,7 @@ DOMAIN-SUFFIX,coinegg.com
 DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coingi.com
+DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coinonecore.com
 DOMAIN-SUFFIX,coinonecorp.com
@@ -8338,6 +8338,7 @@ DOMAIN-SUFFIX,crv2000.com
 DOMAIN-SUFFIX,cryptocat.com
 DOMAIN-SUFFIX,cryptocert.org
 DOMAIN-SUFFIX,cryptocoinsnews.com
+DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,cryptocurrencytalk.com
 DOMAIN-SUFFIX,cryptomeans.co
 DOMAIN-SUFFIX,cryptorarium.com
@@ -8870,6 +8871,7 @@ DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,dearelder.com
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,deathbychina.com
+DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,debate.org
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,debug.com
@@ -14967,6 +14969,7 @@ DOMAIN-SUFFIX,infotmj.com
 DOMAIN-SUFFIX,infowars.com
 DOMAIN-SUFFIX,infowarsmedia.com
 DOMAIN-SUFFIX,infrapedia.com
+DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,infy
 DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,ingarden.pt
@@ -15214,7 +15217,6 @@ DOMAIN-SUFFIX,ipfs.anonymize.com
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,ipfs.fleek.co
-DOMAIN-SUFFIX,ipfs.infura.io
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,ipfs.runfission.com
@@ -19097,6 +19099,7 @@ DOMAIN-SUFFIX,mythicentertainment.com
 DOMAIN-SUFFIX,mythicentertainment.net
 DOMAIN-SUFFIX,mythicgames.com
 DOMAIN-SUFFIX,mytizi.com
+DOMAIN-SUFFIX,mytokenapi.com
 DOMAIN-SUFFIX,mytubeweb.com
 DOMAIN-SUFFIX,mytving.com
 DOMAIN-SUFFIX,mytvsuper.com
@@ -25845,6 +25848,7 @@ DOMAIN-SUFFIX,trueamateurs.com
 DOMAIN-SUFFIX,trueanal.com
 DOMAIN-SUFFIX,truebuddha-md.org
 DOMAIN-SUFFIX,truedepth3d.com
+DOMAIN-SUFFIX,truefi.io
 DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,trust-provider.com
 DOMAIN-SUFFIX,trust.zone
@@ -26191,8 +26195,10 @@ DOMAIN-SUFFIX,twittbot.net
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.org
 DOMAIN-SUFFIX,twitter4j.org
+DOMAIN-SUFFIX,twittercommunity.com
 DOMAIN-SUFFIX,twittercounter.com
 DOMAIN-SUFFIX,twitterfeed.com
+DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twittergadget.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitterkr.com
@@ -26442,6 +26448,7 @@ DOMAIN-SUFFIX,unicorn
 DOMAIN-SUFFIX,unification.net
 DOMAIN-SUFFIX,uninhibitedcomix.com
 DOMAIN-SUFFIX,unirule.cloud
+DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,unite4tibet.org
 DOMAIN-SUFFIX,unitedsocialpress.com
 DOMAIN-SUFFIX,unitefortibet.org
