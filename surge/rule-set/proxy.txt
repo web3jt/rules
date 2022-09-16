@@ -47,6 +47,7 @@ DOMAIN,csis-prod.s3.amazonaws.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,d33wubrfki0l68.cloudfront.net
 DOMAIN,databank.worldbank.org
 DOMAIN,database.asahi.com
 DOMAIN,default.exp-tas.com
@@ -7262,6 +7263,7 @@ DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
 DOMAIN-SUFFIX,cdkworkshop.com
+DOMAIN-SUFFIX,cdmatech.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,cdn-main.plus500.com
@@ -8812,6 +8814,7 @@ DOMAIN-SUFFIX,dc9966.com
 DOMAIN-SUFFIX,dc9977.com
 DOMAIN-SUFFIX,dcard.cc
 DOMAIN-SUFFIX,dcard.io
+DOMAIN-SUFFIX,dcard.link
 DOMAIN-SUFFIX,dcdbjkjn.fzgyh.com
 DOMAIN-SUFFIX,dchome.net
 DOMAIN-SUFFIX,dclk
@@ -19341,7 +19344,9 @@ DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixinvestor.com
 DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlifystatus.com
 DOMAIN-SUFFIX,netme.cc
 DOMAIN-SUFFIX,netmums.com
 DOMAIN-SUFFIX,netpornsex.com
