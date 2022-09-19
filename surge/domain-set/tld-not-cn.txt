@@ -401,12 +401,15 @@
 .akdn
 .ansons
 .bharti
+.domains
 .extraspace
+.gay
 .genting
 .glean
 .ikano
 .imamat
 .ladbrokes
+.lgbt
 .livestrong
 .maif
 .mattel
@@ -414,6 +417,7 @@
 .transformers
 .vana
 .wme
+.wtf
 .astrium
 .cern
 .emerck
@@ -430,6 +434,11 @@
 .teva
 .toray
 .weather
+.adult
+.porn
+.sex
+.sexy
+.xxx
 .auspost
 .deutschepost
 .dhl
