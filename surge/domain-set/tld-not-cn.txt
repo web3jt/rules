@@ -403,7 +403,6 @@
 .ansons
 .baby
 .bharti
-.bible
 .bingo
 .casino
 .chat
@@ -438,6 +437,7 @@
 .wine
 .wme
 .wtf
+.bible
 .catholic
 .halal
 .islam
