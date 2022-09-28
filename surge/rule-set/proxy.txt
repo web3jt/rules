@@ -210,6 +210,7 @@ DOMAIN,scholar.l.google.com
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
 DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN,steambroadcast.akamaized.net
@@ -6459,6 +6460,7 @@ DOMAIN-SUFFIX,boston
 DOMAIN-SUFFIX,bostonangelclub.com
 DOMAIN-SUFFIX,bostonherald.com
 DOMAIN-SUFFIX,bostontibet.org
+DOMAIN-SUFFIX,boswp.com
 DOMAIN-SUFFIX,botanwang.com
 DOMAIN-SUFFIX,botframework.com
 DOMAIN-SUFFIX,botorch.org
@@ -16875,6 +16877,7 @@ DOMAIN-SUFFIX,kukuku.cc
 DOMAIN-SUFFIX,kukuying.com
 DOMAIN-SUFFIX,kulichan.com
 DOMAIN-SUFFIX,kum.com
+DOMAIN-SUFFIX,kumo.com
 DOMAIN-SUFFIX,kumparan.com
 DOMAIN-SUFFIX,kun.im
 DOMAIN-SUFFIX,kundun1069.com
@@ -19174,6 +19177,7 @@ DOMAIN-SUFFIX,msgforex.com
 DOMAIN-SUFFIX,msguancha.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.net
 DOMAIN-SUFFIX,msnapk.com
 DOMAIN-SUFFIX,msnbc.com
 DOMAIN-SUFFIX,msnewskids.com
@@ -23361,6 +23365,7 @@ DOMAIN-SUFFIX,s-cashonmobile.com
 DOMAIN-SUFFIX,s-cute.com
 DOMAIN-SUFFIX,s-dragon.org
 DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,s-msft.com
 DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,s-nbcnews.com
 DOMAIN-SUFFIX,s-xoom.com
