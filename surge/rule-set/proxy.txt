@@ -3678,6 +3678,7 @@ DOMAIN-SUFFIX,amazonlumberyard.wang
 DOMAIN-SUFFIX,amazonpay.com
 DOMAIN-SUFFIX,amazonprimevideos.com
 DOMAIN-SUFFIX,amazonsdi.com
+DOMAIN-SUFFIX,amazonses.com
 DOMAIN-SUFFIX,amazonstudiosguilds.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amazonvideo.cc

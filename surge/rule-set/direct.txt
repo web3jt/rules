@@ -4121,6 +4121,7 @@ DOMAIN-SUFFIX,51chuguo.org
 DOMAIN-SUFFIX,51chuli.com
 DOMAIN-SUFFIX,51cir.com
 DOMAIN-SUFFIX,51cjyy.com
+DOMAIN-SUFFIX,51cocoa.com
 DOMAIN-SUFFIX,51code.com
 DOMAIN-SUFFIX,51cok.com
 DOMAIN-SUFFIX,51comp.com
@@ -50835,6 +50836,7 @@ DOMAIN-SUFFIX,swiftmi.com
 DOMAIN-SUFFIX,swiftstar.net
 DOMAIN-SUFFIX,swijoy.com
 DOMAIN-SUFFIX,switchvip.com
+DOMAIN-SUFFIX,switchxiazai.com
 DOMAIN-SUFFIX,swjoy.com
 DOMAIN-SUFFIX,swkong.com
 DOMAIN-SUFFIX,swliuxue.com
@@ -54808,6 +54810,7 @@ DOMAIN-SUFFIX,vcloudstc.com
 DOMAIN-SUFFIX,vcloudstc.net
 DOMAIN-SUFFIX,vcloudvod.com
 DOMAIN-SUFFIX,vclusters.com
+DOMAIN-SUFFIX,vcnews.com
 DOMAIN-SUFFIX,vcode.cc
 DOMAIN-SUFFIX,vcomic.com
 DOMAIN-SUFFIX,vcomputes.com
@@ -56145,6 +56148,7 @@ DOMAIN-SUFFIX,weijinsuo.com
 DOMAIN-SUFFIX,weijiu.org
 DOMAIN-SUFFIX,weijiuxin.com
 DOMAIN-SUFFIX,weijj.com
+DOMAIN-SUFFIX,weijq.com
 DOMAIN-SUFFIX,weiju.net
 DOMAIN-SUFFIX,weijuju.com
 DOMAIN-SUFFIX,weikaowu.com

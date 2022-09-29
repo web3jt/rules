@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,ssl.gstatic.com
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,tools.l.google.com
-DOMAIN-SUFFIX,translate.googleapis.com
 DOMAIN-SUFFIX,translation.googleapis.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,www-google-analytics.l.google.com
