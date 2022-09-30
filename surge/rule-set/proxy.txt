@@ -1170,7 +1170,6 @@ DOMAIN-SUFFIX,2lib.org
 DOMAIN-SUFFIX,2lipstube.com
 DOMAIN-SUFFIX,2ljz.14.iamallama.com
 DOMAIN-SUFFIX,2mdn-cn.net
-DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2nine.net
 DOMAIN-SUFFIX,2ninesm.net
 DOMAIN-SUFFIX,2o7.net
@@ -4745,6 +4744,8 @@ DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,azproxies.com
 DOMAIN-SUFFIX,azubu.tv
 DOMAIN-SUFFIX,azure
+DOMAIN-SUFFIX,azure-devices-int.net
+DOMAIN-SUFFIX,azure-devices.net
 DOMAIN-SUFFIX,azure-dns.com
 DOMAIN-SUFFIX,azure-dns.info
 DOMAIN-SUFFIX,azure-dns.net
@@ -13425,7 +13426,6 @@ DOMAIN-SUFFIX,gtbxtv.com
 DOMAIN-SUFFIX,gtdollar.com
 DOMAIN-SUFFIX,gtjtht.com
 DOMAIN-SUFFIX,gtloli.com
-DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,gtricks.com
 DOMAIN-SUFFIX,gts-vpn.com
 DOMAIN-SUFFIX,gtv.org
@@ -18026,6 +18026,8 @@ DOMAIN-SUFFIX,man
 DOMAIN-SUFFIX,managed-pki.ch
 DOMAIN-SUFFIX,managedmeetingrooms.com
 DOMAIN-SUFFIX,managedpki.com
+DOMAIN-SUFFIX,management-azure-devices-int.net
+DOMAIN-SUFFIX,management-azure-devices.net
 DOMAIN-SUFFIX,manarat.com
 DOMAIN-SUFFIX,manbetx711.com
 DOMAIN-SUFFIX,manbetx852.com

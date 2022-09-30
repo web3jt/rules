@@ -99,7 +99,6 @@ DOMAIN-SUFFIX,oscdn.apple.com
 DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,pancake.apple.com
 DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
-DOMAIN-SUFFIX,phobos.apple.com
 DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
 DOMAIN-SUFFIX,publicassets.cdn-apple.com
 DOMAIN-SUFFIX,reserve-prime.apple.com
