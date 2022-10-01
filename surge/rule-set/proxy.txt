@@ -1170,6 +1170,7 @@ DOMAIN-SUFFIX,2lib.org
 DOMAIN-SUFFIX,2lipstube.com
 DOMAIN-SUFFIX,2ljz.14.iamallama.com
 DOMAIN-SUFFIX,2mdn-cn.net
+DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,2nine.net
 DOMAIN-SUFFIX,2ninesm.net
 DOMAIN-SUFFIX,2o7.net
@@ -10551,6 +10552,7 @@ DOMAIN-SUFFIX,ero-labs.net
 DOMAIN-SUFFIX,ero-manga-platinum.net
 DOMAIN-SUFFIX,ero-mangalife.com
 DOMAIN-SUFFIX,ero-video.net
+DOMAIN-SUFFIX,eroan.xyz
 DOMAIN-SUFFIX,erocool.net
 DOMAIN-SUFFIX,erocurves.com
 DOMAIN-SUFFIX,erodaizensyu.com
@@ -13268,7 +13270,6 @@ DOMAIN-SUFFIX,googlesverige.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager-cn.com
-DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices-cn.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices-cn.com
