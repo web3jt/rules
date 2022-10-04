@@ -13271,6 +13271,7 @@ DOMAIN-SUFFIX,googlesverige.com
 DOMAIN-SUFFIX,googlesyndication-cn.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager-cn.com
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices-cn.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googletraveladservices-cn.com
@@ -13428,6 +13429,7 @@ DOMAIN-SUFFIX,gtbxtv.com
 DOMAIN-SUFFIX,gtdollar.com
 DOMAIN-SUFFIX,gtjtht.com
 DOMAIN-SUFFIX,gtloli.com
+DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,gtricks.com
 DOMAIN-SUFFIX,gts-vpn.com
 DOMAIN-SUFFIX,gtv.org
