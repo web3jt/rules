@@ -88,6 +88,7 @@ DOMAIN,heads4-ak-spotify-com.akamaized.net
 DOMAIN,himalaya-exchange.zendesk.com
 DOMAIN,homebrew.bintray.com
 DOMAIN,hpstore.corpmerchandise.com
+DOMAIN,hulu.playback.edge.bamgrid.com
 DOMAIN,i.jeded.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
