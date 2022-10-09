@@ -39,6 +39,7 @@ cdngarenanow-a.akamaihd.net
 chinapower.csis.org
 cisco.evergage.com
 ciscolivehls-i.akamaihd.net
+clients1.google.com
 cloudsync-prod.s3.amazonaws.com
 courier-push-apple.com.akadns.net
 crl.microsoft.com
@@ -122,6 +123,7 @@ p-events-delivery.akamaized.net
 p16-tiktokcdn-com.akamaized.net
 paper-attachments.s3.amazonaws.com
 pchomeonline.com.tw
+pki.google.com
 poshtestgallery.cloudapp.net
 prd-priconne-redive.akamaized.net
 psg-int-centralus.cloudapp.net
@@ -9252,6 +9254,7 @@ zeenews-fonts.s3.amazonaws.com
 .digi-ateljee.be
 .digibet.com
 .digicert-cn.com
+.digicert-validation.com
 .digicert.com
 .digikey
 .digisfera.com
@@ -13709,6 +13712,7 @@ zeenews-fonts.s3.amazonaws.com
 .haoli777.com
 .haori888.com
 .haoshichina.com
+.haplorrhini.com
 .happy-porn.com
 .happy-vpn.com
 .happyproblog.weebly.com

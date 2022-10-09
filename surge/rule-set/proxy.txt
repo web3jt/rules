@@ -39,6 +39,7 @@ DOMAIN,cdngarenanow-a.akamaihd.net
 DOMAIN,chinapower.csis.org
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
+DOMAIN,clients1.google.com
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,courier-push-apple.com.akadns.net
 DOMAIN,crl.microsoft.com
@@ -122,6 +123,7 @@ DOMAIN,p-events-delivery.akamaized.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,paper-attachments.s3.amazonaws.com
 DOMAIN,pchomeonline.com.tw
+DOMAIN,pki.google.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,psg-int-centralus.cloudapp.net
@@ -9252,6 +9254,7 @@ DOMAIN-SUFFIX,diggingtunnels.com
 DOMAIN-SUFFIX,digi-ateljee.be
 DOMAIN-SUFFIX,digibet.com
 DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,digicert-validation.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,digikey
 DOMAIN-SUFFIX,digisfera.com
@@ -13709,6 +13712,7 @@ DOMAIN-SUFFIX,haoli747.com
 DOMAIN-SUFFIX,haoli777.com
 DOMAIN-SUFFIX,haori888.com
 DOMAIN-SUFFIX,haoshichina.com
+DOMAIN-SUFFIX,haplorrhini.com
 DOMAIN-SUFFIX,happy-porn.com
 DOMAIN-SUFFIX,happy-vpn.com
 DOMAIN-SUFFIX,happyproblog.weebly.com
