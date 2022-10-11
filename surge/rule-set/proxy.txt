@@ -15660,6 +15660,7 @@ DOMAIN-SUFFIX,ipv4.yunfei.cf
 DOMAIN-SUFFIX,ipvanish.com
 DOMAIN-SUFFIX,ipvm.com
 DOMAIN-SUFFIX,iq
+DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iqlinkus.com
 DOMAIN-SUFFIX,iqlinkus.net
 DOMAIN-SUFFIX,iqq.biz
@@ -26758,6 +26759,7 @@ DOMAIN-SUFFIX,turnguard.com
 DOMAIN-SUFFIX,turnnewsapp.com
 DOMAIN-SUFFIX,turntable.fm
 DOMAIN-SUFFIX,tusfiles.net
+DOMAIN-SUFFIX,tushy.com
 DOMAIN-SUFFIX,tushycash.com
 DOMAIN-SUFFIX,tuta.io
 DOMAIN-SUFFIX,tutanota.com
