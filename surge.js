@@ -3,14 +3,14 @@ const config = require("./util/config")
 const fs = require("fs")
 
 class Proxy {
-    constructor(line) {
+    constructor (line) {
         this.name = line.split('=')[0].trim()
         this.line = line
     }
 }
 
 class Group {
-    constructor(name) {
+    constructor (name) {
         this.name = name
         this.proxies = []
     }
@@ -62,7 +62,7 @@ class Group {
         return arr.join(', ')
     }
 
-    exportSelect(name='') {
+    exportSelect(name = '') {
         if (!this.proxies.length || this.proxies.length === 1) {
             return ''
         }
@@ -81,7 +81,7 @@ class Group {
 }
 
 class Groups {
-    constructor() {
+    constructor () {
         this.groups = []
     }
 
@@ -105,7 +105,7 @@ class Groups {
 }
 
 class Outbound {
-    constructor(name) {
+    constructor (name) {
         this.name = name
     }
 
@@ -239,7 +239,7 @@ const main = async function () {
 
     const groups = new Groups()
 
-    
+
 
 
     // outbound
@@ -257,6 +257,8 @@ const main = async function () {
     const oClubhouse = new Outbound('Clubhouse')
     const oAgora = new Outbound('Agora')
     const oTelegram = new Outbound('Telegram')
+    const oCrypto = new Outbound('Crypto')
+    const oDiscord = new Outbound('Discord')
     const oSteam = new Outbound('Steam')
     const oPayPal = new Outbound('PayPal')
     const oMicrosoft = new Outbound('Microsoft')
@@ -539,6 +541,8 @@ const main = async function () {
     confProxyGroup.push(oClubhouse.proxyFirst(groups.names))
     confProxyGroup.push(oAgora.proxyFirst(groups.names))
     confProxyGroup.push(oTelegram.proxyFirst(groups.names))
+    confProxyGroup.push(oCrypto.proxyFirst(groups.names))
+    confProxyGroup.push(oDiscord.proxyFirst(groups.names))
     confProxyGroup.push(oSteam.proxyFirst(groups.names))
     confProxyGroup.push(oPayPal.proxyFirst(groups.names))
     confProxyGroup.push(oMicrosoft.domesticFirst(groups.names))
@@ -560,7 +564,7 @@ const main = async function () {
     const confText = confHeadText + confProxyText + confProxyGroupText + confTailText
 
     fs.writeFile(config['SURGE_OUTPUT'], confText, (err) => {
-        if(err) throw err;
+        if (err) throw err;
         console.log('Saved...');
     })
 }
