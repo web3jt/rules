@@ -2585,7 +2585,6 @@ DOMAIN-SUFFIX,91porn.w3p.la
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,91px.cc
 DOMAIN-SUFFIX,91qk41rf.com
-DOMAIN-SUFFIX,91rb.net
 DOMAIN-SUFFIX,91se.fun
 DOMAIN-SUFFIX,91sesex.xyz
 DOMAIN-SUFFIX,91sp.v3p.co
@@ -19490,6 +19489,7 @@ DOMAIN-SUFFIX,myhousedyn.com
 DOMAIN-SUFFIX,myhpsupport.com
 DOMAIN-SUFFIX,myhulu.com
 DOMAIN-SUFFIX,myicloud.net
+DOMAIN-SUFFIX,myip.la
 DOMAIN-SUFFIX,myiphide.com
 DOMAIN-SUFFIX,myipod.net
 DOMAIN-SUFFIX,mykomica.org
