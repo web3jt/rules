@@ -1,4 +1,12 @@
 abematv.akamaized.net
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
 amp.akamaized.net
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -107,6 +115,7 @@ media.prod.mdn.mozit.cloud
 medone-education.thieme.com
 mobilelive-hamivideo.cdn.hinet.net
 mscrl.microsoft.com
+mtalk.google.com
 muse.jhu.edu
 mwf-service.akamaized.net
 nab.demdex.net
@@ -4582,6 +4591,7 @@ zeenews-fonts.s3.amazonaws.com
 .av-ok.com
 .av-test.org
 .av-th.net
+.av-top.com
 .av-wiki.net
 .av.com
 .av.dmixtv.site
