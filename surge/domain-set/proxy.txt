@@ -8152,6 +8152,8 @@ zeenews-fonts.s3.amazonaws.com
 .cnbaike.org
 .cnbc.com
 .cnbcfm.com
+.cnbeta.com
+.cnbetacdn.com
 .cncrivals.com
 .cnd.org
 .cndownload.gzroute53.com
@@ -20657,6 +20659,7 @@ zeenews-fonts.s3.amazonaws.com
 .ohssr.me
 .ohyeah1080.com
 .oiktv.com
+.oiobbs.com
 .oizoblog.com
 .ojbkss.win
 .ok158158.com

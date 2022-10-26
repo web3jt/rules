@@ -8152,6 +8152,8 @@ DOMAIN-SUFFIX,cnappinstall.googleadapis.com
 DOMAIN-SUFFIX,cnbaike.org
 DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnbcfm.com
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,cncrivals.com
 DOMAIN-SUFFIX,cnd.org
 DOMAIN-SUFFIX,cndownload.gzroute53.com
@@ -20657,6 +20659,7 @@ DOMAIN-SUFFIX,ohmyrss.com
 DOMAIN-SUFFIX,ohssr.me
 DOMAIN-SUFFIX,ohyeah1080.com
 DOMAIN-SUFFIX,oiktv.com
+DOMAIN-SUFFIX,oiobbs.com
 DOMAIN-SUFFIX,oizoblog.com
 DOMAIN-SUFFIX,ojbkss.win
 DOMAIN-SUFFIX,ok158158.com
