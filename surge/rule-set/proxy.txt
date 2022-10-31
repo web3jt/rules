@@ -27000,6 +27000,7 @@ DOMAIN-SUFFIX,twitonmsn.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitstat.com
 DOMAIN-SUFFIX,twittbot.net
+DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.org
 DOMAIN-SUFFIX,twitter4j.org
@@ -27030,6 +27031,8 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twtrland.com
 DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,twyac.org
 DOMAIN-SUFFIX,twylah.com
 DOMAIN-SUFFIX,tx.me

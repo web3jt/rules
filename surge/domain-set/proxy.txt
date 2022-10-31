@@ -27000,6 +27000,7 @@ zeenews-fonts.s3.amazonaws.com
 .twitpic.com
 .twitstat.com
 .twittbot.net
+.twitter.biz
 .twitter.com
 .twitter.org
 .twitter4j.org
@@ -27030,6 +27031,8 @@ zeenews-fonts.s3.amazonaws.com
 .twtrdns.net
 .twtrland.com
 .twttr.com
+.twttr.net
+.twvid.com
 .twyac.org
 .twylah.com
 .tx.me
