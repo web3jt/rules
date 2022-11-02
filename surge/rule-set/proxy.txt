@@ -14203,7 +14203,6 @@ DOMAIN-SUFFIX,himalaya2020.com
 DOMAIN-SUFFIX,himalayan-foundation.org
 DOMAIN-SUFFIX,himalayanconsensus.org
 DOMAIN-SUFFIX,himalayanglacier.com
-DOMAIN-SUFFIX,himalayawashingtondc.org
 DOMAIN-SUFFIX,himemix.com
 DOMAIN-SUFFIX,himemix.net
 DOMAIN-SUFFIX,hindawi.com
@@ -14612,6 +14611,7 @@ DOMAIN-SUFFIX,hp3dprinter.com
 DOMAIN-SUFFIX,hp3dsamplepromo.com
 DOMAIN-SUFFIX,hpallinoneprinter.com
 DOMAIN-SUFFIX,hpapplicationscenter.com
+DOMAIN-SUFFIX,hpayshop.com
 DOMAIN-SUFFIX,hpbestbuy.com
 DOMAIN-SUFFIX,hpbluecarpet.com
 DOMAIN-SUFFIX,hpbluecarpet.net
