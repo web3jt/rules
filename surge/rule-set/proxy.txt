@@ -3528,6 +3528,7 @@ DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alicloud.com
 DOMAIN-SUFFIX,aliengu.com
 DOMAIN-SUFFIX,alifta.com
+DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,alistapart.com
 DOMAIN-SUFFIX,alittlemarket.com
 DOMAIN-SUFFIX,aliveipc.com
