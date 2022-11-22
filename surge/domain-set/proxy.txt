@@ -8229,6 +8229,7 @@ zeenews-fonts.s3.amazonaws.com
 .cod98.com
 .code.org
 .code1984.com
+.codeberg.org
 .codeboxapp.com
 .codeburst.io
 .codecademy.com
@@ -14112,6 +14113,7 @@ zeenews-fonts.s3.amazonaws.com
 .heungkongdiscuss.com
 .hex.pm
 .hex.win
+.hexdocs.pm
 .hexieshe.com
 .hexieshe.xyz
 .hexxeh.net
