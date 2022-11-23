@@ -2981,6 +2981,7 @@ zeenews-fonts.s3.amazonaws.com
 .abeatsbydrdre.com
 .abebooks.com
 .abem.org
+.abema-tv.com
 .abema.io
 .abema.tv
 .abercrombie.com
@@ -11746,7 +11747,6 @@ zeenews-fonts.s3.amazonaws.com
 .flushingcn.com
 .flutter.dev
 .flutterapp.com
-.flydiv.com
 .flyercenter.com
 .flyflv.com
 .flyingcloudproductions.com
@@ -17653,6 +17653,7 @@ zeenews-fonts.s3.amazonaws.com
 .lm.1731788.com
 .lm.iloli.ml
 .lmb.betway118.com
+.lmmbtc.com
 .lmt.jbo8.com
 .ln.sync.com
 .lncn.org
@@ -18629,6 +18630,7 @@ zeenews-fonts.s3.amazonaws.com
 .miaminewtimes.com
 .mianfen888.com
 .miaoin.me
+.miaomwu.com
 .miaoss.com
 .miaosss.top
 .mic9.com
@@ -24335,6 +24337,7 @@ zeenews-fonts.s3.amazonaws.com
 .sheshaft.com
 .sheyehealth.com
 .shia
+.shianyuanfang.com
 .shiatv.net
 .shibo10bo.com
 .shicheng.org
@@ -25071,6 +25074,7 @@ zeenews-fonts.s3.amazonaws.com
 .sss16.net
 .sss36.net
 .sss988.com
+.sssins.com
 .sstatic.net
 .ssteam.me
 .sstm.moe
@@ -27564,6 +27568,7 @@ zeenews-fonts.s3.amazonaws.com
 .v2ex.com
 .v2fly.org
 .v2no.com
+.v2ph.com
 .v2ray.com
 .v2ray.cool
 .v2raycn.com
@@ -34009,6 +34014,7 @@ zeenews-fonts.s3.amazonaws.com
 .youtufab.cc
 .youversion.com
 .youwin.com
+.youwuss.com
 .youxu.info
 .youyoutube.com
 .youyu.services
@@ -34241,6 +34247,7 @@ zeenews-fonts.s3.amazonaws.com
 .zh66.xp3.biz
 .zh6662.com
 .zh99.net
+.zhaimankan.com
 .zhainanjidi.xyz
 .zhainanjidid.top
 .zhanbin.net
@@ -34372,6 +34379,7 @@ zeenews-fonts.s3.amazonaws.com
 .zsh.org
 .zspeeder.me
 .zsrhao.com
+.zteman.net
 .ztunnel.com
 .zuckerberg.com
 .zuckerberg.net
