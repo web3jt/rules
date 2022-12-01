@@ -3231,6 +3231,7 @@ zeenews-fonts.s3.amazonaws.com
 .advancediddetection.com
 .advanscene.com
 .adventist.org
+.adventofcode.com
 .adventuresbydisney.com
 .advertfan.com
 .advertisercommunity.com
@@ -21068,6 +21069,7 @@ zeenews-fonts.s3.amazonaws.com
 .oss-me-east-1.aliyuncs.com
 .oss-us-east-1.aliyuncs.com
 .oss-us-west-1.aliyuncs.com
+.osxapps.itunes.g.aaplimg.com
 .otaku13.howbbs.com
 .otakuss.com
 .otbm.com
@@ -25534,6 +25536,7 @@ zeenews-fonts.s3.amazonaws.com
 .swag.live
 .swagbucks.com
 .swaghub.cc
+.swallow-apple-com.v.aaplimg.com
 .swapsmut.com
 .swarajyamag.com
 .swatch
