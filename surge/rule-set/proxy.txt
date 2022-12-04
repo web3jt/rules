@@ -28621,6 +28621,7 @@ DOMAIN-SUFFIX,weareebay.com
 DOMAIN-SUFFIX,wearehairy.com
 DOMAIN-SUFFIX,wearn.com
 DOMAIN-SUFFIX,weather
+DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
 DOMAIN-SUFFIX,weatherchannel
 DOMAIN-SUFFIX,weathtown.com
 DOMAIN-SUFFIX,weav.xyz
