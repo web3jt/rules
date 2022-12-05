@@ -10323,6 +10323,7 @@ DOMAIN-SUFFIX,ecuatorianas.best
 DOMAIN-SUFFIX,ecusa.anglican.org
 DOMAIN-SUFFIX,ecv.ebacc777.com
 DOMAIN-SUFFIX,ed1zas.net
+DOMAIN-SUFFIX,ed21.cc
 DOMAIN-SUFFIX,ed2k.im
 DOMAIN-SUFFIX,eddieyang.com
 DOMAIN-SUFFIX,edeka
@@ -11241,6 +11242,7 @@ DOMAIN-SUFFIX,falunpilipinas.net
 DOMAIN-SUFFIX,falunworld.net
 DOMAIN-SUFFIX,fameregistry.com
 DOMAIN-SUFFIX,family-sex.me
+DOMAIN-SUFFIX,family-simulator.io
 DOMAIN-SUFFIX,family.acethon.com
 DOMAIN-SUFFIX,familyfed.org
 DOMAIN-SUFFIX,familypies.net
@@ -14922,6 +14924,7 @@ DOMAIN-SUFFIX,hybrid-analysis.com
 DOMAIN-SUFFIX,hybssr.org
 DOMAIN-SUFFIX,hyc1324.com
 DOMAIN-SUFFIX,hyc1324.xyz
+DOMAIN-SUFFIX,hycgm1324.shop
 DOMAIN-SUFFIX,hychot4.xyz
 DOMAIN-SUFFIX,hyper.co
 DOMAIN-SUFFIX,hyper.is
