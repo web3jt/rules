@@ -9112,6 +9112,7 @@ DOMAIN-SUFFIX,debugproject.com
 DOMAIN-SUFFIX,dechamora.com
 DOMAIN-SUFFIX,decodet.co
 DOMAIN-SUFFIX,deconversion.org
+DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,dedelu.com
 DOMAIN-SUFFIX,deepcoin.vip
 DOMAIN-SUFFIX,deeper.com
