@@ -11398,6 +11398,7 @@ DOMAIN-SUFFIX,faz.net
 DOMAIN-SUFFIX,fb.careers
 DOMAIN-SUFFIX,fb.co
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbacebook.com
@@ -11433,6 +11434,7 @@ DOMAIN-SUFFIX,fbthirdpartypixel.com
 DOMAIN-SUFFIX,fbthirdpartypixel.net
 DOMAIN-SUFFIX,fbthirdpartypixel.org
 DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,fc.iwant-in.net
 DOMAIN-SUFFIX,fc00.io

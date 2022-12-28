@@ -11398,6 +11398,7 @@ zeenews-fonts.s3.amazonaws.com
 .fb.careers
 .fb.co
 .fb.com
+.fb.gg
 .fb.me
 .fb.watch
 .fbacebook.com
@@ -11433,6 +11434,7 @@ zeenews-fonts.s3.amazonaws.com
 .fbthirdpartypixel.net
 .fbthirdpartypixel.org
 .fburl.com
+.fbwat.ch
 .fbworkmail.com
 .fc.iwant-in.net
 .fc00.io
