@@ -8086,6 +8086,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudinary.com
 .cloudinary.net
 .cloudinsights.com
+.cloudlatex.io
 .cloudlive.com
 .cloudlock.com
 .cloudmosa.com
@@ -29011,6 +29012,7 @@ zeenews-fonts.s3.amazonaws.com
 .wionnews.com
 .wipower.com
 .wire.com
+.wired.com
 .wiredbytes.com
 .wiredpen.com
 .wireguard.com
