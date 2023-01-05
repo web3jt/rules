@@ -21,6 +21,7 @@ as-dash-uk-live.akamaized.net
 as-hls-uk-live.akamaized.net
 asahishimbun.sc.omtrdc.net
 audio-ak-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
 avatargarenanow-a.akamaihd.net
 az764295.vo.msecnd.net
 azure.microsoft.com
@@ -95,6 +96,7 @@ github-cloud.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
 hamivideo.hinet.net
 hammerandchisel.ssl.zendesk.com
+heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 himalaya-exchange.zendesk.com
 homebrew.bintray.com
@@ -103,6 +105,7 @@ hulu.playback.edge.bamgrid.com
 i.jeded.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+impala-media-production.s3.amazonaws.com
 imperial.insendi.com
 interactive-examples.mdn.mozilla.net
 lgelectronics.122.2o7.net
@@ -223,6 +226,9 @@ scholar.google.si
 scholar.google.sk
 scholar.l.google.com
 sni1dcb6gl.wpc.edgecastcdn.net
+spotify.com.edgesuite.net
+spotify.map.fastly.net
+spotify.map.fastlylb.net
 ssl-lvlt.cdn.ea.com
 static-hamivideo.cdn.hinet.net
 statics-marketingsites-eas-ms-com.akamaized.net
@@ -4695,6 +4701,7 @@ zeenews-fonts.s3.amazonaws.com
 .avoision.com
 .avos.pw
 .avpanda.cc
+.avple.tv
 .avq.52avq.cc
 .avqtv.com
 .avsee01.tv
@@ -8717,6 +8724,7 @@ zeenews-fonts.s3.amazonaws.com
 .cumswappingsis.com
 .cumteenporn.com
 .cuntempire.com
+.cuntwars.com
 .cup888.tv
 .cups.org
 .curanderahealing.com
@@ -10340,6 +10348,7 @@ zeenews-fonts.s3.amazonaws.com
 .edengay.net
 .edenriegel.com
 .edenrules.com
+.edge-skype-com.s-0001.s-msedge.net
 .edgecastcdn.net
 .edgedatg.com
 .edgefonts.net
@@ -11338,6 +11347,7 @@ zeenews-fonts.s3.amazonaws.com
 .faproxy.com
 .fapsafari.com
 .fapteencam.com
+.faptitans.com
 .fapvid.com
 .fapxl.com
 .faqserv.com
@@ -14506,6 +14516,7 @@ zeenews-fonts.s3.amazonaws.com
 .honkaistarrail.com
 .honven.xyz
 .hoodamateurs.com
+.hooligapps.com
 .hooloo.tv
 .hoolu.com
 .hoolu.tv
@@ -16938,6 +16949,7 @@ zeenews-fonts.s3.amazonaws.com
 .knuples.net
 .koalaporn.com
 .kobbeatssbydredk.com
+.kobe-pastel.com
 .kobo.com
 .kobobooks.com
 .kodi.tv
@@ -24217,6 +24229,7 @@ zeenews-fonts.s3.amazonaws.com
 .sexy
 .sexy-babe-pics.com
 .sexy-lingerie.ws
+.sexy-more.com
 .sexy-torrents.com
 .sexy-word.com
 .sexy.com
@@ -24625,10 +24638,12 @@ zeenews-fonts.s3.amazonaws.com
 .skyoceanrescue.it
 .skyoyue.com
 .skype
+.skype-edf.akadns.net
 .skype.com
 .skype.net
 .skypeassets.com
 .skypeassets.net
+.skypedata.akadns.net
 .skyporn.online
 .skyraptor.com
 .skysports.com
@@ -24670,6 +24685,7 @@ zeenews-fonts.s3.amazonaws.com
 .slinginternational.com
 .slinkset.com
 .slosberg.net
+.slotbitches.com
 .slsdubai.projects-uae.com
 .slutclit.com
 .slutload.com
@@ -24711,6 +24727,7 @@ zeenews-fonts.s3.amazonaws.com
 .smt.live
 .smutcam.com
 .smutindia.com
+.smutstone.com
 .smutty.com
 .smuttymoms.com
 .smyth-house.com
@@ -24724,7 +24741,6 @@ zeenews-fonts.s3.amazonaws.com
 .snap-dev.net
 .snap-telemetry.io
 .snap.com
-.snapads.com
 .snapchat.com
 .snapcraft.io
 .snapdragonbooth.com

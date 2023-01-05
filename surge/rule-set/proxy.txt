@@ -21,6 +21,7 @@ DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
 DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN,audio-ak-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -95,6 +96,7 @@ DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN,hamivideo.hinet.net
 DOMAIN,hammerandchisel.ssl.zendesk.com
+DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
 DOMAIN,himalaya-exchange.zendesk.com
 DOMAIN,homebrew.bintray.com
@@ -103,6 +105,7 @@ DOMAIN,hulu.playback.edge.bamgrid.com
 DOMAIN,i.jeded.com
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
+DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN,imperial.insendi.com
 DOMAIN,interactive-examples.mdn.mozilla.net
 DOMAIN,lgelectronics.122.2o7.net
@@ -223,6 +226,9 @@ DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
 DOMAIN,scholar.l.google.com
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
+DOMAIN,spotify.com.edgesuite.net
+DOMAIN,spotify.map.fastly.net
+DOMAIN,spotify.map.fastlylb.net
 DOMAIN,ssl-lvlt.cdn.ea.com
 DOMAIN,static-hamivideo.cdn.hinet.net
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
@@ -4695,6 +4701,7 @@ DOMAIN-SUFFIX,avno1.com
 DOMAIN-SUFFIX,avoision.com
 DOMAIN-SUFFIX,avos.pw
 DOMAIN-SUFFIX,avpanda.cc
+DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,avq.52avq.cc
 DOMAIN-SUFFIX,avqtv.com
 DOMAIN-SUFFIX,avsee01.tv
@@ -8717,6 +8724,7 @@ DOMAIN-SUFFIX,cumshotlist.com
 DOMAIN-SUFFIX,cumswappingsis.com
 DOMAIN-SUFFIX,cumteenporn.com
 DOMAIN-SUFFIX,cuntempire.com
+DOMAIN-SUFFIX,cuntwars.com
 DOMAIN-SUFFIX,cup888.tv
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,curanderahealing.com
@@ -10340,6 +10348,7 @@ DOMAIN-SUFFIX,edeka
 DOMAIN-SUFFIX,edengay.net
 DOMAIN-SUFFIX,edenriegel.com
 DOMAIN-SUFFIX,edenrules.com
+DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edgefonts.net
@@ -11338,6 +11347,7 @@ DOMAIN-SUFFIX,faproulette.online
 DOMAIN-SUFFIX,faproxy.com
 DOMAIN-SUFFIX,fapsafari.com
 DOMAIN-SUFFIX,fapteencam.com
+DOMAIN-SUFFIX,faptitans.com
 DOMAIN-SUFFIX,fapvid.com
 DOMAIN-SUFFIX,fapxl.com
 DOMAIN-SUFFIX,faqserv.com
@@ -14506,6 +14516,7 @@ DOMAIN-SUFFIX,honkaiimpact3.com
 DOMAIN-SUFFIX,honkaistarrail.com
 DOMAIN-SUFFIX,honven.xyz
 DOMAIN-SUFFIX,hoodamateurs.com
+DOMAIN-SUFFIX,hooligapps.com
 DOMAIN-SUFFIX,hooloo.tv
 DOMAIN-SUFFIX,hoolu.com
 DOMAIN-SUFFIX,hoolu.tv
@@ -16938,6 +16949,7 @@ DOMAIN-SUFFIX,knoxemm.com
 DOMAIN-SUFFIX,knuples.net
 DOMAIN-SUFFIX,koalaporn.com
 DOMAIN-SUFFIX,kobbeatssbydredk.com
+DOMAIN-SUFFIX,kobe-pastel.com
 DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kobobooks.com
 DOMAIN-SUFFIX,kodi.tv
@@ -24217,6 +24229,7 @@ DOMAIN-SUFFIX,sexxxy.biz
 DOMAIN-SUFFIX,sexy
 DOMAIN-SUFFIX,sexy-babe-pics.com
 DOMAIN-SUFFIX,sexy-lingerie.ws
+DOMAIN-SUFFIX,sexy-more.com
 DOMAIN-SUFFIX,sexy-torrents.com
 DOMAIN-SUFFIX,sexy-word.com
 DOMAIN-SUFFIX,sexy.com
@@ -24625,10 +24638,12 @@ DOMAIN-SUFFIX,skyoceanrescue.com
 DOMAIN-SUFFIX,skyoceanrescue.it
 DOMAIN-SUFFIX,skyoyue.com
 DOMAIN-SUFFIX,skype
+DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeassets.net
+DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,skyporn.online
 DOMAIN-SUFFIX,skyraptor.com
 DOMAIN-SUFFIX,skysports.com
@@ -24670,6 +24685,7 @@ DOMAIN-SUFFIX,sling.com
 DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,slinkset.com
 DOMAIN-SUFFIX,slosberg.net
+DOMAIN-SUFFIX,slotbitches.com
 DOMAIN-SUFFIX,slsdubai.projects-uae.com
 DOMAIN-SUFFIX,slutclit.com
 DOMAIN-SUFFIX,slutload.com
@@ -24711,6 +24727,7 @@ DOMAIN-SUFFIX,smpte.org
 DOMAIN-SUFFIX,smt.live
 DOMAIN-SUFFIX,smutcam.com
 DOMAIN-SUFFIX,smutindia.com
+DOMAIN-SUFFIX,smutstone.com
 DOMAIN-SUFFIX,smutty.com
 DOMAIN-SUFFIX,smuttymoms.com
 DOMAIN-SUFFIX,smyth-house.com
@@ -24724,7 +24741,6 @@ DOMAIN-SUFFIX,snakemonkey.weebly.com
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,snap.com
-DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,snapcraft.io
 DOMAIN-SUFFIX,snapdragonbooth.com
