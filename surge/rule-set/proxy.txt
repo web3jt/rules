@@ -5044,6 +5044,7 @@ DOMAIN-SUFFIX,baixetudofree.comuv.com
 DOMAIN-SUFFIX,baixing.me
 DOMAIN-SUFFIX,baixn.xyz
 DOMAIN-SUFFIX,baiyun.net
+DOMAIN-SUFFIX,baizhi.org
 DOMAIN-SUFFIX,bakaproxy.moe
 DOMAIN-SUFFIX,bakerssecret.com
 DOMAIN-SUFFIX,baldrigelewris.com
@@ -12770,6 +12771,7 @@ DOMAIN-SUFFIX,gandhidham.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,ganetstudio.com
 DOMAIN-SUFFIX,ganges.com
+DOMAIN-SUFFIX,ganjing.com
 DOMAIN-SUFFIX,ganjingworld.com
 DOMAIN-SUFFIX,gannett-cdn.com
 DOMAIN-SUFFIX,gannett.com

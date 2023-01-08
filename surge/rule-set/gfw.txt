@@ -439,6 +439,7 @@ DOMAIN-SUFFIX,baidu.jp
 DOMAIN-SUFFIX,baijie.org
 DOMAIN-SUFFIX,bailandaily.com
 DOMAIN-SUFFIX,baixing.me
+DOMAIN-SUFFIX,baizhi.org
 DOMAIN-SUFFIX,bakgeekhome.tk
 DOMAIN-SUFFIX,banana-vpn.com
 DOMAIN-SUFFIX,band.us
@@ -1958,6 +1959,7 @@ DOMAIN-SUFFIX,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,gamez.com.tw
 DOMAIN-SUFFIX,gamousa.com
 DOMAIN-SUFFIX,ganges.com
+DOMAIN-SUFFIX,ganjing.com
 DOMAIN-SUFFIX,ganjingworld.com
 DOMAIN-SUFFIX,gaoming.net
 DOMAIN-SUFFIX,gaopi.net
