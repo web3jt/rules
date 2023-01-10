@@ -13033,7 +13033,9 @@ zeenews-fonts.s3.amazonaws.com
 .get.app
 .get.dev
 .get.how
+.get.new
 .get.page
+.get.rsvp
 .getadblock.com
 .getastrill.com
 .getbitcoin.pw
@@ -14329,6 +14331,7 @@ zeenews-fonts.s3.amazonaws.com
 .hexieshe.com
 .hexieshe.xyz
 .hexxeh.net
+.hey.boo
 .heyav.tv
 .heydoga.com
 .heydouga.com
@@ -20280,6 +20283,7 @@ zeenews-fonts.s3.amazonaws.com
 .new-akiba.com
 .new-jero.net
 .new-redtube.com
+.new.day
 .new.ltshk.net
 .new.m19b.com
 .new.sobody88.com
