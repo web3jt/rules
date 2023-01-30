@@ -23,12 +23,12 @@ DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,10.in-addr.arpa
+DOMAIN-SUFFIX,networkcheck.kde.org
 DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,127.in-addr.arpa
 DOMAIN-SUFFIX,113.100.in-addr.arpa
-DOMAIN-SUFFIX,94.100.in-addr.arpa
+DOMAIN-SUFFIX,95.100.in-addr.arpa
 DOMAIN-SUFFIX,31.172.in-addr.arpa
-DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,254.169.in-addr.arpa
 DOMAIN-SUFFIX,16.172.in-addr.arpa
 DOMAIN-SUFFIX,17.172.in-addr.arpa
@@ -72,8 +72,8 @@ DOMAIN-SUFFIX,90.100.in-addr.arpa
 DOMAIN-SUFFIX,91.100.in-addr.arpa
 DOMAIN-SUFFIX,92.100.in-addr.arpa
 DOMAIN-SUFFIX,93.100.in-addr.arpa
+DOMAIN-SUFFIX,94.100.in-addr.arpa
 DOMAIN-SUFFIX,168.192.in-addr.arpa
-DOMAIN-SUFFIX,95.100.in-addr.arpa
 DOMAIN-SUFFIX,96.100.in-addr.arpa
 DOMAIN-SUFFIX,97.100.in-addr.arpa
 DOMAIN-SUFFIX,98.100.in-addr.arpa
@@ -91,7 +91,7 @@ DOMAIN-SUFFIX,109.100.in-addr.arpa
 DOMAIN-SUFFIX,110.100.in-addr.arpa
 DOMAIN-SUFFIX,111.100.in-addr.arpa
 DOMAIN-SUFFIX,112.100.in-addr.arpa
-DOMAIN-SUFFIX,29.172.in-addr.arpa
+DOMAIN-SUFFIX,30.172.in-addr.arpa
 DOMAIN-SUFFIX,114.100.in-addr.arpa
 DOMAIN-SUFFIX,115.100.in-addr.arpa
 DOMAIN-SUFFIX,116.100.in-addr.arpa
@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,124.100.in-addr.arpa
 DOMAIN-SUFFIX,125.100.in-addr.arpa
 DOMAIN-SUFFIX,126.100.in-addr.arpa
 DOMAIN-SUFFIX,127.100.in-addr.arpa
+DOMAIN-SUFFIX,29.172.in-addr.arpa
 DOMAIN-SUFFIX,28.172.in-addr.arpa
 DOMAIN-SUFFIX,27.172.in-addr.arpa
 DOMAIN-SUFFIX,26.172.in-addr.arpa
