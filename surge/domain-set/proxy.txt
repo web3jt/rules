@@ -33,7 +33,6 @@ beck-online.beck.de
 bingsettingssearch.trafficmanager.net
 blizzard.nefficient.co.kr
 blizzcon-a.akamaihd.net
-blog.youngmoe.com
 blzddist1-a.akamaihd.net
 blzddistkr1-a.akamaihd.net
 blzmedia-a.akamaihd.net
@@ -83,6 +82,7 @@ elib.maruzen.co.jp
 espn.api.edge.bamgrid.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
+f3b7q2p3.ssl.hwcdn.net
 fandom.zendesk.com
 faronics.kayako.com
 fbcdn-a.akamaihd.net
@@ -237,6 +237,9 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcommunity-a.akamaihd.net
+steampipe-kr.akamaized.net
+steampipe-partner.akamaized.net
+steampipe.akamaized.net
 steamstore-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steamuserimages-a.akamaihd.net
@@ -6629,6 +6632,7 @@ zeenews-fonts.s3.amazonaws.com
 .boundless-sky.com
 .bountyhunterporn.com
 .bowenpress.com
+.bowlroll.net
 .bowsersinsidestory.com
 .box.hyds360.com
 .boxcn.net
@@ -8434,6 +8438,7 @@ zeenews-fonts.s3.amazonaws.com
 .colombianas.webcam
 .colorado-photo.com
 .coloradosprings.com
+.colorfulstage.com
 .colorprotechnology.com
 .comcast
 .comdns.xyz
@@ -10508,6 +10513,7 @@ zeenews-fonts.s3.amazonaws.com
 .edenriegel.com
 .edenrules.com
 .edge-skype-com.s-0001.s-msedge.net
+.edge.steam-dns.top.comcast.net
 .edgecastcdn.net
 .edgedatg.com
 .edgefonts.net
@@ -18425,6 +18431,7 @@ zeenews-fonts.s3.amazonaws.com
 .magic-net.info
 .magic346cn.weebly.com
 .magicalaska-form.weebly.com
+.magicalmirai.com
 .magiccloak.net
 .magiccloud.i234.me
 .magicmovies.com
@@ -19063,6 +19070,7 @@ zeenews-fonts.s3.amazonaws.com
 .mike.cz.cc
 .mikesoltys.com
 .miktex.org
+.mikuexpo.com
 .mil
 .milehighmedia.com
 .milfbundle.com
@@ -22101,6 +22109,7 @@ zeenews-fonts.s3.amazonaws.com
 .piaget
 .pianku.me
 .pianopiano.pt
+.piapro.net
 .piavpn.com
 .pic5.pixclub.net
 .picacg2022.com
@@ -25195,6 +25204,7 @@ zeenews-fonts.s3.amazonaws.com
 .sneakme.net
 .snipurl.com
 .snowlionpub.com
+.snowmiku.com
 .snowpear.com
 .soasta-dswb.com
 .sobees.com
@@ -25696,6 +25706,11 @@ zeenews-fonts.s3.amazonaws.com
 .stealthygeek.com
 .steam-api.com
 .steam-chat.com
+.steam.apac.qtlglb.com
+.steam.cdn.on.net
+.steam.eca.qtlglb.com
+.steam.naeu.qtlglb.com
+.steam.ru.qtlglb.com
 .steamcommunity.com
 .steamcontent.com
 .steamdb.info
