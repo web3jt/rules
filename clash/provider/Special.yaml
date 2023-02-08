@@ -112,6 +112,7 @@ payload:
   - PROCESS-NAME,Folx
   - PROCESS-NAME,NetTransport
   - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,qbittorrent-nox
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,uTorrent
@@ -119,6 +120,7 @@ payload:
   - PROCESS-NAME,WebTorrent Helper
 
   # > Private Tracker
+  - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,chdbits.co
@@ -150,3 +152,5 @@ payload:
   - DOMAIN-SUFFIX,smtp
   # - URL-REGEX,(Subject|HELO|SMTP)
 
+  # > UBI
+  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
