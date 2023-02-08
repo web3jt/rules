@@ -114,6 +114,7 @@ DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linear-abematv.akamaized.net
 DOMAIN,link.theplatform.com
 DOMAIN,linkedin.sc.omtrdc.net
+DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN,mdn.mozillademos.org
 DOMAIN,media-rockstargames-com.akamaized.net
@@ -20712,6 +20713,7 @@ DOMAIN-SUFFIX,nitter.tedomum.net
 DOMAIN-SUFFIX,niu.moe
 DOMAIN-SUFFIX,niu95992.com
 DOMAIN-SUFFIX,niubowang.com
+DOMAIN-SUFFIX,niuc2.com
 DOMAIN-SUFFIX,niusnews.com
 DOMAIN-SUFFIX,niuxuewang.com
 DOMAIN-SUFFIX,nivod.tv
@@ -21748,6 +21750,8 @@ DOMAIN-SUFFIX,patelbrothersusa.com
 DOMAIN-SUFFIX,patentgold.net
 DOMAIN-SUFFIX,patenttruth.org
 DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreoncommunity.com
+DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,patriademarti.com
 DOMAIN-SUFFIX,patrickemaher.com
 DOMAIN-SUFFIX,paulsimon-music.com
@@ -25481,6 +25485,7 @@ DOMAIN-SUFFIX,springboardplatform.com
 DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springerlink.com
 DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,springwood.me
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,sprint.com
 DOMAIN-SUFFIX,sprint0.net
@@ -34474,6 +34479,7 @@ DOMAIN-SUFFIX,yong9191.com
 DOMAIN-SUFFIX,yoplay.com
 DOMAIN-SUFFIX,yoshisnewisland.com
 DOMAIN-SUFFIX,you-get.org
+DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,you2be.wzfou.me
 DOMAIN-SUFFIX,youassporn.com
 DOMAIN-SUFFIX,youav.com
