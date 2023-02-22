@@ -133,6 +133,7 @@ nvidia.tt.omtrdc.net
 ocsp.microsoft.com
 officecdn-microsoft-com.akamaized.net
 oneocsp.microsoft.com
+openaiapi-site.azureedge.net
 opgg-static.akamaized.net
 origin-a.akamaihd.net
 p-events-delivery.akamaized.net
@@ -3403,6 +3404,7 @@ zeenews-fonts.s3.amazonaws.com
 .ai-kan.net
 .ai-wen.net
 .ai.binwang.me
+.ai.com
 .ai780.com
 .aiaa.org
 .aibaobei.me
@@ -20504,6 +20506,7 @@ zeenews-fonts.s3.amazonaws.com
 .nexpart.tv
 .next
 .next.com
+.nextapple.com
 .nextbigfuture.com
 .nextdirect
 .nextdoor.com

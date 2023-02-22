@@ -133,6 +133,7 @@ DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ocsp.microsoft.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,oneocsp.microsoft.com
+DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,opgg-static.akamaized.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p-events-delivery.akamaized.net
@@ -3403,6 +3404,7 @@ DOMAIN-SUFFIX,ahxxx.club
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.binwang.me
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai780.com
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aibaobei.me
@@ -20504,6 +20506,7 @@ DOMAIN-SUFFIX,nexpart.com
 DOMAIN-SUFFIX,nexpart.tv
 DOMAIN-SUFFIX,next
 DOMAIN-SUFFIX,next.com
+DOMAIN-SUFFIX,nextapple.com
 DOMAIN-SUFFIX,nextbigfuture.com
 DOMAIN-SUFFIX,nextdirect
 DOMAIN-SUFFIX,nextdoor.com
