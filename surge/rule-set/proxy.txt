@@ -3288,6 +3288,7 @@ DOMAIN-SUFFIX,aeasyshop.com
 DOMAIN-SUFFIX,aebn.com
 DOMAIN-SUFFIX,aebn.net
 DOMAIN-SUFFIX,aeg
+DOMAIN-SUFFIX,aei.org
 DOMAIN-SUFFIX,aenhancers.com
 DOMAIN-SUFFIX,aeon-pool.com
 DOMAIN-SUFFIX,aerogardcn.com
@@ -30555,7 +30556,6 @@ DOMAIN-SUFFIX,www.adultcamweb.com
 DOMAIN-SUFFIX,www.advertisergleam.com
 DOMAIN-SUFFIX,www.advertstream.com
 DOMAIN-SUFFIX,www.advisen.com
-DOMAIN-SUFFIX,www.aei.org
 DOMAIN-SUFFIX,www.aerilon.com
 DOMAIN-SUFFIX,www.aeromatasia.com
 DOMAIN-SUFFIX,www.aevpn.com
