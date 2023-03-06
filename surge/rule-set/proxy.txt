@@ -23375,6 +23375,7 @@ DOMAIN-SUFFIX,qiangyou.org
 DOMAIN-SUFFIX,qienkuen.org
 DOMAIN-SUFFIX,qieyz.com
 DOMAIN-SUFFIX,qinav.com
+DOMAIN-SUFFIX,qingenporn.net
 DOMAIN-SUFFIX,qingpeng.org
 DOMAIN-SUFFIX,qingse.one
 DOMAIN-SUFFIX,qingyangmovie.be
@@ -29083,6 +29084,7 @@ DOMAIN-SUFFIX,vtvan.com
 DOMAIN-SUFFIX,vu
 DOMAIN-SUFFIX,vudu.com
 DOMAIN-SUFFIX,vuku.cc
+DOMAIN-SUFFIX,vulgarx.com
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,vultur.com
