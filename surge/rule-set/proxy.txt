@@ -46,6 +46,7 @@ DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdngarenanow-a.akamaihd.net
+DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,chinapower.csis.org
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
@@ -63,7 +64,6 @@ DOMAIN,database.asahi.com
 DOMAIN,default.exp-tas.com
 DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,developer.microsoft.com
-DOMAIN,developer.mozilla.org
 DOMAIN,developers.facebook.com
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dl.begellhouse.com
@@ -9462,6 +9462,7 @@ DOMAIN-SUFFIX,dev-guardianapis.com
 DOMAIN-SUFFIX,dev-theguardian.com
 DOMAIN-SUFFIX,devcon.org
 DOMAIN-SUFFIX,developer-advisor.com
+DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developerlibrary.com
 DOMAIN-SUFFIX,developers.box.net
 DOMAIN-SUFFIX,developria.com

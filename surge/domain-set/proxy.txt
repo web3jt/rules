@@ -46,6 +46,7 @@ cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
 cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
+chat.openai.com.cdn.cloudflare.net
 chinapower.csis.org
 cisco.evergage.com
 ciscolivehls-i.akamaihd.net
@@ -63,7 +64,6 @@ database.asahi.com
 default.exp-tas.com
 deutschewelle.h-cdn.com
 developer.microsoft.com
-developer.mozilla.org
 developers.facebook.com
 dfp6rglgjqszk.cloudfront.net
 dl.begellhouse.com
@@ -9462,6 +9462,7 @@ zeenews-fonts.s3.amazonaws.com
 .dev-theguardian.com
 .devcon.org
 .developer-advisor.com
+.developer.allizom.org
 .developerlibrary.com
 .developers.box.net
 .developria.com
