@@ -39,7 +39,6 @@
 .by
 .bz
 .ca
-.cc
 .cd
 .cf
 .cg
@@ -48,7 +47,6 @@
 .ck
 .cl
 .cm
-.co
 .cr
 .cu
 .cv
@@ -139,7 +137,6 @@
 .ma
 .mc
 .md
-.me
 .mf
 .mg
 .mh
@@ -184,7 +181,6 @@
 .pr
 .ps
 .pt
-.pw
 .py
 .qa
 .re
