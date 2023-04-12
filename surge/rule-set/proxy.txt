@@ -166,6 +166,8 @@ DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,oneocsp.microsoft.com
 DOMAIN,ood.opsource.net
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,opgg-static.akamaized.net
 DOMAIN,origin-a.akamaihd.net
 DOMAIN,p-events-delivery.akamaized.net
@@ -180,6 +182,7 @@ DOMAIN,practivate.adobe.ipp
 DOMAIN,practivate.adobe.newoa
 DOMAIN,practivate.adobe.ntp
 DOMAIN,prd-priconne-redive.akamaized.net
+DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,push-apple.com.akadns.net
