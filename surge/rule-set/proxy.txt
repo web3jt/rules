@@ -280,6 +280,7 @@ DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steammobile.akamaized.net
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,steampipe.akamaized.net
