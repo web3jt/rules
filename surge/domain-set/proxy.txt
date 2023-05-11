@@ -1471,7 +1471,6 @@ zeenews-fonts.s3.amazonaws.com
 .amsterdamluxescort.com
 .amtb-taipei.org
 .amytele.com
-.amz123.com
 .amzn.com
 .amznl.com
 .anacams.com
@@ -7156,6 +7155,7 @@ zeenews-fonts.s3.amazonaws.com
 .furinkan.com
 .furl.net
 .furrypornvideos.com
+.furuke.com
 .fury.blog
 .fury.co
 .fury.dev
@@ -8482,6 +8482,7 @@ zeenews-fonts.s3.amazonaws.com
 .hotshame.com
 .hotspotshield.com
 .hotstar-cdn.net
+.hotstar-labs.com
 .hotstar.com
 .hotstarext.com
 .hotstunners.com
