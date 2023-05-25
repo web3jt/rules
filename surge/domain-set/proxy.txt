@@ -137,7 +137,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 impala-media-production.s3.amazonaws.com
 imperial.insendi.com
-interactive-examples.mdn.mozilla.net
 lgelectronics.122.2o7.net
 licdn.cn.cdn20.com
 linear-abematv.akamaized.net
@@ -10790,6 +10789,7 @@ zeenews-fonts.s3.amazonaws.com
 .mdhcdn.com
 .mdialog.com
 .mdlf.xyz
+.mdn.allizom.net
 .mdn.dev
 .mdn.mozit.cloud
 .mdnkids.com
