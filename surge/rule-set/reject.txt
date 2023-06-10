@@ -3096,6 +3096,7 @@ DOMAIN-SUFFIX,ad2.udn.com
 DOMAIN-SUFFIX,ad2.xrea.com
 DOMAIN-SUFFIX,ad2.zophar.net
 DOMAIN-SUFFIX,ad20.net
+DOMAIN-SUFFIX,ad2023.site
 DOMAIN-SUFFIX,ad2adnetwork.biz
 DOMAIN-SUFFIX,ad2games.com
 DOMAIN-SUFFIX,ad2links.com
@@ -17819,6 +17820,7 @@ DOMAIN-SUFFIX,dacyh.cyou
 DOMAIN-SUFFIX,dacyptepa.pro
 DOMAIN-SUFFIX,dad-api.dcard.tw
 DOMAIN-SUFFIX,dadawm.cc
+DOMAIN-SUFFIX,dadcc.cn
 DOMAIN-SUFFIX,dadhuhram.com
 DOMAIN-SUFFIX,dadi.technology
 DOMAIN-SUFFIX,dadisary.buzz
@@ -21327,6 +21329,7 @@ DOMAIN-SUFFIX,eq.userneeds.com
 DOMAIN-SUFFIX,eqacypykxa.com
 DOMAIN-SUFFIX,eqads.com
 DOMAIN-SUFFIX,eqfgc.com
+DOMAIN-SUFFIX,eqghuu.com
 DOMAIN-SUFFIX,eqknlsw.xyz
 DOMAIN-SUFFIX,eqmx04n5s0.ru
 DOMAIN-SUFFIX,eqnggnsw.fun
@@ -22558,6 +22561,7 @@ DOMAIN-SUFFIX,fcmatch.google.com
 DOMAIN-SUFFIX,fcmatch.youtube.com
 DOMAIN-SUFFIX,fcmecvwyp.com
 DOMAIN-SUFFIX,fcompsepd.com
+DOMAIN-SUFFIX,fcpnxx.xyz
 DOMAIN-SUFFIX,fcqqbrfucuf.com
 DOMAIN-SUFFIX,fcrdb.com
 DOMAIN-SUFFIX,fcs.ovh
@@ -29080,6 +29084,7 @@ DOMAIN-SUFFIX,irs09.com
 DOMAIN-SUFFIX,irtya.com
 DOMAIN-SUFFIX,irtyd.com
 DOMAIN-SUFFIX,irtyf.com
+DOMAIN-SUFFIX,iruacwa.xyz
 DOMAIN-SUFFIX,irxcm.com
 DOMAIN-SUFFIX,iryazan.ru
 DOMAIN-SUFFIX,irygym.xyz
@@ -29521,6 +29526,7 @@ DOMAIN-SUFFIX,jdmodr.com
 DOMAIN-SUFFIX,jdnlynb.cn
 DOMAIN-SUFFIX,jdoqocy.com
 DOMAIN-SUFFIX,jdownloader.fr
+DOMAIN-SUFFIX,jdpm.net.cn
 DOMAIN-SUFFIX,jdyz3.cn
 DOMAIN-SUFFIX,je8fn.com
 DOMAIN-SUFFIX,jealousyimpostersophia.com
@@ -36872,6 +36878,7 @@ DOMAIN-SUFFIX,ngegas.files.im
 DOMAIN-SUFFIX,ngeoziadiyc4hi2e.com
 DOMAIN-SUFFIX,ngforanoppor.info
 DOMAIN-SUFFIX,ngfruitiesmatc.info
+DOMAIN-SUFFIX,ngishc.top
 DOMAIN-SUFFIX,ngjzmt.com
 DOMAIN-SUFFIX,ngleaccinemad.xyz
 DOMAIN-SUFFIX,nglmedia.com
@@ -39876,6 +39883,7 @@ DOMAIN-SUFFIX,pdqwaan.cn
 DOMAIN-SUFFIX,pdshmfkugsddkm.xyz
 DOMAIN-SUFFIX,pdss.xyz
 DOMAIN-SUFFIX,pdvacde.com
+DOMAIN-SUFFIX,pdweigee.com
 DOMAIN-SUFFIX,pdxgfnnoan.com
 DOMAIN-SUFFIX,pdxubxc.cn
 DOMAIN-SUFFIX,pdxvghgtvjtq.com
@@ -45096,6 +45104,7 @@ DOMAIN-SUFFIX,rs6.net
 DOMAIN-SUFFIX,rsalcau.com
 DOMAIN-SUFFIX,rsalcch.com
 DOMAIN-SUFFIX,rsaltsjt.com
+DOMAIN-SUFFIX,rsanciz.top
 DOMAIN-SUFFIX,rsationhesa.one
 DOMAIN-SUFFIX,rsationhesaid.xyz
 DOMAIN-SUFFIX,rsbepv.xyz
@@ -49849,6 +49858,7 @@ DOMAIN-SUFFIX,superbisle.com
 DOMAIN-SUFFIX,superbrewards.com
 DOMAIN-SUFFIX,superclix.de
 DOMAIN-SUFFIX,supercounters.com
+DOMAIN-SUFFIX,superdeos.com
 DOMAIN-SUFFIX,superfastcdn.com
 DOMAIN-SUFFIX,superfastcomputer.ru
 DOMAIN-SUFFIX,superficialeyes.com
@@ -56215,6 +56225,7 @@ DOMAIN-SUFFIX,vwiftixryzfo.com
 DOMAIN-SUFFIX,vwimkumfuk.com
 DOMAIN-SUFFIX,vwl7kia4fzz6.com
 DOMAIN-SUFFIX,vwonwkaqvq-a.global.ssl.fastly.net
+DOMAIN-SUFFIX,vwtjvd.xyz
 DOMAIN-SUFFIX,vwuyuahqf.com
 DOMAIN-SUFFIX,vwvjzd.xyz
 DOMAIN-SUFFIX,vx2e.top
@@ -56532,6 +56543,7 @@ DOMAIN-SUFFIX,wboux.com
 DOMAIN-SUFFIX,wbqosw.xyz
 DOMAIN-SUFFIX,wbsads.com
 DOMAIN-SUFFIX,wbtrk.net
+DOMAIN-SUFFIX,wbupbv.com
 DOMAIN-SUFFIX,wbusiness.fr
 DOMAIN-SUFFIX,wccprfxgbes.com
 DOMAIN-SUFFIX,wcdc5.com
@@ -56634,6 +56646,7 @@ DOMAIN-SUFFIX,webads.nl
 DOMAIN-SUFFIX,webadv.co
 DOMAIN-SUFFIX,webair.com
 DOMAIN-SUFFIX,webanalysis.dev
+DOMAIN-SUFFIX,webanalytics.zohodcm.com
 DOMAIN-SUFFIX,webanalyzer.bussion.com
 DOMAIN-SUFFIX,webantenna.info
 DOMAIN-SUFFIX,webassembly.stream
@@ -60392,6 +60405,7 @@ DOMAIN-SUFFIX,zqizn.com
 DOMAIN-SUFFIX,zqmwf.xyz
 DOMAIN-SUFFIX,zqtk.net
 DOMAIN-SUFFIX,zqwlkj.cn
+DOMAIN-SUFFIX,zrakpxsf.com
 DOMAIN-SUFFIX,zrav2wkbrs.com
 DOMAIN-SUFFIX,zrbabog.cn
 DOMAIN-SUFFIX,zrbn.ltd
