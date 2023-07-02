@@ -9914,6 +9914,7 @@ DOMAIN-SUFFIX,k9vidz.com
 DOMAIN-SUFFIX,ka-wai.com
 DOMAIN-SUFFIX,kaamuu.com
 DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.net
 DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,kagyu.org
 DOMAIN-SUFFIX,kagyumonlam.org
