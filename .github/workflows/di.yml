@@ -55,7 +55,7 @@ jobs:
           cp ./source/Clash/Provider/Media/*.yaml ./dist/clash/provider/media
 
       - name: Deploy 🚀🚀🚀🚀
-        uses: JamesIves/github-pages-deploy-action@v4.4.2
+        uses: JamesIves/github-pages-deploy-action@v4.4.3
         with:
           commit-message: "${{ env.RELEASE_NAME }}"
           branch: di
