@@ -2382,6 +2382,7 @@ DOMAIN-SUFFIX,greenpeace.org
 DOMAIN-SUFFIX,greenreadings.com
 DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
+DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,groups.google.cn
 DOMAIN-SUFFIX,grow.google
@@ -2778,6 +2779,7 @@ DOMAIN-SUFFIX,imb.org
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,img.dlsite.jp
 DOMAIN-SUFFIX,img.ly
+DOMAIN-SUFFIX,imgasd.com
 DOMAIN-SUFFIX,imgchili.net
 DOMAIN-SUFFIX,imgmega.com
 DOMAIN-SUFFIX,imgur.com
@@ -5900,6 +5902,7 @@ DOMAIN-SUFFIX,xiaod.in
 DOMAIN-SUFFIX,xiaohexie.com
 DOMAIN-SUFFIX,xiaolan.me
 DOMAIN-SUFFIX,xiaoma.org
+DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaxiaoqiang.net
 DOMAIN-SUFFIX,xiezhua.com
 DOMAIN-SUFFIX,xihua.es

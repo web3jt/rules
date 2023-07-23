@@ -7858,6 +7858,7 @@ DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,greginhollywood.com
 DOMAIN-SUFFIX,gridaware.app
+DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,groupfun.com
@@ -9080,6 +9081,7 @@ DOMAIN-SUFFIX,imaypb.com
 DOMAIN-SUFFIX,imb.org
 DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imgasd.com
 DOMAIN-SUFFIX,imgbb.com
 DOMAIN-SUFFIX,imgchili.net
 DOMAIN-SUFFIX,imgcrl.org
