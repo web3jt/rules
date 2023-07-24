@@ -974,7 +974,6 @@ DOMAIN-SUFFIX,adanaatikhaber.com
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,adbkm.com
 DOMAIN-SUFFIX,adblockplus.org
-DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
 DOMAIN-SUFFIX,adcex.com
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
@@ -1203,9 +1202,11 @@ DOMAIN-SUFFIX,akacrypto.net
 DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akademiye.org
 DOMAIN-SUFFIX,akadns.com
+DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akadns6.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
+DOMAIN-SUFFIX,akagtm.org
 DOMAIN-SUFFIX,akahost.net
 DOMAIN-SUFFIX,akaint.net
 DOMAIN-SUFFIX,akam.net
@@ -1225,6 +1226,7 @@ DOMAIN-SUFFIX,akamai-thailand.net
 DOMAIN-SUFFIX,akamai-trials.com
 DOMAIN-SUFFIX,akamai.com
 DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaientrypoint.net
 DOMAIN-SUFFIX,akamaietpcnctest.com
 DOMAIN-SUFFIX,akamaietpcompromisedcnctest.com
@@ -1239,6 +1241,7 @@ DOMAIN-SUFFIX,akamainewzealand.com
 DOMAIN-SUFFIX,akamaiphillipines.com
 DOMAIN-SUFFIX,akamaiphillipines.net
 DOMAIN-SUFFIX,akamaisingapore.net
+DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,akamaitech.com
 DOMAIN-SUFFIX,akamaitech.net
 DOMAIN-SUFFIX,akamaitechnologies.com
@@ -2079,6 +2082,7 @@ DOMAIN-SUFFIX,avinin.com
 DOMAIN-SUFFIX,avizoon.site
 DOMAIN-SUFFIX,avizoone.com
 DOMAIN-SUFFIX,avjb.com
+DOMAIN-SUFFIX,avjoy.me
 DOMAIN-SUFFIX,avlulu.cc
 DOMAIN-SUFFIX,avmo.pw
 DOMAIN-SUFFIX,avmoo.click
@@ -3857,7 +3861,6 @@ DOMAIN-SUFFIX,cdpeu.org
 DOMAIN-SUFFIX,cdpusa.org
 DOMAIN-SUFFIX,cdpweb.org
 DOMAIN-SUFFIX,cdpwu.org
-DOMAIN-SUFFIX,cds.apple.com.akadns.net
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,ceb
 DOMAIN-SUFFIX,cebay.com
@@ -4203,10 +4206,6 @@ DOMAIN-SUFFIX,ckck.fun
 DOMAIN-SUFFIX,ckss98.com
 DOMAIN-SUFFIX,cl
 DOMAIN-SUFFIX,cl.d0z.net
-DOMAIN-SUFFIX,cl1-cdn.origin-apple.com.akadns.net
-DOMAIN-SUFFIX,cl3-cdn.origin-apple.com.akadns.net
-DOMAIN-SUFFIX,cl4-cdn.origin-apple.com.akadns.net
-DOMAIN-SUFFIX,cl5-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,claravenger.com
 DOMAIN-SUFFIX,clarionproject.org
 DOMAIN-SUFFIX,clarivate.com
@@ -4226,7 +4225,6 @@ DOMAIN-SUFFIX,clementine-player.org
 DOMAIN-SUFFIX,click-url.com
 DOMAIN-SUFFIX,clickserve.cc-dt.com
 DOMAIN-SUFFIX,clickserver.googleads.com
-DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
 DOMAIN-SUFFIX,clinical-videos.com
 DOMAIN-SUFFIX,clinicalkey.com
 DOMAIN-SUFFIX,clinique
@@ -4423,7 +4421,6 @@ DOMAIN-SUFFIX,computer.org
 DOMAIN-SUFFIX,computingreviews.com
 DOMAIN-SUFFIX,comsoc.org
 DOMAIN-SUFFIX,conair.me
-DOMAIN-SUFFIX,configuration.apple.com.akadns.net
 DOMAIN-SUFFIX,conlogne
 DOMAIN-SUFFIX,connect-in-canada.com
 DOMAIN-SUFFIX,connectcommerce.info
@@ -4789,7 +4786,6 @@ DOMAIN-SUFFIX,dcard.link
 DOMAIN-SUFFIX,dclk
 DOMAIN-SUFFIX,dcmilitary.com
 DOMAIN-SUFFIX,dctbeatsbydre.com
-DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,ddd-smart.net
 DOMAIN-SUFFIX,ddg.co
 DOMAIN-SUFFIX,ddhw.info
@@ -5127,6 +5123,7 @@ DOMAIN-SUFFIX,dlsitenews.com
 DOMAIN-SUFFIX,dlsitestudio.com
 DOMAIN-SUFFIX,dlyoutube.com
 DOMAIN-SUFFIX,dm
+DOMAIN-SUFFIX,dm-event.net
 DOMAIN-SUFFIX,dm530.net
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmed.technology
@@ -5180,6 +5177,7 @@ DOMAIN-SUFFIX,dnset.com
 DOMAIN-SUFFIX,dnsrd.com
 DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnsvisa.com
+DOMAIN-SUFFIX,dnvodcdn.me
 DOMAIN-SUFFIX,do
 DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,dobbyporn.com
@@ -7871,8 +7869,6 @@ DOMAIN-SUFFIX,gscanada.info
 DOMAIN-SUFFIX,gsccdn.com
 DOMAIN-SUFFIX,gsearch.media
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
-DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
 DOMAIN-SUFFIX,gstatic-cn.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gsuite.com
@@ -8867,6 +8863,7 @@ DOMAIN-SUFFIX,iamremarkable.org
 DOMAIN-SUFFIX,iamtopone.com
 DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,iav19.com
+DOMAIN-SUFFIX,iavnight.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibeats-uk.com
 DOMAIN-SUFFIX,ibeatsbydre.cc
@@ -8897,7 +8894,6 @@ DOMAIN-SUFFIX,ichigocandy.com
 DOMAIN-SUFFIX,ichineseporn.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
-DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud.com
@@ -9068,8 +9064,6 @@ DOMAIN-SUFFIX,imageflea.com
 DOMAIN-SUFFIX,imagepost.com
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,images-gaytube.com
-DOMAIN-SUFFIX,images.apple.com.akadns.net
-DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,imageshack.com
 DOMAIN-SUFFIX,imagetwist.com
 DOMAIN-SUFFIX,imagevenue.com
@@ -9165,9 +9159,6 @@ DOMAIN-SUFFIX,ingkacentres.com
 DOMAIN-SUFFIX,ingyenszexvideo.top
 DOMAIN-SUFFIX,inhumanity.com
 DOMAIN-SUFFIX,inikesneakers.com
-DOMAIN-SUFFIX,init-p01md-lb.push-apple.com.akadns.net
-DOMAIN-SUFFIX,init-p01st-lb.push-apple.com.akadns.net
-DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init.shop
 DOMAIN-SUFFIX,initiativesforchina.org
 DOMAIN-SUFFIX,initproducts.com
@@ -9343,7 +9334,6 @@ DOMAIN-SUFFIX,ipfs.runfission.com
 DOMAIN-SUFFIX,iphine.com
 DOMAIN-SUFFIX,iphone-cd.com
 DOMAIN-SUFFIX,iphone-cn.com
-DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,iphone-sh.com
 DOMAIN-SUFFIX,iphone-vip1.com
 DOMAIN-SUFFIX,iphone-vip2.com
@@ -9486,7 +9476,6 @@ DOMAIN-SUFFIX,itsoc.org
 DOMAIN-SUFFIX,itu.int
 DOMAIN-SUFFIX,itunbes.com
 DOMAIN-SUFFIX,ituneas.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
 DOMAIN-SUFFIX,itunes.co
 DOMAIN-SUFFIX,itunes.com
@@ -10971,8 +10960,6 @@ DOMAIN-SUFFIX,mesotw.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,messengerdevelopers.com
 DOMAIN-SUFFIX,messytube.com
-DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
-DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,met-nude.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacafe.com
@@ -11606,6 +11593,7 @@ DOMAIN-SUFFIX,muncloud.dog
 DOMAIN-SUFFIX,muryouav.net
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musclegirlflix.com
+DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,musicade.net
 DOMAIN-SUFFIX,musicbay.net
 DOMAIN-SUFFIX,musickit.net
@@ -12508,7 +12496,6 @@ DOMAIN-SUFFIX,occupytiananmen.com
 DOMAIN-SUFFIX,ocreampies.com
 DOMAIN-SUFFIX,ocry.com
 DOMAIN-SUFFIX,ocsp-certum.com
-DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp-responder.com
 DOMAIN-SUFFIX,october-review.org
 DOMAIN-SUFFIX,oculus-china.com
@@ -12580,6 +12567,7 @@ DOMAIN-SUFFIX,oldnavy
 DOMAIN-SUFFIX,olehd.com
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,olemovienews.com
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-SUFFIX,oli-school.com
@@ -12769,7 +12757,6 @@ DOMAIN-SUFFIX,orzqwq.com
 DOMAIN-SUFFIX,osaka
 DOMAIN-SUFFIX,osakamotion.net
 DOMAIN-SUFFIX,osapublishing.org
-DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,osfoora.com
 DOMAIN-SUFFIX,osiri-suki-club.com
@@ -12899,7 +12886,6 @@ DOMAIN-SUFFIX,paltalk.com
 DOMAIN-SUFFIX,pamperedchef
 DOMAIN-SUFFIX,panasonic
 DOMAIN-SUFFIX,panasonic.com
-DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,pandamovies.pw
 DOMAIN-SUFFIX,pandanet-igs.com
 DOMAIN-SUFFIX,pandapow.co
@@ -13849,7 +13835,6 @@ DOMAIN-SUFFIX,privatevpn.com
 DOMAIN-SUFFIX,privoxy.org
 DOMAIN-SUFFIX,procopytips.com
 DOMAIN-SUFFIX,proctoscopeexam.com
-DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
 DOMAIN-SUFFIX,prodrive-japan.com
 DOMAIN-SUFFIX,profreeporno.com
 DOMAIN-SUFFIX,progressive
@@ -14345,7 +14330,6 @@ DOMAIN-SUFFIX,rexroth
 DOMAIN-SUFFIX,rexxx.org
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rfachina.com
-DOMAIN-SUFFIX,rfalive1.akacast.akamaistream.net
 DOMAIN-SUFFIX,rfamobile.org
 DOMAIN-SUFFIX,rfaweb.org
 DOMAIN-SUFFIX,rferl.org
@@ -15199,12 +15183,10 @@ DOMAIN-SUFFIX,skybet.com
 DOMAIN-SUFFIX,skydrive
 DOMAIN-SUFFIX,skyoceanrescue.com
 DOMAIN-SUFFIX,skype
-DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeassets.net
-DOMAIN-SUFFIX,skypedata.akadns.net
 DOMAIN-SUFFIX,skyporn.online
 DOMAIN-SUFFIX,skysports.com
 DOMAIN-SUFFIX,skysportsonline.com
@@ -15646,7 +15628,6 @@ DOMAIN-SUFFIX,stockagainstphotography.com
 DOMAIN-SUFFIX,stockholm
 DOMAIN-SUFFIX,stocking-tease.com
 DOMAIN-SUFFIX,stockingfetishvideo.com
-DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,stonefoxlingerie.com
 DOMAIN-SUFFIX,stonefoxproductions.com
 DOMAIN-SUFFIX,stoporganharvesting.org
@@ -15654,8 +15635,6 @@ DOMAIN-SUFFIX,stoptibetcrisis.net
 DOMAIN-SUFFIX,storagenewsletter.com
 DOMAIN-SUFFIX,store-bridgestonesports.com
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
-DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
 DOMAIN-SUFFIX,storesense.com
 DOMAIN-SUFFIX,storiesonline.net
 DOMAIN-SUFFIX,storify.com
@@ -15771,7 +15750,6 @@ DOMAIN-SUFFIX,superzooi.com
 DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,suppig.net
 DOMAIN-SUFFIX,supplybestjerseys.com
-DOMAIN-SUFFIX,support-china.apple-support.akadns.net
 DOMAIN-SUFFIX,supportfacebook.com
 DOMAIN-SUFFIX,supremacy.com
 DOMAIN-SUFFIX,supremacy.net
@@ -15807,8 +15785,6 @@ DOMAIN-SUFFIX,swapsmut.com
 DOMAIN-SUFFIX,swatch
 DOMAIN-SUFFIX,sway-cdn.com
 DOMAIN-SUFFIX,sway.com
-DOMAIN-SUFFIX,swcatalog-cdn.apple.com.akadns.net
-DOMAIN-SUFFIX,swdist.apple.com.akadns.net
 DOMAIN-SUFFIX,sweetadult-tube.com
 DOMAIN-SUFFIX,sweetmlif.net
 DOMAIN-SUFFIX,sweetsext.com
@@ -15842,7 +15818,6 @@ DOMAIN-SUFFIX,swjedifallenorder.com
 DOMAIN-SUFFIX,swjfo.com
 DOMAIN-SUFFIX,swoosh.com
 DOMAIN-SUFFIX,swpr.livedoor.blog
-DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,swtor.com
 DOMAIN-SUFFIX,swtor.net
 DOMAIN-SUFFIX,sx
@@ -16263,6 +16238,7 @@ DOMAIN-SUFFIX,thongdreams.com
 DOMAIN-SUFFIX,thottok.com
 DOMAIN-SUFFIX,thotvids.com
 DOMAIN-SUFFIX,threadreaderapp.com
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threatchaos.com
 DOMAIN-SUFFIX,thrixxx.com
 DOMAIN-SUFFIX,throughnightsfire.com
@@ -16973,7 +16949,6 @@ DOMAIN-SUFFIX,uol
 DOMAIN-SUFFIX,up.gcp.googlers.com
 DOMAIN-SUFFIX,up01.cc
 DOMAIN-SUFFIX,update.crashlytics.com
-DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,updatetube.com
 DOMAIN-SUFFIX,upghsbc.com
 DOMAIN-SUFFIX,upholdjustice.org
@@ -17089,7 +17064,6 @@ DOMAIN-SUFFIX,vaginapics.pro
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vagrantup.com
 DOMAIN-SUFFIX,valeursactuelles.com
-DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,valoryirene.com
 DOMAIN-SUFFIX,valuegb.com
 DOMAIN-SUFFIX,valvesoftware.com
@@ -17422,7 +17396,6 @@ DOMAIN-SUFFIX,vn
 DOMAIN-SUFFIX,vn.hao123.com
 DOMAIN-SUFFIX,vnet.link
 DOMAIN-SUFFIX,vnware.net
-DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net
 DOMAIN-SUFFIX,voaafaanoromoo.com
 DOMAIN-SUFFIX,voaafrique.com
 DOMAIN-SUFFIX,voabambara.com
@@ -17674,7 +17647,6 @@ DOMAIN-SUFFIX,weareebay.com
 DOMAIN-SUFFIX,wearehairy.com
 DOMAIN-SUFFIX,wearn.com
 DOMAIN-SUFFIX,weather
-DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
 DOMAIN-SUFFIX,weatherchannel
 DOMAIN-SUFFIX,weav.xyz
 DOMAIN-SUFFIX,web-instagram.net
@@ -18066,7 +18038,6 @@ DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
-DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,www.cmoinc.org
 DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,www.dwheeler.com
