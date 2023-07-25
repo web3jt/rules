@@ -1431,6 +1431,7 @@ zeenews-fonts.s3.amazonaws.com
 .amazon-lantern.com
 .amazon-launchpad.com
 .amazon.com
+.amazon.dev
 .amazon.jobs
 .amazon.red
 .amazonalexavoxcon.com
@@ -2190,6 +2191,7 @@ zeenews-fonts.s3.amazonaws.com
 .azuredns-prd.org
 .azureedge-test.net
 .azureedge.net
+.azurefd.net
 .azureiotcentral.com
 .azureiotsolutions.com
 .azureiotsuite.com
@@ -3990,6 +3992,8 @@ zeenews-fonts.s3.amazonaws.com
 .cheapwireless04.com
 .cheapwirelessbeats.com
 .checkgfw.com
+.chegg.com
+.cheggcdn.com
 .chemequations.com
 .chemnetbase.com
 .chengjuanseo.com
@@ -4268,6 +4272,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudflarestream.com
 .cloudflaretest.com
 .cloudflarewarp.com
+.cloudfront.com
 .cloudfront.net
 .cloudfunctions.net
 .cloudhealthtech.com
@@ -4284,6 +4289,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloupia.com
 .cloupia.net
 .club1069.com
+.clubhouse.com
 .clubhouseapi.com
 .clubmed
 .clubseventeen.com
@@ -5696,6 +5702,7 @@ zeenews-fonts.s3.amazonaws.com
 .edgedatg.com
 .edgefonts.net
 .edgemeplease.com
+.edgesuite.net
 .edicypages.com
 .edisebay.com
 .editorx.com
@@ -5836,6 +5843,7 @@ zeenews-fonts.s3.amazonaws.com
 .entrustdatacard.com
 .epicbrowser.com
 .epicgames.com
+.epicgames.dev
 .epicreads.com
 .epigeum.com
 .epikporn.com
@@ -6774,6 +6782,7 @@ zeenews-fonts.s3.amazonaws.com
 .foodnetwork
 .foofle.com
 .fooooo.com
+.footprintdns.com
 .footseen.com
 .footstockings.com
 .forbes.com
@@ -8030,7 +8039,6 @@ zeenews-fonts.s3.amazonaws.com
 .hbo
 .hbo.com
 .hbo.com.c.footprint.net
-.hbo.com.edgesuite.net
 .hboasia.com
 .hbogo.com
 .hbogoasia.com
@@ -9913,6 +9921,8 @@ zeenews-fonts.s3.amazonaws.com
 .kagyuoffice.org
 .kairakudoujin.net
 .kakao.com
+.kakaocdn.net
+.kakaocorp.com
 .kaktuz.com
 .kalachakralugano.org
 .kali.org
@@ -10827,6 +10837,7 @@ zeenews-fonts.s3.amazonaws.com
 .mattel
 .matters.news
 .matters.one
+.matters.town
 .mattwilcox.net
 .mature-amateur-sex.com
 .mature-porn-flix.com
@@ -14004,6 +14015,7 @@ zeenews-fonts.s3.amazonaws.com
 .qmov.net
 .qmttqg3k.me
 .qombol.com
+.qooqlevideo.com
 .qoos.com
 .qorno.com
 .qpoe.com
@@ -14121,6 +14133,7 @@ zeenews-fonts.s3.amazonaws.com
 .rarbgto.org
 .rarbgunblock.com
 .rarbgunblock.org
+.rarbgunblocked.org
 .rarbgway.org
 .raremovie.cc
 .raremovie.net
@@ -16756,7 +16769,6 @@ zeenews-fonts.s3.amazonaws.com
 .twilog.org
 .twimbow.com
 .twimg.com
-.twimg.edgesuite.net
 .twindexx.com
 .twinkspornos.com
 .twinkybf.com

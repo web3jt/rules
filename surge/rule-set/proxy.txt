@@ -1431,6 +1431,7 @@ DOMAIN-SUFFIX,amazon-jp-recruiting.com
 DOMAIN-SUFFIX,amazon-lantern.com
 DOMAIN-SUFFIX,amazon-launchpad.com
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,amazon.jobs
 DOMAIN-SUFFIX,amazon.red
 DOMAIN-SUFFIX,amazonalexavoxcon.com
@@ -2190,6 +2191,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azureiotcentral.com
 DOMAIN-SUFFIX,azureiotsolutions.com
 DOMAIN-SUFFIX,azureiotsuite.com
@@ -3990,6 +3992,8 @@ DOMAIN-SUFFIX,cheapshoesvip.com
 DOMAIN-SUFFIX,cheapwireless04.com
 DOMAIN-SUFFIX,cheapwirelessbeats.com
 DOMAIN-SUFFIX,checkgfw.com
+DOMAIN-SUFFIX,chegg.com
+DOMAIN-SUFFIX,cheggcdn.com
 DOMAIN-SUFFIX,chemequations.com
 DOMAIN-SUFFIX,chemnetbase.com
 DOMAIN-SUFFIX,chengjuanseo.com
@@ -4268,6 +4272,7 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflaretest.com
 DOMAIN-SUFFIX,cloudflarewarp.com
+DOMAIN-SUFFIX,cloudfront.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudhealthtech.com
@@ -4284,6 +4289,7 @@ DOMAIN-SUFFIX,cloudyzgirl.com
 DOMAIN-SUFFIX,cloupia.com
 DOMAIN-SUFFIX,cloupia.net
 DOMAIN-SUFFIX,club1069.com
+DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clubmed
 DOMAIN-SUFFIX,clubseventeen.com
@@ -5696,6 +5702,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edgefonts.net
 DOMAIN-SUFFIX,edgemeplease.com
+DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,edicypages.com
 DOMAIN-SUFFIX,edisebay.com
 DOMAIN-SUFFIX,editorx.com
@@ -5836,6 +5843,7 @@ DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,entrustdatacard.com
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicreads.com
 DOMAIN-SUFFIX,epigeum.com
 DOMAIN-SUFFIX,epikporn.com
@@ -6774,6 +6782,7 @@ DOMAIN-SUFFIX,food
 DOMAIN-SUFFIX,foodnetwork
 DOMAIN-SUFFIX,foofle.com
 DOMAIN-SUFFIX,fooooo.com
+DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,footseen.com
 DOMAIN-SUFFIX,footstockings.com
 DOMAIN-SUFFIX,forbes.com
@@ -8030,7 +8039,6 @@ DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,hbo
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbo.com.c.footprint.net
-DOMAIN-SUFFIX,hbo.com.edgesuite.net
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.com
@@ -9913,6 +9921,8 @@ DOMAIN-SUFFIX,kagyumonlam.org
 DOMAIN-SUFFIX,kagyuoffice.org
 DOMAIN-SUFFIX,kairakudoujin.net
 DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocdn.net
+DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,kaktuz.com
 DOMAIN-SUFFIX,kalachakralugano.org
 DOMAIN-SUFFIX,kali.org
@@ -10827,6 +10837,7 @@ DOMAIN-SUFFIX,matsushimakaede.com
 DOMAIN-SUFFIX,mattel
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,matters.one
+DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,mature-amateur-sex.com
 DOMAIN-SUFFIX,mature-porn-flix.com
@@ -14004,6 +14015,7 @@ DOMAIN-SUFFIX,qmov.com
 DOMAIN-SUFFIX,qmov.net
 DOMAIN-SUFFIX,qmttqg3k.me
 DOMAIN-SUFFIX,qombol.com
+DOMAIN-SUFFIX,qooqlevideo.com
 DOMAIN-SUFFIX,qoos.com
 DOMAIN-SUFFIX,qorno.com
 DOMAIN-SUFFIX,qpoe.com
@@ -14121,6 +14133,7 @@ DOMAIN-SUFFIX,rarbgprx.org
 DOMAIN-SUFFIX,rarbgto.org
 DOMAIN-SUFFIX,rarbgunblock.com
 DOMAIN-SUFFIX,rarbgunblock.org
+DOMAIN-SUFFIX,rarbgunblocked.org
 DOMAIN-SUFFIX,rarbgway.org
 DOMAIN-SUFFIX,raremovie.cc
 DOMAIN-SUFFIX,raremovie.net
@@ -16756,7 +16769,6 @@ DOMAIN-SUFFIX,twilightsex.com
 DOMAIN-SUFFIX,twilog.org
 DOMAIN-SUFFIX,twimbow.com
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twimg.edgesuite.net
 DOMAIN-SUFFIX,twindexx.com
 DOMAIN-SUFFIX,twinkspornos.com
 DOMAIN-SUFFIX,twinkybf.com
