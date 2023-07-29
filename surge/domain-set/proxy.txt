@@ -4256,6 +4256,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudcraze.com
 .cloudcredibility.com
 .cloudflare-dns.com
+.cloudflare-gateway.com
 .cloudflare-ipfs.com
 .cloudflare-quic.com
 .cloudflare.com
@@ -4266,6 +4267,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudflareclient.com
 .cloudflareinsights.com
 .cloudflareok.com
+.cloudflareportal.com
 .cloudflarepreview.com
 .cloudflareresolve.com
 .cloudflaressl.com
@@ -13250,6 +13252,8 @@ zeenews-fonts.s3.amazonaws.com
 .pifpafarabia.com
 .pigav.com
 .pikabu.monster
+.pikpak.me
+.pikpakdrive.com
 .pillbeatsblackfridaysale.com
 .pin-cong.com
 .pin6.com
