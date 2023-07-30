@@ -175,6 +175,7 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 nvidia.tt.omtrdc.net
 ocsp.microsoft.com
 officecdn-microsoft-com.akamaized.net
+onekey.zendesk.com
 oneocsp.microsoft.com
 ood.opsource.net
 openaiapi-site.azureedge.net
@@ -12629,6 +12630,8 @@ zeenews-fonts.s3.amazonaws.com
 .onefifteen.org
 .onejapanese.com
 .onejav.com
+.onekey-asset.com
+.onekeycn.com
 .onenote.com
 .onenote.net
 .onepornlist.com
