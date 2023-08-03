@@ -1151,7 +1151,6 @@ zeenews-fonts.s3.amazonaws.com
 .ai-kan.net
 .ai-wen.net
 .ai.binwang.me
-.ai.com
 .aiaa.org
 .aibaobei.me
 .aig
@@ -17568,6 +17567,7 @@ zeenews-fonts.s3.amazonaws.com
 .vxnbbrs.xyz
 .vxxsred.xyz
 .vzw.com
+.w-mt.co
 .w.idaiwan.com
 .w.org
 .w.wiki

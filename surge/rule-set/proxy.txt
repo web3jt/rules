@@ -1151,7 +1151,6 @@ DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.binwang.me
-DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aibaobei.me
 DOMAIN-SUFFIX,aig
@@ -17568,6 +17567,7 @@ DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,vxnbbrs.xyz
 DOMAIN-SUFFIX,vxxsred.xyz
 DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,w-mt.co
 DOMAIN-SUFFIX,w.idaiwan.com
 DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,w.wiki
