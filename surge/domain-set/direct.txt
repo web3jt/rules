@@ -36,7 +36,6 @@ beacons3.gvt2.com
 bg.v4.a.dl.ws.microsoft.com
 bg4.v4.a.dl.ws.microsoft.com
 bj1.api.bing.com
-blz.nosdn.127.net
 bookkeeper.itunes.apple.com
 borgmon.adz.google.com
 c.admob.com
@@ -80,7 +79,6 @@ clientflow.apple.com
 clientflow.apple.com.akadns.net
 clientservices.googleapis.com
 cma.itunes.apple.com
-cn.actual.battle.net
 cn.widevine.com
 cn.windowssearch.com
 cnappinstall.googleadapis.com
@@ -104,8 +102,6 @@ dartsearch-cn.net
 dd-cdn.origin-apple.com.akadns.net
 developer.microsoft.com
 dg-meta.video.google.com
-di.res.netease.com
-diablo3.nosdn.127.net
 discussionschinese.apple.com
 distribution.qatp1.net
 distribution.qcpp1.net
@@ -190,10 +186,8 @@ guzzoni-apple-com.v.aaplimg.com
 guzzoni.apple.com
 gvt1-cn.com
 gvt2-cn.com
-hearthstone.nosdn.127.net
 hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellowebfonts.oss-cn-beijing.aliyuncs.com
-heroes.nos.netease.com
 hospital.pku.edu.cn
 iadsdk.apple.com
 icloud-cdn.icloud.com.akadns.net
@@ -256,7 +250,6 @@ opencourse.pku.edu.cn
 oscdn.apple.com
 oscdn.origin-apple.com.akadns.net
 osxapps.itunes.apple.com
-overwatch.nosdn.127.net
 p1-juejin.byteimg.com
 p2-juejin.byteimg.com
 p3-juejin.byteimg.com
@@ -312,7 +305,6 @@ regioninfo-pa.googleapis.com
 reserve-prime.apple.com
 s.mzstatic.com
 safebrowsing.googleapis.com
-sc2.nosdn.127.net
 scanservice1.qatp1.net
 scanservice1.qcpp1.net
 scanservice1.qpdp1.net
@@ -382,7 +374,6 @@ valid.origin-apple.com.akadns.net
 wear.googleapis.com
 weather-data.apple.com
 wl.dlservice.microsoft.com
-wow.nosdn.127.net
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 www-google-analytics.l.google.com
@@ -6702,7 +6693,6 @@ xz.pphimalayanrt.com
 .91fifa.com
 .91fyt.com
 .91game.com
-.91gaoding.com
 .91goodschool.com
 .91guzhi.com
 .91haiju.com
@@ -7409,7 +7399,6 @@ xz.pphimalayanrt.com
 .a632079.me
 .a67dy.com
 .a7.com
-.a745.xyz
 .a8.com
 .a8f947.com
 .a8tg.com
@@ -11120,7 +11109,6 @@ xz.pphimalayanrt.com
 .biquge.la
 .biquge.vip
 .biquge11.com
-.biquge5200.cc
 .biquge5200.com
 .biquge8.com
 .biquge9.cc
@@ -13050,7 +13038,6 @@ xz.pphimalayanrt.com
 .ccrgt.com
 .ccrjw.com
 .ccschy.com
-.ccshao.com
 .ccshenghuo.com
 .ccsph.com
 .ccssmm.com
@@ -19454,7 +19441,6 @@ xz.pphimalayanrt.com
 .doumpaq.com
 .doupai.cc
 .doupir.com
-.doupobook.com
 .doupocangqiong1.com
 .douqi.com
 .douquyyds.com
@@ -21347,7 +21333,6 @@ xz.pphimalayanrt.com
 .evfchina.com
 .evget.com
 .evhui.com
-.evideocloud.net
 .evideostb.com
 .evilbinary.org
 .evileyesaint.com
@@ -30074,7 +30059,6 @@ xz.pphimalayanrt.com
 .imagepy.org
 .images-cache.com
 .images-huoshan.com
-.images.benchmarkemail.com
 .images.samsung.com
 .imageter.com
 .imagetotxt.com
@@ -31889,7 +31873,6 @@ xz.pphimalayanrt.com
 .jiasale.com
 .jiashuangkuaizi.com
 .jiashule.com
-.jiasn.com
 .jiasu.work
 .jiasuba.com
 .jiasubook.com
@@ -33476,7 +33459,6 @@ xz.pphimalayanrt.com
 .jxexpressway.com
 .jxg1.com
 .jxgdw.com
-.jxggcm.com
 .jxgxbd.com
 .jxhyshiye.com
 .jxiaolan.com
@@ -33768,7 +33750,6 @@ xz.pphimalayanrt.com
 .kaiygame.com
 .kaiyuan.me
 .kaiyuangroup.cc
-.kaiyuanhi.com
 .kaiyuanhotels.com
 .kaiyun.com
 .kajicam.com
@@ -35284,6 +35265,7 @@ xz.pphimalayanrt.com
 .landscapecn.com
 .landtu.com
 .landui.com
+.landunxiaofang.com
 .landzestate.com
 .lanecn.com
 .lanfanapp.com
@@ -41029,7 +41011,6 @@ xz.pphimalayanrt.com
 .nipic.com
 .nishuoa.com
 .nitaitag.com
-.nitianxieshen.com
 .nitutu.com
 .niu-ba.com
 .niu.com
@@ -43429,7 +43410,6 @@ xz.pphimalayanrt.com
 .pp66.cc
 .pp8.com
 .pp9l.com
-.ppaikd.com
 .ppbizon.com
 .ppcall.com
 .ppchuguan.com
@@ -61025,7 +61005,6 @@ xz.pphimalayanrt.com
 .yingshe.com
 .yingsheng.com
 .yingshevip.com
-.yingshixiaoshuo.com
 .yingshiyou.com
 .yingsoo.com
 .yingsun.net
@@ -62019,6 +61998,7 @@ xz.pphimalayanrt.com
 .ypgyyq.com
 .yph-shop.com
 .yphuifu.com
+.ypiao.com
 .ypicw.com
 .ypjiameng.com
 .ypk.cc
@@ -62610,6 +62590,7 @@ xz.pphimalayanrt.com
 .yunsiya.com
 .yunsom.com
 .yunsong.com
+.yunsou168.com
 .yunstu.net
 .yunsuan.org
 .yunsuanzi.com
@@ -64361,6 +64342,7 @@ xz.pphimalayanrt.com
 .zhuayoukong.com
 .zhuazi.com
 .zhubai.love
+.zhubai.pub
 .zhubaijia.com
 .zhubajie.com
 .zhubajie.la

@@ -36,7 +36,6 @@ DOMAIN,beacons3.gvt2.com
 DOMAIN,bg.v4.a.dl.ws.microsoft.com
 DOMAIN,bg4.v4.a.dl.ws.microsoft.com
 DOMAIN,bj1.api.bing.com
-DOMAIN,blz.nosdn.127.net
 DOMAIN,bookkeeper.itunes.apple.com
 DOMAIN,borgmon.adz.google.com
 DOMAIN,c.admob.com
@@ -80,7 +79,6 @@ DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
-DOMAIN,cn.actual.battle.net
 DOMAIN,cn.widevine.com
 DOMAIN,cn.windowssearch.com
 DOMAIN,cnappinstall.googleadapis.com
@@ -104,8 +102,6 @@ DOMAIN,dartsearch-cn.net
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,developer.microsoft.com
 DOMAIN,dg-meta.video.google.com
-DOMAIN,di.res.netease.com
-DOMAIN,diablo3.nosdn.127.net
 DOMAIN,discussionschinese.apple.com
 DOMAIN,distribution.qatp1.net
 DOMAIN,distribution.qcpp1.net
@@ -190,10 +186,8 @@ DOMAIN,guzzoni-apple-com.v.aaplimg.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,gvt1-cn.com
 DOMAIN,gvt2-cn.com
-DOMAIN,hearthstone.nosdn.127.net
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
-DOMAIN,heroes.nos.netease.com
 DOMAIN,hospital.pku.edu.cn
 DOMAIN,iadsdk.apple.com
 DOMAIN,icloud-cdn.icloud.com.akadns.net
@@ -256,7 +250,6 @@ DOMAIN,opencourse.pku.edu.cn
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.apple.com
-DOMAIN,overwatch.nosdn.127.net
 DOMAIN,p1-juejin.byteimg.com
 DOMAIN,p2-juejin.byteimg.com
 DOMAIN,p3-juejin.byteimg.com
@@ -312,7 +305,6 @@ DOMAIN,regioninfo-pa.googleapis.com
 DOMAIN,reserve-prime.apple.com
 DOMAIN,s.mzstatic.com
 DOMAIN,safebrowsing.googleapis.com
-DOMAIN,sc2.nosdn.127.net
 DOMAIN,scanservice1.qatp1.net
 DOMAIN,scanservice1.qcpp1.net
 DOMAIN,scanservice1.qpdp1.net
@@ -382,7 +374,6 @@ DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,wear.googleapis.com
 DOMAIN,weather-data.apple.com
 DOMAIN,wl.dlservice.microsoft.com
-DOMAIN,wow.nosdn.127.net
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
 DOMAIN,www-google-analytics.l.google.com
@@ -6702,7 +6693,6 @@ DOMAIN-SUFFIX,91feizhuliu.com
 DOMAIN-SUFFIX,91fifa.com
 DOMAIN-SUFFIX,91fyt.com
 DOMAIN-SUFFIX,91game.com
-DOMAIN-SUFFIX,91gaoding.com
 DOMAIN-SUFFIX,91goodschool.com
 DOMAIN-SUFFIX,91guzhi.com
 DOMAIN-SUFFIX,91haiju.com
@@ -7409,7 +7399,6 @@ DOMAIN-SUFFIX,a5idc.net
 DOMAIN-SUFFIX,a632079.me
 DOMAIN-SUFFIX,a67dy.com
 DOMAIN-SUFFIX,a7.com
-DOMAIN-SUFFIX,a745.xyz
 DOMAIN-SUFFIX,a8.com
 DOMAIN-SUFFIX,a8f947.com
 DOMAIN-SUFFIX,a8tg.com
@@ -11120,7 +11109,6 @@ DOMAIN-SUFFIX,biquge.info
 DOMAIN-SUFFIX,biquge.la
 DOMAIN-SUFFIX,biquge.vip
 DOMAIN-SUFFIX,biquge11.com
-DOMAIN-SUFFIX,biquge5200.cc
 DOMAIN-SUFFIX,biquge5200.com
 DOMAIN-SUFFIX,biquge8.com
 DOMAIN-SUFFIX,biquge9.cc
@@ -13050,7 +13038,6 @@ DOMAIN-SUFFIX,ccqyj.com
 DOMAIN-SUFFIX,ccrgt.com
 DOMAIN-SUFFIX,ccrjw.com
 DOMAIN-SUFFIX,ccschy.com
-DOMAIN-SUFFIX,ccshao.com
 DOMAIN-SUFFIX,ccshenghuo.com
 DOMAIN-SUFFIX,ccsph.com
 DOMAIN-SUFFIX,ccssmm.com
@@ -19454,7 +19441,6 @@ DOMAIN-SUFFIX,doumobtech.online
 DOMAIN-SUFFIX,doumpaq.com
 DOMAIN-SUFFIX,doupai.cc
 DOMAIN-SUFFIX,doupir.com
-DOMAIN-SUFFIX,doupobook.com
 DOMAIN-SUFFIX,doupocangqiong1.com
 DOMAIN-SUFFIX,douqi.com
 DOMAIN-SUFFIX,douquyyds.com
@@ -21347,7 +21333,6 @@ DOMAIN-SUFFIX,evewan.com
 DOMAIN-SUFFIX,evfchina.com
 DOMAIN-SUFFIX,evget.com
 DOMAIN-SUFFIX,evhui.com
-DOMAIN-SUFFIX,evideocloud.net
 DOMAIN-SUFFIX,evideostb.com
 DOMAIN-SUFFIX,evilbinary.org
 DOMAIN-SUFFIX,evileyesaint.com
@@ -30074,7 +30059,6 @@ DOMAIN-SUFFIX,imagelol.com
 DOMAIN-SUFFIX,imagepy.org
 DOMAIN-SUFFIX,images-cache.com
 DOMAIN-SUFFIX,images-huoshan.com
-DOMAIN-SUFFIX,images.benchmarkemail.com
 DOMAIN-SUFFIX,images.samsung.com
 DOMAIN-SUFFIX,imageter.com
 DOMAIN-SUFFIX,imagetotxt.com
@@ -31889,7 +31873,6 @@ DOMAIN-SUFFIX,jiarenvip.com
 DOMAIN-SUFFIX,jiasale.com
 DOMAIN-SUFFIX,jiashuangkuaizi.com
 DOMAIN-SUFFIX,jiashule.com
-DOMAIN-SUFFIX,jiasn.com
 DOMAIN-SUFFIX,jiasu.work
 DOMAIN-SUFFIX,jiasuba.com
 DOMAIN-SUFFIX,jiasubook.com
@@ -33476,7 +33459,6 @@ DOMAIN-SUFFIX,jxetv.com
 DOMAIN-SUFFIX,jxexpressway.com
 DOMAIN-SUFFIX,jxg1.com
 DOMAIN-SUFFIX,jxgdw.com
-DOMAIN-SUFFIX,jxggcm.com
 DOMAIN-SUFFIX,jxgxbd.com
 DOMAIN-SUFFIX,jxhyshiye.com
 DOMAIN-SUFFIX,jxiaolan.com
@@ -33768,7 +33750,6 @@ DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kaiygame.com
 DOMAIN-SUFFIX,kaiyuan.me
 DOMAIN-SUFFIX,kaiyuangroup.cc
-DOMAIN-SUFFIX,kaiyuanhi.com
 DOMAIN-SUFFIX,kaiyuanhotels.com
 DOMAIN-SUFFIX,kaiyun.com
 DOMAIN-SUFFIX,kajicam.com
@@ -35284,6 +35265,7 @@ DOMAIN-SUFFIX,landroads.com
 DOMAIN-SUFFIX,landscapecn.com
 DOMAIN-SUFFIX,landtu.com
 DOMAIN-SUFFIX,landui.com
+DOMAIN-SUFFIX,landunxiaofang.com
 DOMAIN-SUFFIX,landzestate.com
 DOMAIN-SUFFIX,lanecn.com
 DOMAIN-SUFFIX,lanfanapp.com
@@ -41029,7 +41011,6 @@ DOMAIN-SUFFIX,nipei.com
 DOMAIN-SUFFIX,nipic.com
 DOMAIN-SUFFIX,nishuoa.com
 DOMAIN-SUFFIX,nitaitag.com
-DOMAIN-SUFFIX,nitianxieshen.com
 DOMAIN-SUFFIX,nitutu.com
 DOMAIN-SUFFIX,niu-ba.com
 DOMAIN-SUFFIX,niu.com
@@ -43429,7 +43410,6 @@ DOMAIN-SUFFIX,pp63.com
 DOMAIN-SUFFIX,pp66.cc
 DOMAIN-SUFFIX,pp8.com
 DOMAIN-SUFFIX,pp9l.com
-DOMAIN-SUFFIX,ppaikd.com
 DOMAIN-SUFFIX,ppbizon.com
 DOMAIN-SUFFIX,ppcall.com
 DOMAIN-SUFFIX,ppchuguan.com
@@ -61025,7 +61005,6 @@ DOMAIN-SUFFIX,yingpaigame.com
 DOMAIN-SUFFIX,yingshe.com
 DOMAIN-SUFFIX,yingsheng.com
 DOMAIN-SUFFIX,yingshevip.com
-DOMAIN-SUFFIX,yingshixiaoshuo.com
 DOMAIN-SUFFIX,yingshiyou.com
 DOMAIN-SUFFIX,yingsoo.com
 DOMAIN-SUFFIX,yingsun.net
@@ -62019,6 +61998,7 @@ DOMAIN-SUFFIX,ypfph.com
 DOMAIN-SUFFIX,ypgyyq.com
 DOMAIN-SUFFIX,yph-shop.com
 DOMAIN-SUFFIX,yphuifu.com
+DOMAIN-SUFFIX,ypiao.com
 DOMAIN-SUFFIX,ypicw.com
 DOMAIN-SUFFIX,ypjiameng.com
 DOMAIN-SUFFIX,ypk.cc
@@ -62610,6 +62590,7 @@ DOMAIN-SUFFIX,yunshuxie.com
 DOMAIN-SUFFIX,yunsiya.com
 DOMAIN-SUFFIX,yunsom.com
 DOMAIN-SUFFIX,yunsong.com
+DOMAIN-SUFFIX,yunsou168.com
 DOMAIN-SUFFIX,yunstu.net
 DOMAIN-SUFFIX,yunsuan.org
 DOMAIN-SUFFIX,yunsuanzi.com
@@ -64361,6 +64342,7 @@ DOMAIN-SUFFIX,zhuayou.com
 DOMAIN-SUFFIX,zhuayoukong.com
 DOMAIN-SUFFIX,zhuazi.com
 DOMAIN-SUFFIX,zhubai.love
+DOMAIN-SUFFIX,zhubai.pub
 DOMAIN-SUFFIX,zhubaijia.com
 DOMAIN-SUFFIX,zhubajie.com
 DOMAIN-SUFFIX,zhubajie.la

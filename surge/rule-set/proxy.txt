@@ -9181,6 +9181,9 @@ DOMAIN-SUFFIX,innovations-i.com
 DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,inporn.com
 DOMAIN-SUFFIX,insecam.org
+DOMAIN-SUFFIX,inshot.cc
+DOMAIN-SUFFIX,inshot.com
+DOMAIN-SUFFIX,inshotapp.com
 DOMAIN-SUFFIX,insidefilms.com
 DOMAIN-SUFFIX,insidemacintosh.com
 DOMAIN-SUFFIX,insider-intelligence.com
