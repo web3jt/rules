@@ -7515,6 +7515,8 @@ DOMAIN-SUFFIX,ghut.org
 DOMAIN-SUFFIX,gi
 DOMAIN-SUFFIX,giantessbooru.com
 DOMAIN-SUFFIX,giantessnight.com
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,giffgaff.design
 DOMAIN-SUFFIX,gifnuki.com
 DOMAIN-SUFFIX,gifree.com
 DOMAIN-SUFFIX,gigabyte.com
