@@ -2083,6 +2083,7 @@ DOMAIN-SUFFIX,goagent.biz
 DOMAIN-SUFFIX,goagent.codeplex.com
 DOMAIN-SUFFIX,goagentplus.com
 DOMAIN-SUFFIX,gobet.cc
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,godfootsteps.org
 DOMAIN-SUFFIX,godns.work
 DOMAIN-SUFFIX,godoc.org
