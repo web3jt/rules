@@ -12286,7 +12286,12 @@ zeenews-fonts.s3.amazonaws.com
 .nikezoom.com
 .nikkan-gendai.com
 .nikkansports.com
+.nikke-de.com
+.nikke-en.com
+.nikke-fr.com
+.nikke-jp.com
 .nikke-kr.com
+.nikke-sea.com
 .nikkei.com
 .nikkei4946.com
 .nikon
