@@ -92,6 +92,7 @@ DOMAIN,corp.google.com
 DOMAIN,corp.googleapis.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.alphassl.com
 DOMAIN,crl.apple.com
 DOMAIN,crl.pki.goog
 DOMAIN,crl2.alphassl.com
@@ -137,6 +138,7 @@ DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
 DOMAIN,gcpnode.com
 DOMAIN,geetest.datasink.sensorsdata.cn
+DOMAIN,global.prd.cdn.globalsign.com
 DOMAIN,gog.qtlglb.com
 DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,gonglchuangl.net
