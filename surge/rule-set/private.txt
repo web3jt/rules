@@ -3,6 +3,8 @@ DOMAIN,setmeup.arubanetworks.com
 DOMAIN,asusrouter.com
 DOMAIN,router.asus.com
 DOMAIN,www.asusrouter.com
+DOMAIN,cp.cloudflare.com
+DOMAIN,detectportal.firefox.com
 DOMAIN,routerlogin.com
 DOMAIN,www.routerlogin.com
 DOMAIN,tplogin.cn
