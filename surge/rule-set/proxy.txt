@@ -2041,6 +2041,7 @@ DOMAIN-SUFFIX,auricularesbeatsmarkt.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,ausbeatsbydrdre.com
 DOMAIN-SUFFIX,auspost
+DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,authorizeddns.org
 DOMAIN-SUFFIX,authorxml.com
@@ -2317,6 +2318,7 @@ DOMAIN-SUFFIX,barrons-conferences.com
 DOMAIN-SUFFIX,barrons.com
 DOMAIN-SUFFIX,baselinestudy.com
 DOMAIN-SUFFIX,baselinestudy.org
+DOMAIN-SUFFIX,basilisk-browser.org
 DOMAIN-SUFFIX,bastillepost.com
 DOMAIN-SUFFIX,bastropfirestone.com
 DOMAIN-SUFFIX,baterias-hp.com
@@ -3474,6 +3476,7 @@ DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,brother
 DOMAIN-SUFFIX,brotli.org
 DOMAIN-SUFFIX,brourou.com
+DOMAIN-SUFFIX,browser.kagi.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,brucewang.net
 DOMAIN-SUFFIX,brussels
@@ -4563,6 +4566,7 @@ DOMAIN-SUFFIX,crit-staging.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crocotube.com
+DOMAIN-SUFFIX,cromite.org
 DOMAIN-SUFFIX,crossborderexpansion.com
 DOMAIN-SUFFIX,crossfitfirestone.com
 DOMAIN-SUFFIX,crossmediapanel.com
@@ -4828,6 +4832,7 @@ DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
+DOMAIN-SUFFIX,decentr.net
 DOMAIN-SUFFIX,dechamora.com
 DOMAIN-SUFFIX,decodet.co
 DOMAIN-SUFFIX,decorativemodels.com
@@ -5258,6 +5263,7 @@ DOMAIN-SUFFIX,dotfacebook.com
 DOMAIN-SUFFIX,dotfacebook.net
 DOMAIN-SUFFIX,dotfreesex.com
 DOMAIN-SUFFIX,dotherex.com
+DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,dotplane.com
 DOMAIN-SUFFIX,dotsub.com
 DOMAIN-SUFFIX,dotvpn.com
@@ -6094,6 +6100,8 @@ DOMAIN-SUFFIX,exxxtrasmall1.com
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,ezpeer.com
 DOMAIN-SUFFIX,ezua.com
+DOMAIN-SUFFIX,f-dro1d.org
+DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f6988.com
 DOMAIN-SUFFIX,f8.com
@@ -6550,6 +6558,7 @@ DOMAIN-SUFFIX,fcww0.com
 DOMAIN-SUFFIX,fdacebook.info
 DOMAIN-SUFFIX,fdc64.org
 DOMAIN-SUFFIX,fdiintelligence.com
+DOMAIN-SUFFIX,fdroid.org
 DOMAIN-SUFFIX,feacboo.com
 DOMAIN-SUFFIX,feacbook.com
 DOMAIN-SUFFIX,feacbooke.com
@@ -6754,6 +6763,7 @@ DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,fljmh.com
 DOMAIN-SUFFIX,fljmh1.com
 DOMAIN-SUFFIX,flnet.org
+DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,floppy-tits.com
 DOMAIN-SUFFIX,flow.dev
 DOMAIN-SUFFIX,flow.org
@@ -8319,6 +8329,7 @@ DOMAIN-SUFFIX,hibdontire.com
 DOMAIN-SUFFIX,hiccears.com
 DOMAIN-SUFFIX,hidden-advent.org
 DOMAIN-SUFFIX,hiddenvoyeurspy.com
+DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,hide.me
 DOMAIN-SUFFIX,hidecloud.com
 DOMAIN-SUFFIX,hidein.net
@@ -10073,6 +10084,7 @@ DOMAIN-SUFFIX,kismia.com
 DOMAIN-SUFFIX,kisscos.net
 DOMAIN-SUFFIX,kissjav.com
 DOMAIN-SUFFIX,kiwi
+DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkfcc03.com
@@ -10084,6 +10096,7 @@ DOMAIN-SUFFIX,klik.me
 DOMAIN-SUFFIX,km
 DOMAIN-SUFFIX,kmc-av.com
 DOMAIN-SUFFIX,kmdhyy.com
+DOMAIN-SUFFIX,kmeleonbrowser.org
 DOMAIN-SUFFIX,kmff17.com
 DOMAIN-SUFFIX,kn
 DOMAIN-SUFFIX,knovel.com
@@ -10346,6 +10359,7 @@ DOMAIN-SUFFIX,libgen.me
 DOMAIN-SUFFIX,liboggirls.net
 DOMAIN-SUFFIX,librarylovefest.com
 DOMAIN-SUFFIX,libraryofthumbs.com
+DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,libsolutions.app
 DOMAIN-SUFFIX,libsolutions.net
 DOMAIN-SUFFIX,licdn.com
@@ -11155,6 +11169,7 @@ DOMAIN-SUFFIX,mimi22.top
 DOMAIN-SUFFIX,mimiai.net
 DOMAIN-SUFFIX,mimivip.com
 DOMAIN-SUFFIX,mimivv.com
+DOMAIN-SUFFIX,minbrowser.org
 DOMAIN-SUFFIX,mindgeek.com
 DOMAIN-SUFFIX,mindmeld.com
 DOMAIN-SUFFIX,mindrolling.org
@@ -12021,6 +12036,7 @@ DOMAIN-SUFFIX,netpornsex.net
 DOMAIN-SUFFIX,netsarang.com
 DOMAIN-SUFFIX,netsneak.com
 DOMAIN-SUFFIX,netsolssl.com
+DOMAIN-SUFFIX,netsurf-browser.org
 DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,netvideogirls.com
 DOMAIN-SUFFIX,netvigator.com
@@ -12933,6 +12949,7 @@ DOMAIN-SUFFIX,pakistanporntube.net
 DOMAIN-SUFFIX,palacemoon.com
 DOMAIN-SUFFIX,palcomix.com
 DOMAIN-SUFFIX,paldengyal.com
+DOMAIN-SUFFIX,palemoon.org
 DOMAIN-SUFFIX,palestineremix.com
 DOMAIN-SUFFIX,pali.ltd
 DOMAIN-SUFFIX,paljorpublications.com
@@ -12980,6 +12997,7 @@ DOMAIN-SUFFIX,partypoker.com
 DOMAIN-SUFFIX,pascherbeatsmonster.com
 DOMAIN-SUFFIX,pashtovoa.com
 DOMAIN-SUFFIX,pasionmujeres.com
+DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,passion-hd.com
 DOMAIN-SUFFIX,passion.com
 DOMAIN-SUFFIX,passport.net
@@ -13975,6 +13993,7 @@ DOMAIN-SUFFIX,pugpig-stage.com
 DOMAIN-SUFFIX,pugpig.com
 DOMAIN-SUFFIX,pullfolio.com
 DOMAIN-SUFFIX,pullstring.net
+DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,punishbang.com
 DOMAIN-SUFFIX,punishworld.com
 DOMAIN-SUFFIX,punyu.com
@@ -14120,6 +14139,7 @@ DOMAIN-SUFFIX,quovadisglobal.com
 DOMAIN-SUFFIX,quran.com
 DOMAIN-SUFFIX,quranexplorer.com
 DOMAIN-SUFFIX,qusi8.net
+DOMAIN-SUFFIX,qutebrowser.org
 DOMAIN-SUFFIX,qvc
 DOMAIN-SUFFIX,qvodzy.org
 DOMAIN-SUFFIX,qwant.com
