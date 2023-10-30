@@ -14,6 +14,9 @@ DOMAIN,adcdownload.apple.com.akadns.net
 DOMAIN,admob-cn.com
 DOMAIN,adservice.google.com
 DOMAIN,ai.ytimg.com
+DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,aod.itunes.apple.com
@@ -201,17 +204,23 @@ DOMAIN,images.apple.com
 DOMAIN,images.apple.com.akadns.net
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,imasdk.googleapis.com
+DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
+DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
+DOMAIN,inappcheck.itunes.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01md.apple.com
 DOMAIN,init-p01st-lb.push-apple.com.akadns.net
 DOMAIN,init-p01st.push.apple.com
 DOMAIN,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN,init-s01st.push.apple.com
+DOMAIN,init.gc-lb.apple.com.akadns.net
+DOMAIN,init.gc.apple.com
 DOMAIN,init.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,iphone-ld.apple.com
+DOMAIN,iphone-ld.origin-apple.com.akadns.net
 DOMAIN,is1-ssl.mzstatic.com
 DOMAIN,is1.mzstatic.com
 DOMAIN,is2-ssl.mzstatic.com
@@ -253,6 +262,7 @@ DOMAIN,opencourse.pku.edu.cn
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.apple.com
+DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,p1-juejin.byteimg.com
 DOMAIN,p2-juejin.byteimg.com
 DOMAIN,p3-juejin.byteimg.com
@@ -348,6 +358,7 @@ DOMAIN,su.itunes.apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.1ucrs.com
 DOMAIN,support.apple.com
+DOMAIN,swallow-apple-com.v.aaplimg.com
 DOMAIN,swallow.apple.com
 DOMAIN,swcatalog-cdn.apple.com.akadns.net
 DOMAIN,swcatalog.apple.com
@@ -378,6 +389,9 @@ DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,wear.googleapis.com
 DOMAIN,weather-data.apple.com
+DOMAIN,weather-data.apple.com.akadns.net
+DOMAIN,weather-map.apple.com
+DOMAIN,weather-map2.apple.com
 DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
@@ -48359,6 +48373,7 @@ DOMAIN-SUFFIX,skyzms.com
 DOMAIN-SUFFIX,sl-360.com
 DOMAIN-SUFFIX,sl.al
 DOMAIN-SUFFIX,sl153.com
+DOMAIN-SUFFIX,sl916.com
 DOMAIN-SUFFIX,sl91d.com
 DOMAIN-SUFFIX,slamtec.com
 DOMAIN-SUFFIX,slanissue.com
