@@ -4,6 +4,7 @@ DOMAIN,3dns-3.adobe.com
 DOMAIN,3dns-4.adobe.com
 DOMAIN,3dns-5.adobe.com
 DOMAIN,3dns.adobe.com
+DOMAIN,a.ppy.sh
 DOMAIN,abematv.akamaized.net
 DOMAIN,activate-sea.adobe.com
 DOMAIN,activate-sjc0.adobe.com
@@ -39,6 +40,7 @@ DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,as-dash-uk-live.akamaized.net
 DOMAIN,as-hls-uk-live.akamaized.net
 DOMAIN,asahishimbun.sc.omtrdc.net
+DOMAIN,assets.ppy.sh
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,avatargarenanow-a.akamaihd.net
@@ -60,6 +62,7 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN,brightcove.imgix.net
+DOMAIN,c.ppy.sh
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
@@ -150,6 +153,7 @@ DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN,img-s-msn-com.akamaized.net
 DOMAIN,impala-media-production.s3.amazonaws.com
 DOMAIN,imperial.insendi.com
+DOMAIN,lazer.ppy.sh
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linear-abematv.akamaized.net
@@ -159,6 +163,7 @@ DOMAIN,live-patreon-marketing.pantheonsite.io
 DOMAIN,lm.licenses.adobe.com
 DOMAIN,lmlicenses.wip4.adobe.com
 DOMAIN,lolstatic-a.akamaihd.net
+DOMAIN,m1.ppy.sh
 DOMAIN,mdn.mozillademos.org
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,medone-education.thieme.com
@@ -172,6 +177,7 @@ DOMAIN,na1r.services.adobe.com
 DOMAIN,nab.demdex.net
 DOMAIN,nationalaustraliaban.tt.omtrdc.net
 DOMAIN,netflix.com.edgesuite.net
+DOMAIN,notify.ppy.sh
 DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 DOMAIN,nvidia.tt.omtrdc.net
 DOMAIN,ocsp.microsoft.com
@@ -184,6 +190,7 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,opgg-static.akamaized.net
 DOMAIN,origin-a.akamaihd.net
+DOMAIN,osu.ppy.sh
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,paper-attachments.s3.amazonaws.com
@@ -282,7 +289,9 @@ DOMAIN,scholar.google.si
 DOMAIN,scholar.google.sk
 DOMAIN,scholar.googleusercontent.com
 DOMAIN,scholar.l.google.com
+DOMAIN,sentry.ppy.sh
 DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net
+DOMAIN,spectator.ppy.sh
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
@@ -507,6 +516,9 @@ DOMAIN-SUFFIX,18av.pro
 DOMAIN-SUFFIX,18avx.com
 DOMAIN-SUFFIX,18board.com
 DOMAIN-SUFFIX,18board.info
+DOMAIN-SUFFIX,18comic-god.cc
+DOMAIN-SUFFIX,18comic-god.club
+DOMAIN-SUFFIX,18comic-god.xyz
 DOMAIN-SUFFIX,18comic.cc
 DOMAIN-SUFFIX,18comic.company
 DOMAIN-SUFFIX,18comic.org
@@ -991,7 +1003,12 @@ DOMAIN-SUFFIX,adelaidebbs.com
 DOMAIN-SUFFIX,adgoogle.net
 DOMAIN-SUFFIX,adguard-dns.com
 DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-SUFFIX,adguard-vpn.online
+DOMAIN-SUFFIX,adguard.app
 DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguard.info
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adhelpnews.com
 DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,admeld.com
@@ -1039,6 +1056,8 @@ DOMAIN-SUFFIX,adorable-teens.net
 DOMAIN-SUFFIX,adorevids.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adsense.com
+DOMAIN-SUFFIX,adtidy.net
+DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adult
 DOMAIN-SUFFIX,adult-h.com
 DOMAIN-SUFFIX,adult-home-videos.com
@@ -9382,6 +9401,7 @@ DOMAIN-SUFFIX,ipfs.anonymize.com
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,iphine.com
 DOMAIN-SUFFIX,iphone-cd.com
 DOMAIN-SUFFIX,iphone-cn.com
@@ -9833,6 +9853,7 @@ DOMAIN-SUFFIX,jlc
 DOMAIN-SUFFIX,jll
 DOMAIN-SUFFIX,jm
 DOMAIN-SUFFIX,jm98.cc
+DOMAIN-SUFFIX,jmcomic.ltd
 DOMAIN-SUFFIX,jmcomic.me
 DOMAIN-SUFFIX,jmcomic.mobi
 DOMAIN-SUFFIX,jmcomic.moe
@@ -11554,6 +11575,7 @@ DOMAIN-SUFFIX,moxing.mobi
 DOMAIN-SUFFIX,moxing.news
 DOMAIN-SUFFIX,moystoys.com
 DOMAIN-SUFFIX,mozaic
+DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
