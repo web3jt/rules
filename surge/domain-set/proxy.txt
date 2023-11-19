@@ -4290,6 +4290,7 @@ zeenews-fonts.s3.amazonaws.com
 .cloudcredibility.com
 .cloudflare-dns.com
 .cloudflare-ech.com
+.cloudflare-esni.com
 .cloudflare-gateway.com
 .cloudflare-ipfs.com
 .cloudflare-quic.com
@@ -9490,6 +9491,7 @@ zeenews-fonts.s3.amazonaws.com
 .is-a-hunter.com
 .isaacmao.com
 .isasecret.com
+.isbgpsafeyet.com
 .isca-speech.org
 .ischool.com
 .iselect
@@ -11836,6 +11838,7 @@ zeenews-fonts.s3.amazonaws.com
 .mymusclevideo.com
 .mynetav.net
 .mynetav.org
+.mynetname.net
 .mynike.com
 .mynumber.org
 .myoctocat.com
