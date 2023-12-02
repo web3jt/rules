@@ -62,6 +62,8 @@ DOMAIN,bnetcmsus-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 DOMAIN,brightcove.imgix.net
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
 DOMAIN,c.ppy.sh
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
@@ -87,6 +89,7 @@ DOMAIN,d33wubrfki0l68.cloudfront.net
 DOMAIN,databank.worldbank.org
 DOMAIN,database.asahi.com
 DOMAIN,default.exp-tas.com
+DOMAIN,deribit.cdn.prismic.io
 DOMAIN,deutschewelle.h-cdn.com
 DOMAIN,developer.microsoft.com
 DOMAIN,developers.facebook.com
@@ -2272,6 +2275,7 @@ DOMAIN-SUFFIX,backdoorlesbians.com
 DOMAIN-SUFFIX,backroomcastingcouch.com
 DOMAIN-SUFFIX,backtotiananmen.com
 DOMAIN-SUFFIX,bacon.com
+DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,badaas.com
 DOMAIN-SUFFIX,badasianpussy.com
 DOMAIN-SUFFIX,badgen.net
@@ -3627,8 +3631,11 @@ DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,bwh89.net
 DOMAIN-SUFFIX,bwin.com
 DOMAIN-SUFFIX,by
+DOMAIN-SUFFIX,byapis.com
 DOMAIN-SUFFIX,bybeatsdre.com
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bydrebeats.com
 DOMAIN-SUFFIX,byjav.me
 DOMAIN-SUFFIX,byjhd.com
@@ -3636,6 +3643,7 @@ DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,byrut.org
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,bz
 DOMAIN-SUFFIX,bzazi.com
 DOMAIN-SUFFIX,bzh
@@ -4902,6 +4910,7 @@ DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deps.dev
 DOMAIN-SUFFIX,deps.info
 DOMAIN-SUFFIX,derekhsu.homeip.net
+DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,derpibooru.org
 DOMAIN-SUFFIX,desertbmw.com
 DOMAIN-SUFFIX,designeriphonescases.com
@@ -7371,6 +7380,10 @@ DOMAIN-SUFFIX,gastrointestinalexam.com
 DOMAIN-SUFFIX,gate-project.com
 DOMAIN-SUFFIX,gate.cc
 DOMAIN-SUFFIX,gatecoin.com
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services
 DOMAIN-SUFFIX,gateway.dev
 DOMAIN-SUFFIX,gateway.pinata.cloud
 DOMAIN-SUFFIX,gather.com
@@ -9232,6 +9245,7 @@ DOMAIN-SUFFIX,inikesneakers.com
 DOMAIN-SUFFIX,init.shop
 DOMAIN-SUFFIX,initiativesforchina.org
 DOMAIN-SUFFIX,initproducts.com
+DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,inkchoice.com
 DOMAIN-SUFFIX,inkedravens.com
 DOMAIN-SUFFIX,inkui.com

@@ -433,6 +433,7 @@ DOMAIN-SUFFIX,babynet.com.hk
 DOMAIN-SUFFIX,backchina.com
 DOMAIN-SUFFIX,backpackers.com.tw
 DOMAIN-SUFFIX,backtotiananmen.com
+DOMAIN-SUFFIX,bad.news
 DOMAIN-SUFFIX,badiucao.com
 DOMAIN-SUFFIX,badjojo.com
 DOMAIN-SUFFIX,badoo.com
@@ -2802,6 +2803,7 @@ DOMAIN-SUFFIX,indiandefensenews.in
 DOMAIN-SUFFIX,indiemerch.com
 DOMAIN-SUFFIX,info-graf.fr
 DOMAIN-SUFFIX,initiativesforchina.org
+DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,inkui.com
 DOMAIN-SUFFIX,inmediahk.net
 DOMAIN-SUFFIX,innermongolia.org
@@ -3312,6 +3314,7 @@ DOMAIN-SUFFIX,matome-plus.net
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,matsushimakaede.com
 DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,matters.town
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,maturejp.com
