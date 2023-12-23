@@ -253,6 +253,7 @@ DOMAIN,moocs.unipus.cn
 DOMAIN,msgr.dlservice.microsoft.com
 DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,music.apple.com
+DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.globalsign.com
@@ -260,6 +261,7 @@ DOMAIN,ocsp.pki.goog
 DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,ocsp2.globalsign.com
+DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
 DOMAIN,opencourse.pku.edu.cn
 DOMAIN,oscdn.apple.com
@@ -339,6 +341,7 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,smp-device-content.apple.com
+DOMAIN,software.download.prss.microsoft.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,ss.bjmu.edu.cn
 DOMAIN,ssl-google-analytics.l.google.com
@@ -362,6 +365,7 @@ DOMAIN,su.itunes.apple.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.1ucrs.com
 DOMAIN,support.apple.com
+DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
 DOMAIN,swallow.apple.com
 DOMAIN,swcatalog-cdn.apple.com.akadns.net
@@ -392,6 +396,7 @@ DOMAIN,upp.itunes.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
 DOMAIN,vscode.download.prss.microsoft.com
+DOMAIN,vz.download.prss.microsoft.com
 DOMAIN,wear.googleapis.com
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-data.apple.com.akadns.net
