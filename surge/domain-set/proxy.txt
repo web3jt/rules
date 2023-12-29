@@ -7913,7 +7913,6 @@ zeenews-fonts.s3.amazonaws.com
 .graphql.org
 .gravatar.com
 .gravitytank.com
-.greasespot.net
 .great-firewall.com
 .great-roc.org
 .greatergothammini.com
@@ -12623,6 +12622,7 @@ zeenews-fonts.s3.amazonaws.com
 .obsrvbl.com
 .obutsumania.com
 .obutu.com
+.obyte.org
 .ocaspro.com
 .ocbmwdealers.com
 .occupytiananmen.com
@@ -18081,7 +18081,6 @@ zeenews-fonts.s3.amazonaws.com
 .wnacg.org
 .wnoaissulli1.com
 .woeser.com
-.woesermiddle-way.net
 .woflthenewsstation.com
 .wogx.com
 .wokar.org
