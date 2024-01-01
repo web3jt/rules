@@ -119,6 +119,7 @@ DOMAIN,docs.microsoft.com
 DOMAIN,doubleclick-cn.net
 DOMAIN,doubleclick.net
 DOMAIN,download.developer.apple.com
+DOMAIN,download.jetbrains.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.qatp1.net
