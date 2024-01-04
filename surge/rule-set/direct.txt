@@ -119,7 +119,6 @@ DOMAIN,docs.microsoft.com
 DOMAIN,doubleclick-cn.net
 DOMAIN,doubleclick.net
 DOMAIN,download.developer.apple.com
-DOMAIN,download.jetbrains.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.mlcc.google.com
 DOMAIN,download.qatp1.net
@@ -12993,6 +12992,7 @@ DOMAIN-SUFFIX,cdn-static.farfetch-contents.com
 DOMAIN-SUFFIX,cdn-uc.cc
 DOMAIN-SUFFIX,cdn-v.com
 DOMAIN-SUFFIX,cdn.fun
+DOMAIN-SUFFIX,cdn.jetbrains.com
 DOMAIN-SUFFIX,cdn.razersynapse.com
 DOMAIN-SUFFIX,cdn.samsung.com
 DOMAIN-SUFFIX,cdn.shanghai.nyu.edu

@@ -119,7 +119,6 @@ docs.microsoft.com
 doubleclick-cn.net
 doubleclick.net
 download.developer.apple.com
-download.jetbrains.com
 download.microsoft.com
 download.mlcc.google.com
 download.qatp1.net
@@ -12993,6 +12992,7 @@ xz.pphimalayanrt.com
 .cdn-uc.cc
 .cdn-v.com
 .cdn.fun
+.cdn.jetbrains.com
 .cdn.razersynapse.com
 .cdn.samsung.com
 .cdn.shanghai.nyu.edu
