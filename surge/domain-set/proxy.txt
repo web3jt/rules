@@ -897,6 +897,7 @@ zeenews-fonts.s3.amazonaws.com
 .9xav.cc
 .9xlove.xyz
 .9zipai.net
+.a-msedge.net
 .a-normal-day.com
 .a-teenz.com
 .a0pple.net
@@ -1401,7 +1402,6 @@ zeenews-fonts.s3.amazonaws.com
 .alphabet.info
 .alphabetfinance.net
 .alphaporno.com
-.alphassl.com
 .alphera.com
 .alphera.net
 .alpinelinux.org
@@ -2975,6 +2975,7 @@ zeenews-fonts.s3.amazonaws.com
 .bing
 .bing.com
 .bing.net
+.bing123.com
 .bingads.com
 .bingagencyawards.com
 .bingapis.com
@@ -4326,6 +4327,7 @@ zeenews-fonts.s3.amazonaws.com
 .clipseksi.com
 .clitgames.com
 .cloakpoint.com
+.clock.isc.org
 .clojure.org
 .cloudapp.net
 .cloudappsecurity.com
@@ -5755,11 +5757,11 @@ zeenews-fonts.s3.amazonaws.com
 .ecuatorianas.best
 .edeka
 .edengay.net
-.edge-skype-com.s-0001.s-msedge.net
 .edge.steam-dns.top.comcast.net
 .edgecastcdn.net
 .edgedatg.com
 .edgefonts.net
+.edgekey.net
 .edgemeplease.com
 .edgesuite.net
 .edicypages.com
@@ -7639,7 +7641,6 @@ zeenews-fonts.s3.amazonaws.com
 .globalriskregulator.com
 .globalsecurity.org
 .globalsign-media.com
-.globalsign.com
 .globalsign.net
 .globalspec.com
 .globaltm.org
@@ -7924,7 +7925,6 @@ zeenews-fonts.s3.amazonaws.com
 .gscanada.info
 .gsccdn.com
 .gsearch.media
-.gsp4-cn.ls.apple.com.edgekey.net
 .gstatic-cn.com
 .gstatic.com
 .gsuite.com
@@ -11178,6 +11178,7 @@ zeenews-fonts.s3.amazonaws.com
 .mii
 .miitomo.com
 .miiverse.com
+.mikanani.me
 .mike.cz.cc
 .mikesoltys.com
 .mikrotik.com
@@ -12484,6 +12485,7 @@ zeenews-fonts.s3.amazonaws.com
 .ntdtv.org
 .ntdtvla.com
 .ntdvn.com
+.ntp.ripe.net
 .ntrfun.com
 .ntt
 .ntten-mg.buzz
@@ -13530,6 +13532,7 @@ zeenews-fonts.s3.amazonaws.com
 .polymerproject.org
 .ponyanimalsex.com
 .poofetish.com
+.pool.ntp.org
 .poolin.com
 .poop-pee.online
 .poopee-puke.com
@@ -14607,8 +14610,10 @@ zeenews-fonts.s3.amazonaws.com
 .s-books.com
 .s-cashonmobile.com
 .s-cute.com
+.s-dc-msedge.net
 .s-dragon.org
 .s-microsoft.com
+.s-msedge.net
 .s-msft.com
 .s-msn.com
 .s-nbcnews.com
@@ -15649,6 +15654,7 @@ zeenews-fonts.s3.amazonaws.com
 .sstmlt.net
 .ssx3.com
 .st
+.st.com
 .stackage.org
 .stackapps.com
 .stackauth.com
@@ -15778,7 +15784,6 @@ zeenews-fonts.s3.amazonaws.com
 .stoptibetcrisis.net
 .storagenewsletter.com
 .store-bridgestonesports.com
-.store.apple.com.edgekey.net
 .storesense.com
 .storiesonline.net
 .storify.com
@@ -18162,7 +18167,6 @@ zeenews-fonts.s3.amazonaws.com
 .www.ajsands.com
 .www.antd.org
 .www.aolnews.com
-.www.apple.com.edgekey.net
 .www.cmoinc.org
 .www.destinationurl.com
 .www.dwheeler.com

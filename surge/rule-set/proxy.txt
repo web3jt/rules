@@ -897,6 +897,7 @@ DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,9xav.cc
 DOMAIN-SUFFIX,9xlove.xyz
 DOMAIN-SUFFIX,9zipai.net
+DOMAIN-SUFFIX,a-msedge.net
 DOMAIN-SUFFIX,a-normal-day.com
 DOMAIN-SUFFIX,a-teenz.com
 DOMAIN-SUFFIX,a0pple.net
@@ -1401,7 +1402,6 @@ DOMAIN-SUFFIX,alphabet.com
 DOMAIN-SUFFIX,alphabet.info
 DOMAIN-SUFFIX,alphabetfinance.net
 DOMAIN-SUFFIX,alphaporno.com
-DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,alphera.com
 DOMAIN-SUFFIX,alphera.net
 DOMAIN-SUFFIX,alpinelinux.org
@@ -2975,6 +2975,7 @@ DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bing123.com
 DOMAIN-SUFFIX,bingads.com
 DOMAIN-SUFFIX,bingagencyawards.com
 DOMAIN-SUFFIX,bingapis.com
@@ -4326,6 +4327,7 @@ DOMAIN-SUFFIX,clipsbai.com
 DOMAIN-SUFFIX,clipseksi.com
 DOMAIN-SUFFIX,clitgames.com
 DOMAIN-SUFFIX,cloakpoint.com
+DOMAIN-SUFFIX,clock.isc.org
 DOMAIN-SUFFIX,clojure.org
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
@@ -5755,11 +5757,11 @@ DOMAIN-SUFFIX,ecsm.vs.com
 DOMAIN-SUFFIX,ecuatorianas.best
 DOMAIN-SUFFIX,edeka
 DOMAIN-SUFFIX,edengay.net
-DOMAIN-SUFFIX,edge-skype-com.s-0001.s-msedge.net
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edgefonts.net
+DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgemeplease.com
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,edicypages.com
@@ -7639,7 +7641,6 @@ DOMAIN-SUFFIX,globalrescue.net
 DOMAIN-SUFFIX,globalriskregulator.com
 DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,globalsign-media.com
-DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalspec.com
 DOMAIN-SUFFIX,globaltm.org
@@ -7924,7 +7925,6 @@ DOMAIN-SUFFIX,gs-discuss.com
 DOMAIN-SUFFIX,gscanada.info
 DOMAIN-SUFFIX,gsccdn.com
 DOMAIN-SUFFIX,gsearch.media
-DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,gstatic-cn.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gsuite.com
@@ -11178,6 +11178,7 @@ DOMAIN-SUFFIX,mihua.org
 DOMAIN-SUFFIX,mii
 DOMAIN-SUFFIX,miitomo.com
 DOMAIN-SUFFIX,miiverse.com
+DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,mikesoltys.com
 DOMAIN-SUFFIX,mikrotik.com
@@ -12484,6 +12485,7 @@ DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntdtv.org
 DOMAIN-SUFFIX,ntdtvla.com
 DOMAIN-SUFFIX,ntdvn.com
+DOMAIN-SUFFIX,ntp.ripe.net
 DOMAIN-SUFFIX,ntrfun.com
 DOMAIN-SUFFIX,ntt
 DOMAIN-SUFFIX,ntten-mg.buzz
@@ -13530,6 +13532,7 @@ DOMAIN-SUFFIX,polymerhk.com
 DOMAIN-SUFFIX,polymerproject.org
 DOMAIN-SUFFIX,ponyanimalsex.com
 DOMAIN-SUFFIX,poofetish.com
+DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,poolin.com
 DOMAIN-SUFFIX,poop-pee.online
 DOMAIN-SUFFIX,poopee-puke.com
@@ -14607,8 +14610,10 @@ DOMAIN-SUFFIX,s-bluemix.net
 DOMAIN-SUFFIX,s-books.com
 DOMAIN-SUFFIX,s-cashonmobile.com
 DOMAIN-SUFFIX,s-cute.com
+DOMAIN-SUFFIX,s-dc-msedge.net
 DOMAIN-SUFFIX,s-dragon.org
 DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,s-msedge.net
 DOMAIN-SUFFIX,s-msft.com
 DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,s-nbcnews.com
@@ -15649,6 +15654,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,sstmlt.net
 DOMAIN-SUFFIX,ssx3.com
 DOMAIN-SUFFIX,st
+DOMAIN-SUFFIX,st.com
 DOMAIN-SUFFIX,stackage.org
 DOMAIN-SUFFIX,stackapps.com
 DOMAIN-SUFFIX,stackauth.com
@@ -15778,7 +15784,6 @@ DOMAIN-SUFFIX,stoporganharvesting.org
 DOMAIN-SUFFIX,stoptibetcrisis.net
 DOMAIN-SUFFIX,storagenewsletter.com
 DOMAIN-SUFFIX,store-bridgestonesports.com
-DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,storesense.com
 DOMAIN-SUFFIX,storiesonline.net
 DOMAIN-SUFFIX,storify.com
@@ -18162,7 +18167,6 @@ DOMAIN-SUFFIX,www-sms-apple.com
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
 DOMAIN-SUFFIX,www.aolnews.com
-DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,www.cmoinc.org
 DOMAIN-SUFFIX,www.destinationurl.com
 DOMAIN-SUFFIX,www.dwheeler.com
