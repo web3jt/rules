@@ -1512,6 +1512,10 @@ zeenews-fonts.s3.amazonaws.com
 .amazonvideo.com
 .amazonvideodirect.com
 .amazonworkdocs.com
+.amc.com
+.amcn.com
+.amcnetworks.com
+.amcplus.com
 .amd.com
 .amdfanstore.com
 .amebame.com
