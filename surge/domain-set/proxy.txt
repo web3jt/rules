@@ -69,6 +69,7 @@ cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
 cdn-spotify-experiments.conductrics.com
+cdn.js7k.com
 cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
 chat.openai.com.cdn.cloudflare.net
@@ -1262,6 +1263,7 @@ zeenews-fonts.s3.amazonaws.com
 .akadns.com
 .akadns.net
 .akadns6.net
+.akadns88.net
 .akaeai.com
 .akafms.net
 .akagtm.org
@@ -1282,7 +1284,6 @@ zeenews-fonts.s3.amazonaws.com
 .akamai-thailand.com
 .akamai-thailand.net
 .akamai-trials.com
-.akamai.com
 .akamai.net
 .akamaiedge.net
 .akamaientrypoint.net
@@ -2146,6 +2147,7 @@ zeenews-fonts.s3.amazonaws.com
 .avizoon.site
 .avizoone.com
 .avjb.com
+.avjiasu.com
 .avjoy.me
 .avjzy67.xyz
 .avlulu.cc
@@ -2963,6 +2965,7 @@ zeenews-fonts.s3.amazonaws.com
 .binance.org
 .binance.vision
 .binanceapi.com
+.binancecnt.com
 .binancezh.biz
 .binancezh.cc
 .binancezh.co
@@ -5766,6 +5769,7 @@ zeenews-fonts.s3.amazonaws.com
 .edgedatg.com
 .edgefonts.net
 .edgekey.net
+.edgekey88.net
 .edgemeplease.com
 .edgesuite.net
 .edicypages.com
@@ -9717,6 +9721,7 @@ zeenews-fonts.s3.amazonaws.com
 .javmost.com
 .javmost.xyz
 .javmuch.com
+.javmulu.net
 .javnew.net
 .javopen.co
 .javout.co
@@ -10285,6 +10290,7 @@ zeenews-fonts.s3.amazonaws.com
 .latticedata.com
 .launchpad.net
 .launchpad.wang
+.launchpadcontent.net
 .launchpadlibrarian.com
 .launchpadlibrarian.net
 .launchpadlibrarian.org
@@ -17410,6 +17416,7 @@ zeenews-fonts.s3.amazonaws.com
 .virginpornlinks.com
 .virsto.com
 .virsto.net
+.virtualbox.org
 .virtualearth.net
 .virtualpartyworld.com
 .virtualporn.com

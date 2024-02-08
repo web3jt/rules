@@ -39,7 +39,7 @@ www.miwifi.com
 .0.in-addr.arpa
 .127.in-addr.arpa
 .116.100.in-addr.arpa
-.98.100.in-addr.arpa
+.100.100.in-addr.arpa
 .16.172.in-addr.arpa
 .17.172.in-addr.arpa
 .18.172.in-addr.arpa
@@ -85,9 +85,9 @@ www.miwifi.com
 .95.100.in-addr.arpa
 .96.100.in-addr.arpa
 .97.100.in-addr.arpa
-.24.172.in-addr.arpa
+.98.100.in-addr.arpa
 .99.100.in-addr.arpa
-.100.100.in-addr.arpa
+.24.172.in-addr.arpa
 .101.100.in-addr.arpa
 .102.100.in-addr.arpa
 .103.100.in-addr.arpa
@@ -118,6 +118,7 @@ www.miwifi.com
 .168.192.in-addr.arpa
 .31.172.in-addr.arpa
 .30.172.in-addr.arpa
+.location.services.mozilla.com
 .29.172.in-addr.arpa
 .28.172.in-addr.arpa
 .27.172.in-addr.arpa
