@@ -99,6 +99,7 @@ crashlyticsreports-pa.googleapis.com
 crl-lb.apple.com.akadns.net
 crl.apple.com
 crl.pki.goog
+crls.pki.goog
 csi.gstatic.com
 cstat.apple.com
 cstat.cdn-apple.com

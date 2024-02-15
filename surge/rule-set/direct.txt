@@ -99,6 +99,7 @@ DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
 DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com

@@ -704,7 +704,9 @@ zeenews-fonts.s3.amazonaws.com
 .4kup.net
 .4mydomain.com
 .4myminicard.com
+.4pcdn.org
 .4pig.com
+.4plebs.org
 .4porn.com
 .4porn4.com
 .4pu.com
@@ -1149,6 +1151,7 @@ zeenews-fonts.s3.amazonaws.com
 .advertisercommunity.com
 .adx.promo
 .ae
+.ae-ad-1.myhuaweicloud.com
 .ae.hao123.com
 .ae.org
 .aeasyshop.com
@@ -1183,6 +1186,7 @@ zeenews-fonts.s3.amazonaws.com
 .ag
 .aga-expo.com
 .agakhan
+.agedm.org
 .agendaweek.com
 .agoogleaday.com
 .agu.org
@@ -1264,6 +1268,7 @@ zeenews-fonts.s3.amazonaws.com
 .akadns.net
 .akadns6.net
 .akadns88.net
+.akadns99.net
 .akaeai.com
 .akafms.net
 .akagtm.org
@@ -1687,6 +1692,7 @@ zeenews-fonts.s3.amazonaws.com
 .ap-southeast-1.myhuaweicloud.com
 .ap-southeast-2.myhuaweicloud.com
 .ap-southeast-3.myhuaweicloud.com
+.ap-southeast-4.myhuaweicloud.com
 .ap-tokyo.myqcloud.com
 .ap.org
 .ap0le.com
@@ -6065,6 +6071,7 @@ zeenews-fonts.s3.amazonaws.com
 .eu-frankfurt.myqcloud.com
 .eu-moscow.myqcloud.com
 .eu-west-0.myhuaweicloud.com
+.eu-west-101.myhuaweicloud.com
 .eu.org
 .eubluecardvisa.com
 .eucasino.com
@@ -10988,6 +10995,7 @@ zeenews-fonts.s3.amazonaws.com
 .mdpi.com
 .mdpj-mov.shop
 .mdpjoin.buzz
+.me-east-1.myhuaweicloud.com
 .me-gay.com
 .me.com
 .me.me
@@ -16657,6 +16665,7 @@ zeenews-fonts.s3.amazonaws.com
 .tparents.org
 .tpornstars.com
 .tr
+.tr-west-1.myhuaweicloud.com
 .tr.com
 .tracfone.com
 .tracking-location.com
