@@ -348,6 +348,7 @@ vscode.blob.core.windows.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 weblive-hamivideo.cdn.hinet.net
+wetv.qq.com
 widgets.stripst.com
 wip.adobe.com
 wip1.adobe.com
@@ -2994,6 +2995,7 @@ zeenews-fonts.s3.amazonaws.com
 .bingapis.com
 .bingapistatistics.com
 .bingo
+.bingparachute.com
 .bingsandbox.com
 .bingvisualsearch.com
 .bingworld.com
@@ -7656,6 +7658,7 @@ zeenews-fonts.s3.amazonaws.com
 .globalriskregulator.com
 .globalsecurity.org
 .globalsign-media.com
+.globalsign.cloud
 .globalsign.net
 .globalspec.com
 .globaltm.org
@@ -17878,6 +17881,8 @@ zeenews-fonts.s3.amazonaws.com
 .wetplace.com
 .wetpussygames.com
 .wetsextube.com
+.wetv.vip
+.wetvinfo.com
 .wexiaobo.org
 .wezhiyong.org
 .wezone.net

@@ -15919,8 +15919,11 @@ DOMAIN-SUFFIX,clouddns1.vip
 DOMAIN-SUFFIX,clouddongying.com
 DOMAIN-SUFFIX,clouddream.net
 DOMAIN-SUFFIX,cloudflare-cn.com
+DOMAIN-SUFFIX,cloudflareanycast.net
 DOMAIN-SUFFIX,cloudflarecn.net
+DOMAIN-SUFFIX,cloudflareglobal.net
 DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
