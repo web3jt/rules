@@ -2925,6 +2925,7 @@ zeenews-fonts.s3.amazonaws.com
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.mp-pxcdn.com
 .bbc.net.uk
 .bbcchinese.com
 .bbchat.tv
@@ -5036,6 +5037,7 @@ zeenews-fonts.s3.amazonaws.com
 .cfake.com
 .cfblob.com
 .cfhks.org.hk
+.cfl.re
 .cfna.com
 .cfos.de
 .cfr.org
@@ -14385,6 +14387,7 @@ zeenews-fonts.s3.amazonaws.com
 .modelsfreecams.com
 .modeltv.com
 .modernchinastudies.org
+.modperl.pl
 .modrinth.com
 .modular.im
 .moeero-library.com
@@ -15892,6 +15895,9 @@ zeenews-fonts.s3.amazonaws.com
 .okex.com
 .okk.tw
 .okkisokuho.com
+.okx-dns.com
+.okx-dns1.com
+.okx-dns2.com
 .okx.com
 .old-cat.net
 .old.honeynet.org
@@ -17902,6 +17908,7 @@ zeenews-fonts.s3.amazonaws.com
 .redchinacn.net
 .redchinacn.org
 .redd.it
+.reddit.app.link
 .reddit.com
 .redditlist.com
 .redditmail.com
@@ -19878,6 +19885,8 @@ zeenews-fonts.s3.amazonaws.com
 .taiav.com
 .tail-f.com
 .tailf.com
+.tailscale.com
+.tailscale.io
 .tailwindtraders.com
 .taiolongdh.sbs
 .taipeisociety.org
@@ -20739,6 +20748,7 @@ zeenews-fonts.s3.amazonaws.com
 .tryrating.com
 .tryst.link
 .ts.la
+.ts.net
 .tsctv.net
 .tsdr.uspto.gov
 .tsemtulku.com
