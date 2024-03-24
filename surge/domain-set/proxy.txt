@@ -455,6 +455,7 @@ wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
 zeenews-fonts.s3.amazonaws.com
+ztedevices.com
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -641,6 +642,7 @@ zeenews-fonts.s3.amazonaws.com
 .2017.hk
 .2019baidu.xyz
 .2021hkcharter.com
+.2023aga.oen.tw
 .2047.name
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
@@ -5709,6 +5711,7 @@ zeenews-fonts.s3.amazonaws.com
 .corumcollege.com
 .cos-moe.com
 .cosca.myqcloud.com
+.cosfans-tw.com
 .cosger.myqcloud.com
 .coshk.myqcloud.com
 .cosmic.monar.ch
