@@ -2345,6 +2345,7 @@ DOMAIN-SUFFIX,applle.com
 DOMAIN-SUFFIX,applw.com
 DOMAIN-SUFFIX,appmediagroup.com
 DOMAIN-SUFFIX,approvedusedbmw.com
+DOMAIN-SUFFIX,apps.evozi.com
 DOMAIN-SUFFIX,apps5.oingo.com
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,appshopper.com
@@ -2381,6 +2382,7 @@ DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,archive.fo
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archive.today
@@ -5303,6 +5305,7 @@ DOMAIN-SUFFIX,chyoa.com
 DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,ci-en.net
 DOMAIN-SUFFIX,ciattackers.com
+DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,cienen.com
 DOMAIN-SUFFIX,cilk.com
 DOMAIN-SUFFIX,cilk.net
