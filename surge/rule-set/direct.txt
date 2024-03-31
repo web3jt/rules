@@ -382,7 +382,6 @@ DOMAIN,tac.googleapis.com
 DOMAIN,tesla-cdn.thron.cn
 DOMAIN,test.bugs-qa.chromium.org
 DOMAIN,test.gbugs-qa.chromium.org
-DOMAIN,testflight.apple.com
 DOMAIN,tools.google.com
 DOMAIN,tools.l.google.com
 DOMAIN,up.corp.goog
