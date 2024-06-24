@@ -48,6 +48,7 @@ DOMAIN,borgmon.adz.google.com
 DOMAIN,build.microsoft.com
 DOMAIN,c.admob.com
 DOMAIN,c.android.clients.google.com
+DOMAIN,c.pki.goog
 DOMAIN,cache-management-prod.google.com
 DOMAIN,cache.pack.google.com
 DOMAIN,cdn-cn1.apple-mapkit.com
@@ -210,6 +211,7 @@ DOMAIN,gvt2-cn.com
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
 DOMAIN,hospital.pku.edu.cn
+DOMAIN,i.pki.goog
 DOMAIN,iadsdk.apple.com
 DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN,icloud.cdn-apple.com
@@ -274,6 +276,7 @@ DOMAIN,msgr.dlservice.microsoft.com
 DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,music.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
+DOMAIN,o.pki.goog
 DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.pki.goog
