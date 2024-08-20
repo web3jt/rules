@@ -5631,6 +5631,7 @@ DOMAIN-SUFFIX,adtracking.vinden.nl
 DOMAIN-SUFFIX,adtraction.com
 DOMAIN-SUFFIX,adtrade.net
 DOMAIN-SUFFIX,adtrader.com
+DOMAIN-SUFFIX,adtrafficquality.google
 DOMAIN-SUFFIX,adtrak.net
 DOMAIN-SUFFIX,adtraxx.de
 DOMAIN-SUFFIX,adtrgt.com
@@ -8432,7 +8433,6 @@ DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
 DOMAIN-SUFFIX,app-analytics.snapchat.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app.adjust.io
-DOMAIN-SUFFIX,app.adjust.net.in
 DOMAIN-SUFFIX,app.adjust.world
 DOMAIN-SUFFIX,app.airtrack.jp
 DOMAIN-SUFFIX,app.amazon-line.com
@@ -9888,7 +9888,6 @@ DOMAIN-SUFFIX,ayads.co
 DOMAIN-SUFFIX,ayaghlq.com
 DOMAIN-SUFFIX,ayahspollent.top
 DOMAIN-SUFFIX,ayarkkyjrmqzw.top
-DOMAIN-SUFFIX,aybereklam.com
 DOMAIN-SUFFIX,ayboll.com
 DOMAIN-SUFFIX,aybvfvlyrtbskvy.com
 DOMAIN-SUFFIX,aycalfcwwgf.com
@@ -10227,6 +10226,7 @@ DOMAIN-SUFFIX,baijs06.shop
 DOMAIN-SUFFIX,baijs06.xyz
 DOMAIN-SUFFIX,baijs07.shop
 DOMAIN-SUFFIX,baijs07.xyz
+DOMAIN-SUFFIX,baijs08.shop
 DOMAIN-SUFFIX,baijs08.xyz
 DOMAIN-SUFFIX,baikalize.com
 DOMAIN-SUFFIX,bailedgatheringmirth.com
@@ -17262,7 +17262,6 @@ DOMAIN-SUFFIX,counter.web.money
 DOMAIN-SUFFIX,counter.webmart.de
 DOMAIN-SUFFIX,counter.webmedia.pl
 DOMAIN-SUFFIX,counter.websiteout.net
-DOMAIN-SUFFIX,counter.wikiwiki.jp
 DOMAIN-SUFFIX,counter.xxxcool.com
 DOMAIN-SUFFIX,counter.zerohedge.com
 DOMAIN-SUFFIX,counter1.bravenet.com
@@ -19377,6 +19376,7 @@ DOMAIN-SUFFIX,daailynews.com
 DOMAIN-SUFFIX,daartads.com
 DOMAIN-SUFFIX,daast.digitalbox.ru
 DOMAIN-SUFFIX,dab.rus-km.ru
+DOMAIN-SUFFIX,dabajd.xyz
 DOMAIN-SUFFIX,dabblercissies.com
 DOMAIN-SUFFIX,dabiaozhi.com
 DOMAIN-SUFFIX,dable.io
@@ -21671,6 +21671,7 @@ DOMAIN-SUFFIX,doujs06.shop
 DOMAIN-SUFFIX,doujs06.xyz
 DOMAIN-SUFFIX,doujs07.shop
 DOMAIN-SUFFIX,doujs07.xyz
+DOMAIN-SUFFIX,doujs08.shop
 DOMAIN-SUFFIX,doujs08.xyz
 DOMAIN-SUFFIX,doujs09.xyz
 DOMAIN-SUFFIX,doukoula.com
@@ -24405,7 +24406,6 @@ DOMAIN-SUFFIX,exactconfigurationhasten.com
 DOMAIN-SUFFIX,exactdrive.com
 DOMAIN-SUFFIX,exactsag.com
 DOMAIN-SUFFIX,exacttarget.api.mashery.com
-DOMAIN-SUFFIX,exacttarget.com
 DOMAIN-SUFFIX,exad.smi2.ru
 DOMAIN-SUFFIX,exaggeratekindnessvocal.com
 DOMAIN-SUFFIX,exaleprn.com
@@ -30447,6 +30447,7 @@ DOMAIN-SUFFIX,hewmjifrn4gway.com
 DOMAIN-SUFFIX,hewokhn.com
 DOMAIN-SUFFIX,hewomenentail.com
 DOMAIN-SUFFIX,hewonderfulst.info
+DOMAIN-SUFFIX,hewrutu.top
 DOMAIN-SUFFIX,hexagon-analytics.com
 DOMAIN-SUFFIX,hexapinow.xyz
 DOMAIN-SUFFIX,hexcan.com
@@ -35151,6 +35152,7 @@ DOMAIN-SUFFIX,jyhxhsdgxbvcnj.com
 DOMAIN-SUFFIX,jyisloa.top
 DOMAIN-SUFFIX,jyjhjopmq.com
 DOMAIN-SUFFIX,jyjmpatmgk.com
+DOMAIN-SUFFIX,jyjrbz.xyz
 DOMAIN-SUFFIX,jylgvkxgfy.com
 DOMAIN-SUFFIX,jynginedoddle.top
 DOMAIN-SUFFIX,jynp9m209p.com
@@ -35812,6 +35814,7 @@ DOMAIN-SUFFIX,kjsvvnzcto.com
 DOMAIN-SUFFIX,kjubky.xyz
 DOMAIN-SUFFIX,kjuftmdofmsrhq.com
 DOMAIN-SUFFIX,kjvaqbyebqarl.top
+DOMAIN-SUFFIX,kjxhd.cn
 DOMAIN-SUFFIX,kjyouhp.com
 DOMAIN-SUFFIX,kkacrgx.icu
 DOMAIN-SUFFIX,kkbbjtfp.xyz
@@ -36427,7 +36430,6 @@ DOMAIN-SUFFIX,l-fb.co
 DOMAIN-SUFFIX,l-histoire.fr
 DOMAIN-SUFFIX,l-iw.de
 DOMAIN-SUFFIX,l-sspcash.adxcore.com
-DOMAIN-SUFFIX,l.bfmtv.com
 DOMAIN-SUFFIX,l.da-te.jp
 DOMAIN-SUFFIX,l.fairblocker.com
 DOMAIN-SUFFIX,l.ffsagami.com
@@ -41097,6 +41099,7 @@ DOMAIN-SUFFIX,mixpanel-proxy.ted.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mixpo.com
 DOMAIN-SUFFIX,mixtraff.com
+DOMAIN-SUFFIX,miycoc.xyz
 DOMAIN-SUFFIX,miyqoyyazdal.com
 DOMAIN-SUFFIX,mizensdisney.com
 DOMAIN-SUFFIX,mizonevn.shop
@@ -43925,6 +43928,7 @@ DOMAIN-SUFFIX,ninetypastime.com
 DOMAIN-SUFFIX,ningdblukzqp.com
 DOMAIN-SUFFIX,ningme.ru
 DOMAIN-SUFFIX,ninja.akamaized.net
+DOMAIN-SUFFIX,ninja.data.olxcdn.com
 DOMAIN-SUFFIX,ninja.onap.io
 DOMAIN-SUFFIX,ninkorant.online
 DOMAIN-SUFFIX,ninnycoastal.com
