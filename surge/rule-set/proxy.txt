@@ -19,6 +19,8 @@ DOMAIN,adobe-dns-3.adobe.com
 DOMAIN,adobe-dns-4.adobe.com
 DOMAIN,adobe-dns.adobe.com
 DOMAIN,adobeereg.com
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,alt1-mtalk.google.com
 DOMAIN,alt2-mtalk.google.com
@@ -1074,6 +1076,7 @@ DOMAIN-SUFFIX,abellalist.com
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abematv.co.jp
 DOMAIN-SUFFIX,abgsp1.buzz
 DOMAIN-SUFFIX,abigass.com
 DOMAIN-SUFFIX,abitno.linpie.com
@@ -1404,6 +1407,7 @@ DOMAIN-SUFFIX,ahxxx.club
 DOMAIN-SUFFIX,ai-kan.net
 DOMAIN-SUFFIX,ai-wen.net
 DOMAIN-SUFFIX,ai.binwang.me
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org
@@ -5690,6 +5694,7 @@ DOMAIN-SUFFIX,clinical-videos.com
 DOMAIN-SUFFIX,clinicalkey.com
 DOMAIN-SUFFIX,clip16.com
 DOMAIN-SUFFIX,clipcake.com
+DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,cliphayho.com
 DOMAIN-SUFFIX,cliphunter.com
@@ -6612,6 +6617,7 @@ DOMAIN-SUFFIX,didilist.com
 DOMAIN-SUFFIX,didimobility.co.jp
 DOMAIN-SUFFIX,dierectv.com
 DOMAIN-SUFFIX,difangwenge.org
+DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,digicert-validation.com
 DOMAIN-SUFFIX,digicert.com
@@ -12730,6 +12736,7 @@ DOMAIN-SUFFIX,japxtube.com
 DOMAIN-SUFFIX,jasa3dmax.com
 DOMAIN-SUFFIX,jasaautocad.com
 DOMAIN-SUFFIX,jasmin.com
+DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,jav-angel.net
 DOMAIN-SUFFIX,jav-subtitles.com
 DOMAIN-SUFFIX,jav-vr.net
