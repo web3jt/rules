@@ -334,6 +334,7 @@ DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN,ubistatic3-a.akamaihd.net
 DOMAIN,ulrichsweb.serialssolutions.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,ve-dash-uk-live.akamaized.net
 DOMAIN,ve-uhd-push-uk-live.akamaized.net
 DOMAIN,venmo.s3.amazonaws.com
@@ -3722,6 +3723,8 @@ DOMAIN-SUFFIX,bild.de
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,biliworld.com
 DOMAIN-SUFFIX,bill-safe.com
@@ -7058,6 +7061,7 @@ DOMAIN-SUFFIX,drdremonsterdre.com
 DOMAIN-SUFFIX,drdreprobeatssale.com
 DOMAIN-SUFFIX,dreamamateurs.com
 DOMAIN-SUFFIX,dreambmw.ca
+DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,dreamforce.com
 DOMAIN-SUFFIX,dreammovies.com
 DOMAIN-SUFFIX,dreamteamfc.com
@@ -10830,6 +10834,7 @@ DOMAIN-SUFFIX,herokussl.com
 DOMAIN-SUFFIX,herringnetwork.com
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hetzner.company
 DOMAIN-SUFFIX,hetzner.de
 DOMAIN-SUFFIX,heungkongdiscuss.com
 DOMAIN-SUFFIX,hex.pm
@@ -12551,6 +12556,7 @@ DOMAIN-SUFFIX,iproperty.com.sg
 DOMAIN-SUFFIX,iptv.com.tw
 DOMAIN-SUFFIX,iptvbin.com
 DOMAIN-SUFFIX,ipvanish.com
+DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,iqiyiavlive.buzz
 DOMAIN-SUFFIX,iqq2.cc
 DOMAIN-SUFFIX,iqq3.cc
