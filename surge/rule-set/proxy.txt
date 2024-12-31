@@ -12507,6 +12507,7 @@ DOMAIN-SUFFIX,grimsbytec.ac.uk
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,grotty-monday.com
+DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,groupfun.com
 DOMAIN-SUFFIX,groups.com
 DOMAIN-SUFFIX,grows.ac.uk
@@ -13630,6 +13631,7 @@ DOMAIN-SUFFIX,hpindigopress.com
 DOMAIN-SUFFIX,hpinkjet.com
 DOMAIN-SUFFIX,hpinstantink.ca
 DOMAIN-SUFFIX,hpinstantink.com
+DOMAIN-SUFFIX,hpjav.com
 DOMAIN-SUFFIX,hpjav.tv
 DOMAIN-SUFFIX,hpkeyboard.com
 DOMAIN-SUFFIX,hplaptop.com
@@ -14014,6 +14016,7 @@ DOMAIN-SUFFIX,iask.bz
 DOMAIN-SUFFIX,iask.ca
 DOMAIN-SUFFIX,iat.ac.uk
 DOMAIN-SUFFIX,iav19.com
+DOMAIN-SUFFIX,iavian.net
 DOMAIN-SUFFIX,iavnight.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibd-boost.ac.uk
@@ -21246,6 +21249,7 @@ DOMAIN-SUFFIX,pccwsolutions.com
 DOMAIN-SUFFIX,pcdvd.com.tw
 DOMAIN-SUFFIX,pcfe.ac.uk
 DOMAIN-SUFFIX,pcfeonline.ac.uk
+DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,pchome.com.tw
 DOMAIN-SUFFIX,pchomeec.tw
 DOMAIN-SUFFIX,pchomeonline.com.tw
