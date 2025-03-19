@@ -35,6 +35,7 @@ payload:
   - DOMAIN,api.github.com
 
   # > Google Gemini
+  - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google.com
 
@@ -90,6 +91,3 @@ payload:
   # > Sora
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN,sora-cdn.oaistatic.com
-
-  # > AI
-  - DOMAIN-SUFFIX,ai
