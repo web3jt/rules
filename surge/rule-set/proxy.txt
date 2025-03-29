@@ -272,7 +272,6 @@ DOMAIN,publicca.googleapis.com
 DOMAIN,push-apple.com.akadns.net
 DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,qualcomm.sc.omtrdc.net
-DOMAIN,reddit.map.fastly.net
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN,sa78gs.wpc.edgecastcdn.net
