@@ -3679,6 +3679,7 @@ DOMAIN-SUFFIX,onmypc.net
 DOMAIN-SUFFIX,onmypc.org
 DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,ontrac.com
+DOMAIN-SUFFIX,oojj.de
 DOMAIN-SUFFIX,open.com.hk
 DOMAIN-SUFFIX,open.firstory.me
 DOMAIN-SUFFIX,openai.com
