@@ -1043,7 +1043,6 @@ DOMAIN-SUFFIX,clipfish.de
 DOMAIN-SUFFIX,cloud.dify.ai
 DOMAIN-SUFFIX,cloud.mail.ru
 DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,club1069.com
 DOMAIN-SUFFIX,clubhouseapi.com
@@ -1402,6 +1401,7 @@ DOMAIN-SUFFIX,dw-world.com
 DOMAIN-SUFFIX,dw-world.de
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,dw.de
+DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,dwnews.com
 DOMAIN-SUFFIX,dwnews.net
 DOMAIN-SUFFIX,dynamic-dns.net
@@ -2683,6 +2683,7 @@ DOMAIN-SUFFIX,inxian.com
 DOMAIN-SUFFIX,iownyour.org
 DOMAIN-SUFFIX,ipdefenseforum.com
 DOMAIN-SUFFIX,ipfire.org
+DOMAIN-SUFFIX,ipfs.4everland.io
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,iphone4hongkong.com
 DOMAIN-SUFFIX,iphonetaiwan.org
@@ -3509,6 +3510,7 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,nga.mil
 DOMAIN-SUFFIX,ngensis.com
 DOMAIN-SUFFIX,nhentai.net
@@ -4540,6 +4542,7 @@ DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,storj.io
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,stormmediagroup.com
+DOMAIN-SUFFIX,storry.tv
 DOMAIN-SUFFIX,stoweboyd.com
 DOMAIN-SUFFIX,straitstimes.com
 DOMAIN-SUFFIX,stranabg.com
@@ -5360,6 +5363,7 @@ DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vultryhw.com
 DOMAIN-SUFFIX,w-pool.com
 DOMAIN-SUFFIX,w.idaiwan.com
+DOMAIN-SUFFIX,w3s.link
 DOMAIN-SUFFIX,waffle1999.com
 DOMAIN-SUFFIX,wahas.com
 DOMAIN-SUFFIX,waikeung.org
