@@ -1738,6 +1738,7 @@ DOMAIN-SUFFIX,focustaiwan.tw
 DOMAIN-SUFFIX,focusvpn.com
 DOMAIN-SUFFIX,fofg.org
 DOMAIN-SUFFIX,fooooo.com
+DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,form.new
