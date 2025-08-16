@@ -3763,6 +3763,7 @@ DOMAIN-SUFFIX,palacemoon.com
 DOMAIN-SUFFIX,paljorpublications.com
 DOMAIN-SUFFIX,paltalk.com
 DOMAIN-SUFFIX,panamapapers.sueddeutsche.de
+DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pandafan.pub
 DOMAIN-SUFFIX,pandapow.co
 DOMAIN-SUFFIX,pandapow.net
@@ -3829,6 +3830,7 @@ DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,persecutionblog.com
 DOMAIN-SUFFIX,persiankitty.com
+DOMAIN-SUFFIX,pewresearch.org
 DOMAIN-SUFFIX,phapluan.org
 DOMAIN-SUFFIX,phayul.com
 DOMAIN-SUFFIX,philborges.com
@@ -3958,6 +3960,7 @@ DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,prisoneralert.com
 DOMAIN-SUFFIX,pritunl.com
 DOMAIN-SUFFIX,privacybox.de
+DOMAIN-SUFFIX,privacyguides.org
 DOMAIN-SUFFIX,private.com
 DOMAIN-SUFFIX,privateinternetaccess.com
 DOMAIN-SUFFIX,privatepaste.com
