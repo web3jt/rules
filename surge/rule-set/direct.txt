@@ -10,6 +10,7 @@ DOMAIN,adcdownload.apple.com
 DOMAIN,adcdownload.apple.com.akadns.net
 DOMAIN,admob-cn.com
 DOMAIN,adservice.google.com
+DOMAIN,afcs.dell.com
 DOMAIN,ai.zhaomi.cn
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
@@ -90,6 +91,7 @@ DOMAIN,clickserver.googleads.com
 DOMAIN,client-api.itunes.apple.com
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
+DOMAIN,clientperipherals.dell.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
@@ -113,8 +115,10 @@ DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
 DOMAIN,ctldl.windowsupdate.com
 DOMAIN,cueme-api.quark.cn
+DOMAIN,customization-cdn.dell.com
 DOMAIN,dartsearch-cn.net
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
+DOMAIN,dds.dell.com
 DOMAIN,dejavu.apple.com
 DOMAIN,devblogs.microsoft.com
 DOMAIN,developer.microsoft.com
@@ -122,6 +126,7 @@ DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
 DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
+DOMAIN,dl.dell.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,docs.microsoft.com
@@ -134,20 +139,30 @@ DOMAIN,download.qatp1.net
 DOMAIN,download.tensorflow.google.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,ea2cn-dev-outlet.dell.com
+DOMAIN,ea2cn-prod-outlet.dell.com
+DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,emmapplecodevice.googleapis.com
 DOMAIN,emoi-cncdn.bing.com
 DOMAIN,experiments.apple.com
 DOMAIN,f.c2r.ts.cdn.office.net
+DOMAIN,fcs.dell.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fontfiles.googleapis.com
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
 DOMAIN,fs.microsoft.com
+DOMAIN,fta.dell.com
+DOMAIN,ftaapj.dell.com
+DOMAIN,ftaemea.dell.com
+DOMAIN,ftasitapj.dell.com
 DOMAIN,g0.gstatic.com
 DOMAIN,g1.gstatic.com
 DOMAIN,g2.gstatic.com
 DOMAIN,g3.gstatic.com
+DOMAIN,gbxgateway-dev.dell.com
+DOMAIN,gbxgateway.dell.com
 DOMAIN,geetest.datasink.sensorsdata.cn
 DOMAIN,go.corp.google.com
 DOMAIN,gog-cdn-fastly.gog.com
@@ -204,6 +219,7 @@ DOMAIN,guzzoni.smoot.apple.com
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
 DOMAIN,hospital.pku.edu.cn
+DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,icloud-cdn.icloud.com.akadns.net
 DOMAIN,icloud.cdn-apple.com
@@ -268,6 +284,7 @@ DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,music.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
+DOMAIN,nexus.dell.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,ntp.aliyun.com
 DOMAIN,ntp.tencent.com
@@ -296,6 +313,7 @@ DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,osxapps.itunes.g.aaplimg.com
+DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,p1-juejin.byteimg.com
 DOMAIN,p2-juejin.byteimg.com
 DOMAIN,p3-juejin.byteimg.com
@@ -359,6 +377,7 @@ DOMAIN,s5.mzstatic.com
 DOMAIN,safebrowsing-cache.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,scanservice1.qcpp1.net
+DOMAIN,scene7-cdn.dell.com
 DOMAIN,sdx.microsoft.com
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se2.itunes.apple.com
@@ -372,9 +391,13 @@ DOMAIN,sf-api-token-service.itunes.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
+DOMAIN,si.cdn.dell.com
 DOMAIN,silverlight.dlservice.microsoft.com
 DOMAIN,slupdate.dlservice.microsoft.com
+DOMAIN,sm.dell.com
 DOMAIN,smp-device-content.apple.com
+DOMAIN,snp.cdn.dell.com
+DOMAIN,snpi.dell.com
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,ss.bjmu.edu.cn
@@ -406,6 +429,7 @@ DOMAIN,sup.corp.google.com
 DOMAIN,sup.l.google.com
 DOMAIN,support-china.apple-support.akadns.net
 DOMAIN,support.apple.com
+DOMAIN,supportassist.dell.com
 DOMAIN,surface.downloads.prss.microsoft.com
 DOMAIN,swallow-apple-com.v.aaplimg.com
 DOMAIN,swallow.apple.com
@@ -452,11 +476,13 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
+DOMAIN,www-csb.dell.com
 DOMAIN,www-google-analytics.l.google.com
 DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.amd.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN,www.dell.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.entrust.cn
 DOMAIN,www.gstatic.com
@@ -26121,7 +26147,6 @@ DOMAIN-SUFFIX,copcsc.org
 DOMAIN-SUFFIX,copl.com.hk
 DOMAIN-SUFFIX,copperalliance.asia
 DOMAIN-SUFFIX,copperhome.net
-DOMAIN-SUFFIX,copy-manga.com
 DOMAIN-SUFFIX,copyedu.com
 DOMAIN-SUFFIX,copyfuture.com
 DOMAIN-SUFFIX,copyswisswatches.com
@@ -29618,6 +29643,7 @@ DOMAIN-SUFFIX,delixi.com
 DOMAIN-SUFFIX,delixidrive.com
 DOMAIN-SUFFIX,deliyun.com
 DOMAIN-SUFFIX,dell-alw.com
+DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell027.com
 DOMAIN-SUFFIX,dellecs.com
 DOMAIN-SUFFIX,dellemc-solution.com
@@ -37683,6 +37709,7 @@ DOMAIN-SUFFIX,funcrea.com
 DOMAIN-SUFFIX,functionads.com
 DOMAIN-SUFFIX,functionaltextilesshanghai.com
 DOMAIN-SUFFIX,functioncool.com
+DOMAIN-SUFFIX,functiongraph.run
 DOMAIN-SUFFIX,fund001.com
 DOMAIN-SUFFIX,fundebug.com
 DOMAIN-SUFFIX,fundebug.net
@@ -68296,9 +68323,7 @@ DOMAIN-SUFFIX,manfen.net
 DOMAIN-SUFFIX,manfen5.com
 DOMAIN-SUFFIX,manfred-auto.com
 DOMAIN-SUFFIX,manfrottoclub.com
-DOMAIN-SUFFIX,mangacopy.com
 DOMAIN-SUFFIX,mangafuna.xyz
-DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,manganesenanhai.com
 DOMAIN-SUFFIX,mangg.com
 DOMAIN-SUFFIX,mangguo.com
@@ -77803,6 +77828,7 @@ DOMAIN-SUFFIX,plateno.cc
 DOMAIN-SUFFIX,plateno.com
 DOMAIN-SUFFIX,platenogroup.com
 DOMAIN-SUFFIX,platform-cn.com
+DOMAIN-SUFFIX,platform.dell.com
 DOMAIN-SUFFIX,platinum-traveller.com
 DOMAIN-SUFFIX,platinumchina.com
 DOMAIN-SUFFIX,play-analytics.com
@@ -82720,6 +82746,7 @@ DOMAIN-SUFFIX,roaing.com
 DOMAIN-SUFFIX,robam.com
 DOMAIN-SUFFIX,robei.com
 DOMAIN-SUFFIX,roboeyeai.com
+DOMAIN-SUFFIX,robomaster.com
 DOMAIN-SUFFIX,roboo.com
 DOMAIN-SUFFIX,robook.com
 DOMAIN-SUFFIX,robopeak.net
@@ -103485,7 +103512,6 @@ DOMAIN-SUFFIX,www.adobe.com
 DOMAIN-SUFFIX,www.amd.com
 DOMAIN-SUFFIX,www.cg
 DOMAIN-SUFFIX,www.com.my
-DOMAIN-SUFFIX,www.dell-brand.com
 DOMAIN-SUFFIX,www.dell.com
 DOMAIN-SUFFIX,www.djivideos.com
 DOMAIN-SUFFIX,www.gov.mo
