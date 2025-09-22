@@ -5160,7 +5160,6 @@ DOMAIN-SUFFIX,ubddns.org
 DOMAIN-SUFFIX,uberproxy.net
 DOMAIN-SUFFIX,uc-japan.org
 DOMAIN-SUFFIX,uchicago.edu
-DOMAIN-SUFFIX,uderzo.it
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,udn.com.tw
 DOMAIN-SUFFIX,udnbkk.com
