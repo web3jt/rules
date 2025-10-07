@@ -4476,6 +4476,7 @@ DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,solarsystem.nasa.gov
 DOMAIN-SUFFIX,solidaritetibet.org
 DOMAIN-SUFFIX,solidfiles.com
+DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,solv.finance
 DOMAIN-SUFFIX,somee.com
 DOMAIN-SUFFIX,songjianjun.com

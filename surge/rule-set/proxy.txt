@@ -25234,6 +25234,7 @@ DOMAIN-SUFFIX,solidfiles.com
 DOMAIN-SUFFIX,solihull.ac.uk
 DOMAIN-SUFFIX,solihullsfc.ac.uk
 DOMAIN-SUFFIX,solostudioksale.com
+DOMAIN-SUFFIX,solscan.io
 DOMAIN-SUFFIX,solsfc.ac.uk
 DOMAIN-SUFFIX,solutions-worcestershire.ac.uk
 DOMAIN-SUFFIX,solutionstation.com
