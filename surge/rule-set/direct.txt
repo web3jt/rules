@@ -279,8 +279,6 @@ DOMAIN,misc-assets.itunes.apple.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,monitoring.qpdp1.net
 DOMAIN,moocs.unipus.cn
-DOMAIN,msgr.dlservice.microsoft.com
-DOMAIN,msgruser.dlservice.microsoft.com
 DOMAIN,music.apple.com
 DOMAIN,myapp.itunes.apple.com
 DOMAIN,myvs.download.prss.microsoft.com
@@ -345,7 +343,6 @@ DOMAIN,proxyconfig.corp.google.com
 DOMAIN,publicassets.cdn-apple.com
 DOMAIN,qagpublic.qatp1.net
 DOMAIN,qgadmin.qcpp1.net
-DOMAIN,qh.dlservice.microsoft.com
 DOMAIN,qiao-cn.com
 DOMAIN,qpx.googleflights.net
 DOMAIN,qualysapi.qatp1.net
@@ -392,8 +389,6 @@ DOMAIN,sh-pod2-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
 DOMAIN,si.cdn.dell.com
-DOMAIN,silverlight.dlservice.microsoft.com
-DOMAIN,slupdate.dlservice.microsoft.com
 DOMAIN,sm.dell.com
 DOMAIN,smp-device-content.apple.com
 DOMAIN,snp.cdn.dell.com
@@ -473,7 +468,6 @@ DOMAIN,weather-data.apple.com.akadns.net
 DOMAIN,weather-map.apple.com
 DOMAIN,weather-map2.apple.com
 DOMAIN,weatherkit.apple.com
-DOMAIN,wl.dlservice.microsoft.com
 DOMAIN,wscont1.apps.microsoft.com
 DOMAIN,wscont2.apps.microsoft.com
 DOMAIN,www-csb.dell.com
@@ -493,7 +487,6 @@ DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
 DOMAIN,www.ztedevices.com
 DOMAIN,www4-static.gog-statics.com
-DOMAIN,xb.dlservice.microsoft.com
 DOMAIN,xn--flw351e.com
 DOMAIN,xp.apple.com
 DOMAIN,xz.pphimalayanrt.com
