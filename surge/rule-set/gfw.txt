@@ -191,6 +191,7 @@ DOMAIN-SUFFIX,agnesb.fr
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai.binwang.me
+DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,aiosearch.com
 DOMAIN-SUFFIX,aiph.net
 DOMAIN-SUFFIX,airasia.com
