@@ -554,6 +554,7 @@ DOMAIN-SUFFIX,bird.so
 DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitbaby.com
 DOMAIN-SUFFIX,bitbay.net
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitcointalk.org
@@ -2630,6 +2631,7 @@ DOMAIN-SUFFIX,iconpaper.org
 DOMAIN-SUFFIX,icu-project.org
 DOMAIN-SUFFIX,id.hao123.com
 DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,idemocracy.asia
 DOMAIN-SUFFIX,identi.ca
 DOMAIN-SUFFIX,idiomconnection.com
