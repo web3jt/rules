@@ -2936,10 +2936,12 @@ DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,atgfw.org
 DOMAIN-SUFFIX,athenaeizou.com
 DOMAIN-SUFFIX,atkgallery.com
+DOMAIN-SUFFIX,atl-paas.net
 DOMAIN-SUFFIX,atlanta168.com
 DOMAIN-SUFFIX,atlantaminidealers.com
 DOMAIN-SUFFIX,atlasdmt.com
 DOMAIN-SUFFIX,atlasonepoint.com
+DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,atnext.com
@@ -9573,6 +9575,9 @@ DOMAIN-SUFFIX,fotolia.tv
 DOMAIN-SUFFIX,fotolja.com
 DOMAIN-SUFFIX,fotoscaserasx.com
 DOMAIN-SUFFIX,foundationdb.org
+DOMAIN-SUFFIX,foundationdns.com
+DOMAIN-SUFFIX,foundationdns.net
+DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,fountmedia.io
 DOMAIN-SUFFIX,fourthinternational.org
 DOMAIN-SUFFIX,fourthns.systems
@@ -13691,6 +13696,7 @@ DOMAIN-SUFFIX,jinpianwang.com
 DOMAIN-SUFFIX,jinrizhiyi.news
 DOMAIN-SUFFIX,jintian.net
 DOMAIN-SUFFIX,jinx.com
+DOMAIN-SUFFIX,jira.com
 DOMAIN-SUFFIX,jitouch.com
 DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,jiuse.ai
@@ -21456,6 +21462,7 @@ DOMAIN-SUFFIX,srcf.ucam.org
 DOMAIN-SUFFIX,srebrenica360.com
 DOMAIN-SUFFIX,srtcdn.net
 DOMAIN-SUFFIX,srttu.edu
+DOMAIN-SUFFIX,ss-inf.net
 DOMAIN-SUFFIX,ss-link.com
 DOMAIN-SUFFIX,ss.pythonic.life
 DOMAIN-SUFFIX,ss2.us
