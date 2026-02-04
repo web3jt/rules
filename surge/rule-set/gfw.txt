@@ -3826,6 +3826,7 @@ DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,padmanet.com
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,page2rss.com
+DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,paimon.moe
 DOMAIN-SUFFIX,palacemoon.com
 DOMAIN-SUFFIX,paljorpublications.com
@@ -4364,6 +4365,7 @@ DOMAIN-SUFFIX,seed4.me
 DOMAIN-SUFFIX,seesmic.com
 DOMAIN-SUFFIX,seevpn.com
 DOMAIN-SUFFIX,seezone.net
+DOMAIN-SUFFIX,sef.org.tw
 DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,sehuatang.org
 DOMAIN-SUFFIX,sejie.com
@@ -5709,6 +5711,7 @@ DOMAIN-SUFFIX,www.dwheeler.com
 DOMAIN-SUFFIX,www.eastturkistan.net
 DOMAIN-SUFFIX,www.gmiddle.com
 DOMAIN-SUFFIX,www.gmiddle.net
+DOMAIN-SUFFIX,www.hoyolab.com
 DOMAIN-SUFFIX,www.hustlercash.com
 DOMAIN-SUFFIX,www.idlcoyote.com
 DOMAIN-SUFFIX,www.imdb.com
