@@ -1261,6 +1261,7 @@ DOMAIN-SUFFIX,free.com.tw
 DOMAIN-SUFFIX,freebeacon.com
 DOMAIN-SUFFIX,freebrowser.org
 DOMAIN-SUFFIX,freechinaweibo.com
+DOMAIN-SUFFIX,freedom.gov
 DOMAIN-SUFFIX,freedomhouse.org
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freedomsherald.org
