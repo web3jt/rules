@@ -7425,6 +7425,7 @@ zeenews-fonts.s3.amazonaws.com
 .dowjoneson.com
 .download.aircrack-ng.org
 .download.com
+.download.dappcdn.com
 .download.qatp1.net
 .downloadpass.com
 .downloadsforipod.com
@@ -17832,6 +17833,10 @@ zeenews-fonts.s3.amazonaws.com
 .pleasurebabe.com
 .pleasuregirl.net
 .pleasuremore.com
+.plex.com
+.plex.services
+.plex.tv
+.plexapp.com
 .plexvpn.pro
 .plos.org
 .plug-into.com
