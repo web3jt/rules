@@ -2456,6 +2456,7 @@ zeenews-fonts.s3.amazonaws.com
 .app-dynamics.com
 .app-measurement-cn.com
 .app-measurement.com
+.app-pay.jp
 .app-store.wang
 .app.box.com
 .app.smartmailcloud.com
@@ -19288,6 +19289,7 @@ zeenews-fonts.s3.amazonaws.com
 .samsunggalaxyfriends.com
 .samsunghealth.com
 .samsungiotcloud.com
+.samsungiots.com
 .samsungknox.com
 .samsungosp.com
 .samsungqbe.com
@@ -20133,6 +20135,7 @@ zeenews-fonts.s3.amazonaws.com
 .smartonesolutions.com.hk
 .smartonesolutions.hk
 .smartstream.ne.jp
+.smartthings.com
 .smashed.xxx
 .smbc.co.jp
 .smbctb.co.jp
