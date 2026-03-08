@@ -81,7 +81,6 @@ cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
 cdn-spotify-experiments.conductrics.com
 cdn.js7k.com
-cdn.jsdelivr.net
 cdngarenanow-a.akamaihd.net
 chinapower.csis.org
 cisco.evergage.com
@@ -7705,6 +7704,7 @@ zeenews-fonts.s3.amazonaws.com
 .dynamobuilds.com
 .dynamopackages.com
 .dynamoreach.com
+.dynatrace.com
 .dynawebinc.com
 .dyncdn.me
 .dynu.com
@@ -8753,6 +8753,7 @@ zeenews-fonts.s3.amazonaws.com
 .familypies.net
 .familyporn.tv
 .familypornhd.com
+.familysearch.org
 .familysexsimulator.com
 .familysimulator.com
 .familysimulator.io
@@ -19846,6 +19847,7 @@ zeenews-fonts.s3.amazonaws.com
 .shit-porn.net
 .shithd.com
 .shitjav.com
+.shitjournal.org
 .shittytube.com
 .shixiao.org
 .shizhao.org
