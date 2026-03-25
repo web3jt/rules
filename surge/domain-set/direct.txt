@@ -118,6 +118,7 @@ crls.pki.goog
 csi.gstatic.com
 cstat.apple.com
 cstat.cdn-apple.com
+ctdsb.clouddiffuse.xyz
 ctldl.windowsupdate.com
 cueme-api.quark.cn
 customization-cdn.dell.com
@@ -13421,6 +13422,7 @@ xz.pphimalayanrt.com
 .anhuisjx.com
 .anhuisuya.com
 .anhuiwine.com
+.anhuiyun.com
 .anhuizk.com
 .ani-sh.com
 .aniccw.net
