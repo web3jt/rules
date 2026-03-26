@@ -292,6 +292,7 @@ is5.mzstatic.com
 itunes-apple.com.akadns.net
 itunes.apple.com
 itunesconnect.apple.com
+izattime.qcomgeo2.com
 js-cdn.music.apple.com
 km.support.apple.com
 ksn-cinfo-geo.kaspersky-labs.com
@@ -587,6 +588,7 @@ www.support.apple.com
 www4-static.gog-statics.com
 xn--flw351e.com
 xp.apple.com
+xtratime.qcomgeo2.com
 xz.pphimalayanrt.com
 .0.zone
 .00.net
@@ -66406,7 +66408,6 @@ xz.pphimalayanrt.com
 .lousj.com
 .lousw.com
 .louyue.com
-.lovart.ai
 .lovcuty.com
 .love-freedom.com
 .love-math-edu.com
