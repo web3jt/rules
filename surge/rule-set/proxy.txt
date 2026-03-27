@@ -19265,7 +19265,6 @@ DOMAIN-SUFFIX,s-msn.com
 DOMAIN-SUFFIX,s-nbcnews.com
 DOMAIN-SUFFIX,s-rewards.hk
 DOMAIN-SUFFIX,s-xoom.com
-DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,s1s1s1.com
 DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
