@@ -559,6 +559,7 @@ DOMAIN,wip2.adobe.com
 DOMAIN,wip3.adobe.com
 DOMAIN,wip4.adobe.com
 DOMAIN,wrds-www.wharton.upenn.edu
+DOMAIN,ws.audioscrobbler.com
 DOMAIN,wwis-dubc1-vip100.adobe.com
 DOMAIN,wwis-dubc1-vip101.adobe.com
 DOMAIN,wwis-dubc1-vip102.adobe.com
@@ -8358,6 +8359,7 @@ DOMAIN-SUFFIX,esg.t91y.com
 DOMAIN-SUFFIX,eskimotube.com
 DOMAIN-SUFFIX,eslite.com
 DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,esmarthealth.com
 DOMAIN-SUFFIX,esmatube.com
 DOMAIN-SUFFIX,esopworld.com
@@ -17931,6 +17933,7 @@ DOMAIN-SUFFIX,pjbyj.top
 DOMAIN-SUFFIX,pjful-app.lol
 DOMAIN-SUFFIX,pjgirls.com
 DOMAIN-SUFFIX,pjsekai.sega.jp
+DOMAIN-SUFFIX,pkgbuild.com
 DOMAIN-SUFFIX,pki-post.ch
 DOMAIN-SUFFIX,pki-posta.ch
 DOMAIN-SUFFIX,pki-poste.ch
