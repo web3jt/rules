@@ -14,6 +14,11 @@ payload:
   - DOMAIN,swcdn.apple.com
   - DOMAIN,updates-http.cdn-apple.com
 
+  # > Apple Developer
+  - DOMAIN-SUFFIX,appstoreconnect.apple.com
+  - DOMAIN-SUFFIX,itunesconnect.apple.com
+  - DOMAIN,contentdelivery.itunes.apple.com
+
   # > Epic
   - DOMAIN-KEYWORD,epicgames
 
