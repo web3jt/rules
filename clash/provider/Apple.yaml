@@ -2,6 +2,8 @@ payload:
   # > Apple API
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple-dns.net
+  - DOMAIN-SUFFIX,apple-livephotoskit.com
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple.co
   - DOMAIN-SUFFIX,apple.com
@@ -27,7 +29,3 @@ payload:
 
   # > Apple Maps
   - PROCESS-NAME,com.apple.geod
-
-  # > Apple News
-  - DOMAIN-SUFFIX,apple.comscoreresearch.com
-  - DOMAIN-SUFFIX,apple.news

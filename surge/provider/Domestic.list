@@ -26,6 +26,12 @@ DOMAIN-SUFFIX,cn
 # > Industrial and Commercial Bank of China
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 
+# > Oray / Sunlogin
+DOMAIN-SUFFIX,aweray.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,sunlogin.net
+
 # > Other domains
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,12306.com
@@ -43,6 +49,7 @@ DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,adobesc.com
 DOMAIN-SUFFIX,aiaa.org
+DOMAIN-SUFFIX,aiqicha.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
@@ -171,10 +178,12 @@ DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qichacha.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qin.io
@@ -188,6 +197,8 @@ DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rnote.com
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,servicewechat.com
@@ -273,6 +284,9 @@ DOMAIN-SUFFIX,alphassl.com
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
 
+# > RayLink
+DOMAIN-SUFFIX,raylink.live
+
 # > RRYS
 DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,zmzfile.com
@@ -294,3 +308,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # > Tencent
 IP-CIDR,182.254.116.0/24,no-resolve
+
+# > ToDesk
+DOMAIN-SUFFIX,todesk.com
