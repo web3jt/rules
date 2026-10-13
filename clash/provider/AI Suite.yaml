@@ -53,7 +53,7 @@ payload:
   - DOMAIN,workos.imgix.net
 
   # > ChatGPT Voice
-  # https://openai.com/chatgpt-voice.json (verified 2026-10-02)
+  # https://openai.com/chatgpt-voice.json (verified 2026-10-12)
   # UDP-capable outbound required for voice over UDP/3478
   - IP-CIDR,102.37.57.54/32,no-resolve
   - IP-CIDR,13.71.25.29/32,no-resolve
@@ -91,6 +91,12 @@ payload:
 
   # > Cloudflare AI Gateway
   - DOMAIN,gateway.ai.cloudflare.com
+
+  # > Cohere
+  # Hong Kong is a restricted location in the SaaS agreement
+  # https://cohere.com/saas-agreement
+  - DOMAIN-SUFFIX,cohere.ai
+  - DOMAIN-SUFFIX,cohere.com
 
   # > Cursor
   # Provider region restrictions also apply to models in Cursor
@@ -148,6 +154,13 @@ payload:
   - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN-SUFFIX,antigravity.google.com
   - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+
+  # > Google Chrome DevTools AI assistance
+  # Hong Kong is excluded from the supported locations
+  # https://developer.chrome.com/docs/devtools/ai-assistance/get-started
+  - DOMAIN,aida.googleapis.com
 
   # > Google DeepMind
   - DOMAIN-SUFFIX,deepmind.com
@@ -183,6 +196,12 @@ payload:
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN,jules.googleapis.com
 
+  # > Google Labs / Project Genie
+  # Hong Kong is absent from the Project Genie availability list (2026-10-12)
+  # Shared host: this also routes other Google Labs paths through the AI egress
+  # https://labs.google/fx/faq
+  - DOMAIN,labs.google
+
   # > Google Opal
   # Availability: https://developers.google.com/opal/faq
   - DOMAIN,appcatalyst.pa.googleapis.com
@@ -207,6 +226,14 @@ payload:
   # Shared JetBrains account hosts
   - DOMAIN,account.jetbrains.com
   - DOMAIN,oauth.account.jetbrains.com
+
+  # > Kiro
+  # Paid-plan availability does not override model providers' region restrictions
+  # https://kiro.dev/faq/
+  # https://kiro.dev/docs/privacy-and-security/firewalls/
+  - DOMAIN-SUFFIX,kiro.dev
+  - DOMAIN,q.eu-central-1.amazonaws.com
+  - DOMAIN,q.us-east-1.amazonaws.com
 
   # > Meta AI
   - DOMAIN-SUFFIX,meta.ai
@@ -238,6 +265,16 @@ payload:
 
   # > Sora
   - DOMAIN-SUFFIX,sora.com
+
+  # > TRAE International
+  # Hong Kong is absent from the current service availability list
+  # https://docs.trae.ai/ide/supported-countries-and-regions
+  # https://docs.trae.ai/ide/troubleshoot-general-issues
+  # Keep shared mchost.guru limited to the international API hosts
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,traeapi.us
+  - DOMAIN,trae-api-sg.mchost.guru
+  - DOMAIN,trae-api-us.mchost.guru
 
   # > Windsurf
   - DOMAIN-SUFFIX,codeium.com
