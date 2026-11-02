@@ -904,6 +904,7 @@ payload:
   - DOMAIN-SUFFIX,trakt.tv
   - DOMAIN-SUFFIX,transparency.org
   - DOMAIN-SUFFIX,trello.com
+  - DOMAIN-SUFFIX,trellocdn.com
   - DOMAIN-SUFFIX,trendsmap.com
   - DOMAIN-SUFFIX,trulyergonomic.com
   - DOMAIN-SUFFIX,trustasiassl.com
